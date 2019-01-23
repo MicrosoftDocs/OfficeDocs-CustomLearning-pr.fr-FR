@@ -38,6 +38,7 @@
       "breadcrumb_path": "/CustomLearning/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
+      "hide_comments": true,
       "bilingual_type": "hover over"
     },
     "fileMetadata": {},
