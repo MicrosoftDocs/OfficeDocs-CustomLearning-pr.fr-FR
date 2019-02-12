@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Vue d’ensemble de formation personnalisé pour une solution Office 365 Open Source
 ms.date: 02/10/2019
 description: Découvrez comment apprentissage personnalisé pour Office 365 peut accélérer l’utilisation et l’adoption d’Office 365 dans votre organisation. Nos solutions incluent un composant WebPart SharePoint Online personnalisé et un site de formation de communications SharePoint Online moderne qui est déployée facilement à votre client Office 365.
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886107"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951228"
 ---
 # <a name="custom-learning-for-office-365"></a>Personnalisé de formation pour Office 365
 
@@ -35,9 +35,9 @@ Sélectionnez Installer et configurer ce package de site de communication ShareP
 
 ![Personnalisé de formation pour le composant webpart Office 365](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 étapes simples
+## <a name="3-easy-steps"></a>3 étapes
 
-Vous permet de [Démarrer](getstarted.md) création une formation simple avec Microsoft à jour de contenu.
+Vous permet de [Démarrer](prereqs.md) création une formation simple avec Microsoft à jour de contenu.
 
 1. Sélectionnez la solution à droite pour vous
 2. Complète & de votre installation personnaliser votre contenu
