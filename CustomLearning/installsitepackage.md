@@ -1,29 +1,48 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Mettre en service l’expérience de site
+title: Mettre en service le site d'apprentissage personnalisé
 ms.date: 02/10/2019
-description: Mettre en service l’apprentissage personnalisé pour le site Office 365
-ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Mettre en service le site de formation personnalisée pour Office 365 via le moteur de mise en service SharePoint
+ms.openlocfilehash: e87fdcbc5bbe9b23937403d8c49a7446b7159dff
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951198"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989665"
 ---
-# <a name="provision-the-custom-learning-site"></a>Mettre en service personnalisée du Site de formation
+# <a name="provision-the-custom-learning-site"></a>Mettre en service le site d'apprentissage personnalisé
 
-1. Accédez à http://provisioning.sharepointpnp.com et se connecter à l’aide de vos informations d’identification pour la cible de clients que vous prévoyez d’utiliser pour l’installation. ![pnphome.png](media/pnphome.png)
-1. Désactivez le consentement de l’utilisateur au nom de votre organisation, puis cliquez sur Accepter.
-1. Sélectionnez apprentissage personnalisé pour Office 365 à partir de la galerie de solutions. 
-1. Sélectionnez Ajouter à votre client 
-1. Ajuster les sélections par défaut dans la page mise en service en tant que nécessaire et sélectionnez disposition lorsque vous êtes prêt à installer CLO365 dans votre environnement client.  
-1. Le processus de mise en service prendra jusqu'à 15 minutes. Vous êtes averti par courrier électronique (à l’adresse de messagerie de notification vous avez entré dans la page de mise en service) lorsque le site est prêt pour l’accès. 
-1. Une fois connecté à CLO365 dans votre client, favori du site et copiez l’url pour référence ultérieure.  
+1. Accédez à http://provisioning.sharepointpnp.com et **Connectez-vous** à partir du coin supérieur droit de la page d'accueil.  Connectez-vous avec les informations d'identification du client ciblé dans lequel vous prévoyez d'installer le modèle de site.
 
+![pnphome. png](media/inst_signin.png)
 
-## <a name="next-steps"></a>Étapes suivantes
-- Explorez le [contenu par défaut](sitecontent.md) inclus dans le composant webpart.
-- [Personnaliser](customization.md) l’expérience de formation pour votre organisation.
-- [Lecteur d’adoption](driveadoption.md) de votre solution de formation.
+2. Effacez le **consentement au nom de votre organisation** et sélectionnez **accepter**.
 
+![dans](media/inst_perms.png)
+
+3. Sélectionnez **Custom Learning for Office 365** dans la Galerie de solutions.
+
+![dans](media/inst_select.png)
+
+4. Dans la page d'accueil de la solution, sélectionnez **Ajouter à votre client** .
+
+![inst_select. png](media/inst_add.png)
+
+5. Renseignez les champs de la page informations de mise en service en fonction de votre installation. Au minimum entrez l'adresse de messagerie à laquelle vous souhaitez obtenir des notifications sur le processus de mise en service et l'URL de destination de votre site à mettre en service.  
+
+> [!NOTE]
+> Faites en sorte que l'URL de destination de votre site soit conviviale pour vos employés, par exemple «/sites/MyTraining» ou «/teams/LearnOffice365».
+
+![inst_options. png](media/inst_options.png)
+
+6. Sélectionnez **configuration** lorsque vous êtes prêt à installer CLO365 dans votre environnement client.  Le processus de mise en service prendra jusqu'à 15 minutes. Vous serez averti par e-mail (à l'adresse e-mail de notification que vous avez entrée sur la page de mise en service) lorsque le site est prêt pour l'accès.
+
+7. Une fois que la mise en service est terminée, accédez à l'URL de destination que vous avez entrée dans la page mise en service.
+
+8. Favori le site dans le coin supérieur droit et mettez l'URL en signet pour référence ultérieure.  
+
+### <a name="next-steps"></a>Étapes suivantes
+- Explorez le [contenu par défaut](sitecontent.md) inclus dans le composant WebPart.
+- [Personnaliser](customization.md) l'expérience de formation pour votre organisation.
+- Encouragez l' [adoption](driveadoption.md) de votre solution de formation.

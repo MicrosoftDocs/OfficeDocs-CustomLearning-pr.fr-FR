@@ -1,47 +1,55 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Parcourir le contenu de site et par défaut
+title: Explorer le site et le contenu par défaut
 ms.date: 02/10/2019
-description: Parcourir le contenu de site et par défaut
-ms.openlocfilehash: 1d8698b89741f6bfc9c4347c5d5b670e0680d81f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Explorer le site de formation personnalisé et le contenu par défaut
+ms.openlocfilehash: 9672d001188634f6a319daf1f539b444b1ae33d0
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951208"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989635"
 ---
-# <a name="browse-the-site-and-default-content"></a>Parcourir le contenu de site et par défaut
+# <a name="explore-the-site-and-default-content"></a>Explorer le site et le contenu par défaut
 
 ![Six étapes simples](media/clo365homepage.png)
 
-Maintenant que vous avez installé CLO365, il est temps de visite guidée du site. 
+### <a name="tour-the-site"></a>Visite guidée du site 
 
-1. Accédez à la page d’accueil et sélectionnez formation pour Office 365. Tout le contenu disponible dans le composant WebPart s’affiche.
+Accédez à la page d'accueil et sélectionnez formation Office 365. Chaque page du site SharePoint Online est configurée pour héberger le composant WebPart formation Microsoft. Cela permet à la page d'afficher tout le contenu disponible dans le composant WebPart.
 
-![composant WebPart](media/webpart.PNG)
+![WebPart](media/webpart.PNG)
 
-2. Dans la barre de menu, pointez sur Office 365 formation, puis sélectionnez main OneDrive. Dans ce cas, le composant WebPart Filtre le contenu à afficher uniquement les OneDrive le contenu, comme indiqué dans l’illustration suivante.
+Dans la barre de menus, sélectionnez l'élément de navigation **Office 365 formation** , puis sélectionnez **prise en main de OneDrive**. Dans ce cas, le composant WebPart Filtre le contenu de sorte qu'il n'affiche que le contenu OneDrive.
 
-{Insérer image}
+Répétez ces étapes pour les deux autres options de menu, **prise en main** de teams et **prise en main de SharePoint Online** pour examiner son contenu et tester la navigation.
 
-3. Répétez ces étapes pour les autres deux options de menu, commencer avec des équipes et en route avec SharePoint Online pour consulter leur contenu et de tester le volet de navigation.
-
-{Insérer image} 
-
-4. Accédez à la page d’accueil et sélectionnez Démarrer avec Six étapes simples. Vous accédez à la sélection de Six étapes Simple comme indiqué dans l’illustration suivante.  
+Revenez à la page d'accueil et sélectionnez **Démarrer avec six étapes simples**. Cette opération vous permet d'accéder à la sélection de six étapes simples.
 
 > [!TIP]
-> Les six étapes simples proviennent d’une équipe de recherche de Microsoft. Ce sont les étapes chercheurs Microsoft ont constaté plus difficiles, ce qui signifie que si les utilisateurs de passer par ces étapes, leur utilisation d’Office 365 augmentera et ils deviendront des employés plus productifs. Et qui convient pour tout le monde.
+> Les six étapes simples sont issues d'une équipe de recherche Microsoft. Voici les étapes que les chercheurs de Microsoft ont jugés les plus permanentes, ce qui signifie que si les utilisateurs passent par ces étapes, leur utilisation d'Office 365 augmentera et ils deviendront plus productifs. Et cela est idéal pour tout le monde.
 
-Accédez à démarrer avec six étapes simples
-- Dans la page d’accueil, cliquez sur Démarrer avec six étapes simples. 
-- Vous voyez la page de formation Office avec le composant WebPart personnalisé Learning acheminé vers le début avec six étapes de la sélection.  
+### <a name="go-to-start-with-six-simple-steps"></a>Accédez au menu démarrer en six étapes simples
+- À partir de la page d'accueil, cliquez sur Démarrer avec six étapes simples. 
+- Vous voyez la page formation Office avec le composant WebPart formation personnalisée routé vers la sélection démarrer avec six étapes simples.  
 
 ![Sélection de six étapes](media/clo365sixsteps.png)
 
-Votre site est maintenant configuré avec le contenu affiché sur chaque page. Si vous souhaitez personnaliser le contenu de formation sur le site, consultez formation personnalisé pour Office 365-Guide administrateur à la personnalisation. 
+### <a name="view-a-list-of-playlists-for-a-category"></a>Afficher une liste de sélections pour une catégorie
+
+À partir de la page formation Office 365, sélectionnez formation Excel pour accéder à une liste de sélections de formation Excel.
+
+![content_excel. png](media/content_excel.png)
+
+### <a name="view-a-playlist"></a>Afficher une sélection
+
+Cliquez sur **Bienvenue dans Excel** pour afficher la sélection.
+
+![content_exwel. png](media/content_exwel.png)
+
+Votre site est maintenant configuré avec le contenu correct affiché sur chaque page. 
 
 ## <a name="next-steps"></a>Étapes suivantes
-[Personnaliser le contenu du site](customization.md)
-[lecteur d’adoption](driveadoption.md) 
+- [Personnaliser le contenu du site](customization.md)
+- [Adoption des lecteurs](driveadoption.md) 

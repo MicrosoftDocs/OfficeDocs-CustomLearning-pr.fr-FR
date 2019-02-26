@@ -2,51 +2,50 @@
 author: pkrebs
 ms.author: pkrebs
 title: Vue d’ensemble
-ms.date: 02/15/2019
+ms.date: 02/18/2019
 description: Vue d'ensemble de la formation personnalisée pour Office 365 pour les administrateurs
-ms.openlocfilehash: c4b9679ae5a7158306bfd53e345f8e892ab206bc
-ms.sourcegitcommit: afb5502604d271f49f6d1133db9dfc499f710eec
+ms.openlocfilehash: 98187038b66252523c74d88dd9bfd0f217591bc5
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30064984"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30087533"
 ---
-# <a name="overview-of-custom-learning"></a>Vue d'ensemble de l'apprentissage personnalisé
+# <a name="customize-the-learning-experience"></a>Personnaliser l'expérience d'apprentissage
+
 INTRODUCTION personnalisée pour Office 365, une nouvelle solution Microsoft conçue pour accélérer l'utilisation et l'adoption d'Office 365 au sein d'une organisation. Grâce à l'apprentissage personnalisé, vous pouvez:
+- Personnalisation du contenu d'apprentissage et d'adoption Office 365 pour votre environnement 
+- Masquer ou afficher le contenu pour refléter les services ou fonctionnalités pris en charge dans votre organisation 
+- Mise à jour de votre contenu et de vos utilisateurs avec un flux de mise à jour du contenu de formation de Microsoft 
+- Créer des listes de lecture et des catégories personnalisées conçues spécifiquement pour répondre aux besoins de vos utilisateurs
 
-- Personnalisez l'apprentissage personnalisé pour Office 365 dans votre environnement. Modifier les pages de site avec votre marque et logo, des événements de formation et des informations de support technique. Masquer et afficher du contenu pour des services ou des fonctionnalités qui ne sont pas pris en charge dans votre organisation. 
-- Laissez Microsoft maintenir votre contenu et vos utilisateurs à jour: la formation personnalisée fournit un flux dynamique de contenu d'apprentissage que Microsoft conserve à jour. 
-- Créez des catégories et des playlists personnalisées reflétant les stratégies, les procédures et les cultures de votre organisation, ce qui permet aux utilisateurs de créer des compétences avec du contenu d'apprentissage adapté spécifiquement à leurs besoins.
+![CG-Introducing. png](media/cg-introducing.png)
 
-![cg_introducing. png](media/cg_introducing.png)
+## <a name="how-does-custom-learning-work"></a>Comment fonctionne l'apprentissage personnalisé?
 
-## <a name="how-does-custom-learning-word"></a>Comment se comporte-t-il?
 Custom Learning for Office 365 (formation personnalisée pour Short) se compose de trois parties: 
-- un site de communication SharePoint
-- un composant WebPart SharePoint
-- flux de contenu en direct d'un catalogue Microsoft Online
+1. flux de contenu en direct d'un catalogue Microsoft Online
+2. un site de communication SharePoint
+3. un composant WebPart SharePoint 
 
-![cg_howitworks. png](media/cg_howitworks.png)
+![CG-howitworks. png](media/cg-howitworks.png)
 
 ## <a name="requirements-and-permissions"></a>Configuration requise et autorisations
-La formation personnalisée pour Office 365 doit être installée par l'administrateur client de votre organisation-personne disposant de l'autorisation d'administrateur client. Avant de commencer à utiliser ces procédures de personnalisation présentées dans ce guide, assurez-vous que l'apprentissage personnalisé a été configuré par un administrateur client SharePoint. Si vous n'êtes pas sûr, contactez votre administrateur client SharePoint pour vérifier que l'apprentissage personnalisé a été installé. Assurez-vous également d'obtenir l'URL du site SharePoint de formation personnalisé. Si vous êtes l'administrateur client et que l'apprentissage personnalisé n'a pas été installé, consultez le Guide d'installation personnalisée pour Office 365. 
 
-### <a name="permissions-required-for-custom-learning"></a>Autorisations requises pour l'apprentissage personnalisé 
-Voici une répartition des autorisations requises pour l'installation, la personnalisation et l'utilisation d'une formation personnalisée. 
+Avant de commencer à utiliser ce guide, vérifiez que l'apprentissage personnalisé a été configuré par votre administrateur client SharePoint. Si vous ne savez pas si elle a été configurée, contactez votre administrateur client SharePoint pour vérifier que l'apprentissage personnalisé a été installé. Assurez-vous également d'obtenir l'URL du site SharePoint de formation personnalisé. Si vous êtes l'administrateur client et que l'apprentissage personnalisé n'a pas été installé, consultez le Guide d'installation personnalisée pour Office 365. 
 
-**Autorisations pour installer l'apprentissage personnalisé**
+### <a name="permissions-to-install-custom-learning"></a>Autorisations pour installer l'apprentissage personnalisé
+
 - Administrateur général Office 365
 - Administrateur SharePoint
 
-**Autorisations d'utilisation des fonctionnalités d'administration de formation personnalisées**
+### <a name="permissions-to-use-custom-learning-administration-features"></a>Autorisations d'utilisation des fonctionnalités d'administration de formation personnalisées
+
 - Autorisations du propriétaire de site SharePoint ou de l'administrateur SharePoint Office 365
 - Administrateur de la collection de sites SharePoint/autorisations du propriétaire du site SharePoint
 
-**Pour utiliser le site de formation personnalisé en tant qu'utilisateur**
+### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>Autorisations d'utilisation du site d'apprentissage personnalisé en tant qu'utilisateur
+
 - Autorisations utilisateur Office 365/autorisations des visiteurs du site SharePoint ou supérieur
-- Si vous n'êtes pas certain d'avoir obtenu les autorisations nécessaires, contactez votre administrateur client SharePoint.
 
-### <a name="next-steps"></a>Étapes suivantes
 
-- [Personnaliser et partager des sélections](customplaylist.md)
-- [Adoption des lecteurs](driveadoption.md) 

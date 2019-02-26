@@ -1,28 +1,28 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Conditions préalables pour l’Installation
-ms.date: 02/10/2019
-description: Décisions et informations requises pour l’installation et de formation personnalisé
-ms.openlocfilehash: cd64f59c98163f28b452a2d01bcfba9c6fee268f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+title: Conditions préalables à l'installation
+ms.date: 02/11/2019
+description: Décisions et informations prérequises pour l'installation et la configuration de l'apprentissage personnalisé
+ms.openlocfilehash: 1a57e8fbecfbce4608c8dcb618f4fdc007467789
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952606"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989715"
 ---
 # <a name="getting-started"></a>Mise en route
 
-Personnalisé de formation pour Office 365 vous permettra de fournir des solutions de formation à la demande pour votre organisation.  Ici, nous allons aborder les conditions préalables et les décisions que vous devrez effectuer pour un déploiement réussi.
+Custom Learning for Office 365 vous permettra de fournir des solutions de formation à la demande pour votre organisation.  Ici, nous aborderons les conditions préalables et les décisions que vous devrez prendre pour un déploiement réussi.
 
-Les instructions suivantes décrivent comment mettre en service de formation personnalisé pour Office 365 (CLO365), y compris l’installation du modèle de site de communication CLO365 et le composant WebPart personnalisé Learning, dans votre environnement client. Ces instructions traitent de l’installation de CLO365 par le biais du Service de mise en service SharePoint Online via https://provisioning.sharepointpnp.com si vous êtes intéressé par l’installation simplement le composant WebPart de formation personnalisé pour une utilisation sur un site existant de communication SharePoint Online, reportez-vous à la instructions [d’installation du composant webpart personnalisé](installwebpart.md). 
+Les instructions suivantes décrivent comment configurer l'apprentissage personnalisé pour Office 365 (CLO365), notamment l'installation du modèle de site de communication CLO365 et le composant WebPart formation personnalisée dans votre environnement client. Ces instructions couvrent l'installation de CLO365 via le service SharePoint Online Provisioning ( https://provisioning.sharepointpnp.com en anglais) si vous souhaitez installer uniquement le composant WebPart formation personnalisée à utiliser sur un site de communication SharePoint Online existant, reportez-vous à la rubrique instructions pour l' [installation du composant WebPart personnalisé](installwebpart.md). 
 
-## <a name="pre-requisites"></a>Conditions préalables
+## <a name="prerequisites"></a>Conditions préalables
  
-Pour installer correctement CLO365 via le [Service d’approvisionnement de SharePoint Online](https://provisioning.sharepointpnp.com) , vous devez remplir les conditions préalables suivantes : 
+Pour installer correctement CLO365 via le [service de mise en service SharePoint Online](https://provisioning.sharepointpnp.com) , vous devez remplir les conditions préalables suivantes: 
  
-- La personne qui a mise en service CLO365 doit être l’administrateur de clients du client cible pour l’installation.  
-- Un client « Catalogue d’applications » doit être disponible dans l’option « Apps » du centre d’administration SharePoint. Si vous ne disposez pas d’une application du catalogue actuellement, consultez la section Créer catalogue d’applications pour obtenir des instructions sur la façon de créer un.  
-- La personne qui a mise en service CLO365 doit être le propriétaire principal du catalogue d’applications dans le client cible pour l’installation. Si le programme d’installation CLO365 n’est pas le propriétaire principal du catalogue d’applications, consultez Modifier le propriétaire principal de la section catalogue d’applications pour obtenir des instructions.  
-- 
-## <a name="next-steps---service-decisionsservicedecisionsmd"></a>Étapes - [Service décisions](servicedecisions.md)
+- La personne qui mettra en service CLO365 doit être l'administrateur client du client cible pour l'installation.  
+- Un client «catalogue d'applications» doit être disponible dans l'option «applications» du centre d'administration SharePoint. Si vous n'avez pas de catalogue d'applications, reportez-vous à la [documentation SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) pour mettre en service cette fonctionnalité.  
+- La personne qui mettra en service CLO365 doit être propriétaire de la collection de sites du catalogue d'applications dans le client cible pour l'installation. Si le programme d'installation de CLO365 n'est pas un propriétaire de collection de sites du catalogue d'applications, [suivez ces instructions](addappadmin.md) et continuez.  
+
+### <a name="next-steps---service-decisionsservicedecisionsmd"></a>Étapes suivantes- [décisions de service](servicedecisions.md)
