@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: Découverte des pages d'application SharePoint
 ms.date: 02/15/2019
 description: En savoir plus sur les fonctionnalités des pages d'application SharePoint dans Custom Learning
-ms.openlocfilehash: d92fc37376cfa09a971bb341102efff09b52de65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
+ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103469"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30412298"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Découverte des pages d'application SharePoint
 
 L'apprentissage personnalisé fournit deux pages d'application SharePoint que vous devez connaître en tant qu'administrateur de l'apprentissage personnalisé. Ces deux pages ne sont pas modifiables. 
 
 - CustomLearningAdmin. aspx
-- CustomLearningAdmin. aspx
+- CustomLearningViewer. aspx
 
 ## <a name="customlearningadminaspx"></a>CustomLearningAdmin. aspx
 
