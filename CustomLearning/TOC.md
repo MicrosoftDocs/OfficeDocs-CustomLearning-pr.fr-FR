@@ -1,5 +1,6 @@
 # [Prise en main](index.md)
-## [Mettre en service une formation personnalisée](installsitepackage.md)
+## [Options de configuration de formation personnalisée](custom_setupoptions.md)
+## [Mettre en service une formation personnalisée](custom_provision.md)
 ## [Explorer le site d'apprentissage personnalisé](sitecontent.md)
 ## [Configuration de composant WebPart autonome](custom_manualsetup.md)
 # [Personnaliser l'expérience d'apprentissage](custom_overview.md)
