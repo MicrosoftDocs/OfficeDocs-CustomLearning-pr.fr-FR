@@ -1,7 +1,7 @@
 # [Prise en main](index.md)
 ## [Options de configuration de formation personnalisée](custom_setupoptions.md)
 ## [Mettre en service une formation personnalisée](custom_provision.md)
-## [Explorer le site d'apprentissage personnalisé](sitecontent.md)
+## [Explorer le site d'apprentissage personnalisé](custom_exploresite.md)
 ## [Configuration de composant WebPart autonome](custom_manualsetup.md)
 # [Personnaliser l'expérience d'apprentissage](custom_overview.md)
 ## [Accéder au site d'apprentissage personnalisé](custom_goto.md)
@@ -22,5 +22,6 @@
 # [Adoption des lecteurs](driveadoption.md)
 # [Commentaires et assistance](feedback.md)
 # [Forum Aux Questions](faq.md)
+# [Forum aux questions sur les partenaires](custom_partner.md)
 # [Mise à niveau manuelle de l'apprentissage personnalisé](custom_upgrade.md)
 

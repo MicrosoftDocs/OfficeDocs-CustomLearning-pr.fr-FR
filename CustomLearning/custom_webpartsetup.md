@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Mettre en service le site d'apprentissage personnalisé
 ms.date: 02/10/2019
 description: Mettre en service le site de formation personnalisée pour Office 365 via le moteur de mise en service SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
+ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
 ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523048"
+ms.locfileid: "30523590"
 ---
-# <a name="provision-custom-learning"></a>Mettre en service une formation personnalisée 
+# <a name="provision-custom-learning"></a>Mettre en service une formation personnalisée
 
 Avec le service de mise en service SharePoint Online, un administrateur client Office 365 peut démarrer le processus de mise en service avec quelques clics simples. Le service de mise en service est la méthode recommandée pour mettre en service l'apprentissage personnalisé. Il est rapide, facile et ne prend que quelques minutes pour démarrer le processus. Avant de commencer à utiliser le service de mise en service, assurez-vous que vous avez rempli les conditions préalables pour la mise en service.
 
@@ -47,27 +47,24 @@ Pour configurer correctement l'apprentissage personnalisé avec le [service de m
 
 ![inst_options. png](media/inst_options.png)
 
-6. Sélectionnez **configuration** lorsque vous êtes prêt à installer l'apprentissage personnalisé dans votre environnement de client.  Le processus de mise en service prendra jusqu'à 15 minutes. Vous serez averti par e-mail (à l'adresse e-mail de notification que vous avez entrée sur la page de mise en service) lorsque le site est prêt pour l'accès. 
+6. Sélectionnez **configuration** lorsque vous êtes prêt à installer l'apprentissage personnalisé dans votre environnement de client.  Le processus de mise en service prendra jusqu'à 15 minutes. Vous serez averti par e-mail (à l'adresse e-mail de notification que vous avez entrée sur la page de mise en service) lorsque le site est prêt pour l'accès.
 
 > [!IMPORTANT]
 > L'administrateur client qui met en service le site d'apprentissage personnalisé doit accéder au site, puis ouvrir CustomLearningAdmin. aspx pour initialiser les propriétés personnalisées de l'administrateur pédagogique. Pour l'instant, l'administrateur client doit également affecter des propriétaires au site. 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Valider la réussite de la mise en service et initialiser la liste CustomConfig
+## <a name="validate-provisioning-success"></a>Valider la réussite de la mise en service
 
-Lorsque la mise en service est terminée, l'administrateur client qui a mis en service le site reçoit un courrier électronique du service de mise en service PnP. Le courrier électronique contient un lien vers le site. À ce stade, l'administrateur client doit accéder au site en utilisant le lien fourni dans le message électronique et configurer le site pour la première utilisation:
-
-1. Accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
-
-![CG-adminapppage. png](media/cg-adminapppage.png)
+Lorsque la mise en service est terminée, l'administrateur de client reçoit un courrier électronique du service de mise en service PnP. L'administrateur peut copier le lien vers le site fourni dans le courrier électronique, puis suivre les instructions pour accéder au site. L'administrateur client peut également accéder à <YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin. aspx. Cela initialise l'élément de liste CustomConfig qui configure la formation personnalisée pour sa première utilisation. La personne qui ouvre cette page pour la première fois doit être administrateur client, administrateur de collection de sites ou propriétaire du site. Vous devriez voir une page semblable à celle-ci: 
 
 ## <a name="add-owners-to-site"></a>Ajouter des propriétaires au site
-En tant qu'administrateur client, il est peu probable que vous soyez la personne qui personnalise le site; vous devrez donc affecter quelques propriétaires au site. Les propriétaires disposent de privilèges d'administrateur sur le site afin qu'ils puissent modifier les pages du site et repersonnaliser le site. Ils ont également la possibilité de masquer et d'afficher le contenu fourni par le biais du composant WebPart formation personnalisée. En outre, ils auront la possibilité de créer une playlist personnalisée et de les affecter à des sous-catégories personnalisées.  
+En tant qu'administrateur client, il est peu probable que vous soyez la personne qui personnalise le site; vous devez donc attribuer des propriétaires au site. Les propriétaires disposent de privilèges d'administrateur sur le site afin qu'ils puissent modifier les pages du site et repersonnaliser le site. Ils ont également la possibilité de masquer et d'afficher le contenu fourni par le biais du composant WebPart formation personnalisée. Ils ont également la possibilité de créer une playlist personnalisée et de les affecter à des sous-catégories personnalisées.  
 
 1. Dans le menu **paramètres** SharePoint, cliquez sur **autorisations de site**.
 2. Cliquez sur **paramètres d'autorisation avancés**.
 3. Cliquez sur **formation personnalisée pour les propriétaires Office 365**.
-4. Cliquez sur **nouveau** > **Ajouter des utilisateurs à ce groupe**, puis ajoutez les personnes que vous souhaitez être propriétaires. 
-5. Ajoutez un lien pour [Explorer le site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) dans le message de partage, puis cliquez sur **partager**.
+4. Cliquez sur **nouveau** > **Ajouter des utilisateurs à ce groupe**, ajoutez les personnes voulues, puis cliquez sur **partager**.
+
+8. Cliquez sur l'option **suivante** dans le coin supérieur droit de la page pour suivre le site.  
 
 ### <a name="next-steps"></a>Étapes suivantes
-- Explorez le [contenu par défaut](custom_exploresite.md) fourni dans le site et le composant WebPart.
+- Explorez le [contenu par défaut](sitecontent.md) inclus dans le composant WebPart.

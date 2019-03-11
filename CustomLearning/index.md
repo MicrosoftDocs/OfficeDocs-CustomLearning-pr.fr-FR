@@ -1,6 +1,6 @@
 ---
-author: karuanag
-ms.author: karuanag
+author: pkrebs
+ms.author: pkrebs
 title: Vue d'ensemble de la solution open source de formation personnalisée pour Office 365
 ms.date: 02/10/2019
 description: Découvrez comment personnaliser l'apprentissage pour Office 365 peut accélérer l'utilisation et l'adoption d'Office 365 au sein de votre organisation. Nos solutions incluent un composant WebPart SharePoint Online personnalisé et un site de formation aux communications SharePoint Online modernes qui est facile à configurer pour votre client Office 365.
@@ -8,32 +8,43 @@ description: Découvrez comment personnaliser l'apprentissage pour Office 365 pe
 
 # <a name="custom-learning-for-office-365"></a>Formation personnalisée pour Office 365
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Solutions de formation personnalisées et en libre-service de Microsoft
+> [!NOTE]
+> L'apprentissage personnalisé est actuellement en cours de test interne et n'est pas encore publiquement disponible. 
 
-Custom Learning for Office 365 est un ensemble de formations et d'adoption d'outils open source conçus pour améliorer l'utilisation d'Office 365 au sein de votre organisation. Créé en partenariat avec Microsoft teams et les groupes d'ingénierie des produits SharePoint et l'équipe de l'assistance et de l'expérience modernes, ces solutions simples d'utilisation peuvent être installées et personnalisées dans votre client SharePoint Online. 
+## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
+Custom Learning for Office 365 (formation personnalisée) est une solution de formation à la demande personnalisable conçue pour améliorer l'utilisation et l'adoption d'Office 365 au sein d'une organisation. 
 
-Ces solutions fournissent à vos utilisateurs finals tout le contenu de formation que Microsoft a l'offre et conserve ce contenu à jour à la demande.  Le site peut facilement être intégré à votre installation de Microsoft teams ou d'autres sites SharePoint Online existants de votre entreprise.
+![CG-Introducing. png](media/cg-introducing.png)
 
-Notre contenu d'apprentissage personnalisé est actuellement limité au début du contenu pour les produits Office 365 et Windows 10.  Si vous souhaitez afficher davantage de contenu, donnez-nous des [suggestions et des commentaires](feedback.md) dans notre forum en ligne.  
+Custom Learning for Office 365 propose:
+- **Un site de communication SharePoint Online entièrement personnalisable** , officiellement connu sous le nom de boîte à outils pour le travail d'équipe, le portail de formation personnalisée peut être personnalisé pour ajouter l'aide, le support et le contenu de la communauté de votre organisation.
+- **ProvisionneMent simple** : provisionnement de l'apprentissage personnalisé à partir du service de mise en service SharePoint Online en quelques étapes simples
+- **La possibilité de créer vos propres sélections de formation** -avec l'apprentissage personnalisé, vous pouvez créer des listes de sélection de formation ciblées pour répondre aux besoins uniques de votre environnement.
+- **Contenu actualisé** : la formation personnalisée fournit du contenu via un catalogue de contenu Microsoft Online, de sorte que le contenu de votre site est mis à jour régulièrement.
 
-## <a name="custom-learning-open-source-components"></a>Composants d'open source d'apprentissage personnalisés
+## <a name="custom-learning-components"></a>Composants d'apprentissage personnalisés
+Custom Learning for Office 365 se compose de trois parties: 
 
-Custom Learning for Office 365 propose deux options: 
+![CG-howitworks. png](media/cg-howitworks.png)
 
-**Option 1**: [package de site SharePoint Online de formation personnalisée](installsitepackage.md)
+- **Un catalogue en ligne de Microsoft Content** -Custom Learning est connecté à un catalogue en ligne du contenu de formation Microsoft
+- **Un site de communication SharePoint Online** -formation personnalisée fournit un portail de formation facile à configurer qui peut être personnalisé pour répondre aux besoins de votre organisation.
+- **un composant WebPart SharePoint** -formation personnalisée fournit un composant WebPart SharePoint qui peut être filtré pour présenter un contenu de formation ciblé. Les organisations peuvent également utiliser le composant WebPart pour créer leurs propres playlists personnalisées.
 
-Sélectionnez, installez et configurez ce package de site de communication SharePoint Online pour créer un portail de formation pour votre entreprise. Anciennement appelé boîte à outils pour le travail d'équipe, ce portail de formation peut être personnalisé pour ajouter l'aide, le support et le contenu de la communauté de votre organisation. Vous pouvez également supprimer tout contenu lié à des services non pris en charge au sein de votre organisation. Le package de site d'apprentissage personnalisé inclut également le composant WebPart formation personnalisée qui fournit un flux de formation à jour du contenu de formation Office 365 à votre organisation. 
+## <a name="sharepoint-online-provisioning-service"></a>Service de mise en service SharePoint Online 
+L'apprentissage personnalisé peut être mis en service à partir du service de mise en service SharePoint Online. Lorsque la formation personnalisée est configurée, les organisations reçoivent un site de communication SharePoint Online conçu pour être un portail de formation out-of-the, ainsi qu'un composant WebPart d'apprentissage personnalisé connecté à un catalogue en ligne de contenu de formation. 
 
-![Formation personnalisée pour l'expérience de site Office 365](media/clo365homepage.png)
-
-**Option 2**: [le composant WebPart formation personnalisée pour Office 365](installwebpart.md) l'option de composant WebPart de formation personnalisée est conçue pour les organisations qui souhaitent intégrer la formation Office 365 à un site de communication SharePoint Online existant. Le composant WebPart formation personnalisée peut être installé sur une page SharePoint Online et fournit un flux à jour de la suite complète du contenu de formation Office 365 à partir du site Support.Office.com de Microsoft. Le contenu de formation fourni par le biais du composant WebPart est organisé dans des playlists faciles à utiliser. Les administrateurs peuvent également utiliser le composant WebPart pour créer des listes de sélection de formation personnalisées, en combinant du contenu de YouTube, de contenu hébergé localement comme. PDF et Office 365 formation de contenu, afin de fournir des expériences de formation adaptées aux besoins uniques de l'organisation.
-
-![Formation personnalisée pour le composant WebPart Office 365](media/clo365customplaylist.png)
+![CG-provision. png](media/cg-provision.png)
 
 ## <a name="3-easy-steps"></a>3 étapes simples
+Nous allons commencer à créer une expérience d'apprentissage personnalisée pour votre environnement.
+1. Choisissez une [option de configuration](custom_setupoptions.md) et mettez en service une formation personnalisée.  
+2. Personnaliser l'apprentissage personnalisé pour votre environnement.
+3. Partagez des connaissances personnalisées avec vos utilisateurs à l'aide de nos [Outils d'adoption](driveadoption.md).
 
-Permet [](prereqs.md) de commencer à créer des solutions de formation simples avec un contenu Microsoft à jour.
+## <a name="feedback-and-support"></a>Commentaires et assistance
 
-1. Sélectionnez la solution pour vous
-2. Terminer votre installation & personnaliser votre contenu
-3. Partager votre site avec vos utilisateurs à l'aide de nos [Outils d'adoption](driveadoption.md)
+L'apprentissage personnalisé pour Office 365 est un projet open source pris en charge via notre [liste de problèmes en ligne](https://aka.ms/CustomLearningHelp) sur GitHub. La solution de formation personnalisée pour Office 365 et ses composants ne sont pas couverts par les contrats de support technique Microsoft existants.  
+
+## <a name="additional-resources"></a>Ressources supplémentaires
+Vous pouvez utiliser l'expérience de site personnalisée pour fournir des liens vers les forums de communauté d'utilisateurs nouveaux ou existants. Pensez à démarrer un groupe d'utilisateurs interne, si vous n'en avez pas encore, pour permettre aux utilisateurs de partager leur réussite et d'apprendre les uns des autres.  Si vous n'avez pas le temps nécessaire pour entretenir un groupe d'utilisateurs interne, vous et vos employés pouvez rejoindre la [communauté office 365 champion](https://aka.ms/O365Champions) pour la formation mensuelle, l'appartenance à la communauté en ligne et l'accès anticipé aux outils et ressources pour Office 365.

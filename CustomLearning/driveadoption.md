@@ -1,39 +1,39 @@
 ---
-titre : ''
-ms.openlocfilehash: 9334a7aa5221f9c3321fe7c33038f1e096b1503e
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+title: ''
+ms.openlocfilehash: eb54031872eb5dcf0c405385c1abd84b2b4bdf50
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886097"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522968"
 ---
-# <a name="drive-adoption-of-your-learning-portal"></a>Encourager l’Adoption des votre portail de formation
+# <a name="drive-adoption-of-your-learning-portal"></a>Adoption des lecteurs de votre portail d'apprentissage
 
-Lecteur d’adoption de votre expérience d’apprentissage personnalisé avec ces étapes et les outils. 
+Encouragez l'adoption de vos expériences d'apprentissage personnalisées à l'aide de ces étapes et outils simples. 
 
-Bien que les solutions de formation sont uniquement aussi bien que l’utilisation reçus dans votre organisation.  C’est pourquoi nous avons créé ces étapes simples et des modèles pour vous aider à faire connaître et l’adoption de nos outils. Démarrer en suivant ces étapes après avoir configuré le modèle de site dans votre environnement SharePoint Online.
+Nous comprenons que les solutions de formation sont aussi efficaces que l'utilisation qu'elles reçoivent dans votre organisation.  C'est pourquoi nous avons créé ces étapes et modèles simples pour vous aider à sensibiliser et à adopter nos outils. Commencez par ces étapes une fois que vous avez configuré le modèle de site dans votre environnement SharePoint Online.
 
-Téléchargez notre [kit de lancement](/embeds/custom_learning_launch_kit.zip) pour imprimer et valider des affichettes et des affiches.  Modifier et envoyer notre lancement à vos employés pour leur donner des 3 étapes à mise en route avec le portail.  
+Téléchargez notre kit de lancement pour imprimer et publier des brochures et des affiches.  Modifiez et envoyez notre courrier électronique de lancement à vos employés pour leur fournir les trois étapes simples pour commencer à utiliser le portail.  
 
 > [!NOTE]
-> Vous devrez modifier le courrier électronique de lancement pour inclure l’adresse web appropriée (URL) de votre installation du portail de formation personnalisé.
+> Vous devrez modifier le message électronique de lancement pour inclure l'adresse Web (URL) appropriée pour votre installation du portail d'apprentissage personnalisé.
 
-Les meilleures pratiques suivantes peuvent vous aider à augmenter l’utilisation du site dans votre organisation.  
+Les meilleures pratiques suivantes peuvent vous aider à améliorer l'utilisation du site dans votre organisation.  
 
-## <a name="connect-learning-to-other-business-outcomes"></a>Se connecter learning pour les autres commerciaux
+## <a name="connect-learning-to-other-business-outcomes"></a>Se connecter aux autres résultats de l'entreprise
 
-Vous aurez de meilleurs résultats lorsque la barre de lancement de l’apprentissage personnalisé est incorporé dans tout déploiement du service ou de la mise à niveau des projets.  Cela permettra à vos employés une raison claire sur le site.  Exemples peuvent être une mise à niveau de SharePoint Online ou de déploiement de Microsoft Teams.  Vous pouvez inclure des expressions comme :
+Vous obtiendrez les meilleurs résultats lorsque le lancement de l'expérience d'apprentissage personnalisée est intégré à d'autres projets de déploiement ou de mise à niveau de services.  Cela permettra aux employés de consulter le site.  Il peut s'agir par exemple d'une mise à niveau de SharePoint Online ou du déploiement de Microsoft Teams.  Vous pouvez inclure des expressions telles que:
 
-« Pour en savoir plus de conseils rapides sur <Insert service name here> visitez le site portail de formation personnalisé pour Office 365. » 
+«Pour en savoir plus sur <Insert service name here> la visite guidée de notre portail d'apprentissage personnalisé pour Office 365». 
 
-## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Aligner le site de formation pour les investissements dans vos employés de formation 
+## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Aligner le site de formation sur les investissements réalisés dans l'apprentissage de votre employé 
 
-Travailler avec votre équipe des ressources humaines pour aligner le lancement de votre portail de formation avec les autres initiatives de formation des employés qui sont mises en œuvre dans votre entreprise. 
+Collaborez avec votre équipe des ressources humaines pour aligner le lancement de votre portail de formation avec les autres initiatives de formation des employés qui sont mises en œuvre dans votre entreprise. 
 
-## <a name="join-the-driving-adoption-community"></a>Participer à la Communauté de l’Adoption de conduite
+## <a name="join-the-driving-adoption-community"></a>Participer à la communauté de l'adoption du conducteur
 
-Partager votre expérience avec le portail de formation dans notre communauté Adoption conduite en ligne.  Suivez-nous sur https://aka.ms/DriveAdoption.
+Partagez votre expérience avec le portail d'apprentissage de notre communauté d'adoption en ligne.  Accédez-nous https://aka.ms/DriveAdoptionà l'adresse.
 
 ## <a name="give-us-feedback"></a>Faites-nous part de vos commentaires
 
-Avez-vous des demandes de contenu ou de nouvelles fonctionnalités dans le portail de formation personnalisé ?  Visitez notre UserVoice en ligne où vous pouvez voter pour les suggestions existantes ou ajouter vos propres.  Occurrence nos UserVoice à https://aka.ms/AdoptionTools.
+Avez-vous des demandes de nouvelles fonctionnalités ou du contenu dans le portail d'apprentissage personnalisé?  Visitez notre site UserVoice en ligne, qui vous permet de voter pour des suggestions existantes ou d'ajouter les vôtres.  Recherchez notre instance UserVoice à https://aka.ms/AdoptionToolsl'adresse.

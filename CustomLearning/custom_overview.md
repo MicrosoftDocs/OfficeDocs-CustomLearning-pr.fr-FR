@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Vue d’ensemble
 ms.date: 02/18/2019
 description: Vue d'ensemble de la formation personnalisée pour Office 365 pour les administrateurs
-ms.openlocfilehash: 98187038b66252523c74d88dd9bfd0f217591bc5
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: 6aee3a93a5109b37e43a7118bd98ca31e8b9ac1f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30087533"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523018"
 ---
 # <a name="customize-the-learning-experience"></a>Personnaliser l'expérience d'apprentissage
 
@@ -32,20 +32,23 @@ Custom Learning for Office 365 (formation personnalisée pour Short) se compose 
 
 ## <a name="requirements-and-permissions"></a>Configuration requise et autorisations
 
-Avant de commencer à utiliser ce guide, vérifiez que l'apprentissage personnalisé a été configuré par votre administrateur client SharePoint. Si vous ne savez pas si elle a été configurée, contactez votre administrateur client SharePoint pour vérifier que l'apprentissage personnalisé a été installé. Assurez-vous également d'obtenir l'URL du site SharePoint de formation personnalisé. Si vous êtes l'administrateur client et que l'apprentissage personnalisé n'a pas été installé, consultez le Guide d'installation personnalisée pour Office 365. 
+Avant de commencer à utiliser ce guide, vérifiez que l'apprentissage personnalisé a été configuré par votre administrateur client SharePoint. Si vous ne savez pas si elle a été configurée, contactez votre administrateur client SharePoint pour vérifier que l'apprentissage personnalisé a été mis en service. Assurez-vous également d'obtenir l'URL du site SharePoint de formation personnalisé. Si vous êtes l'administrateur client et que l'apprentissage personnalisé n'a pas été mis en service, consultez la rubrique [provision Custom Learning](custom_provision.md). 
 
-### <a name="permissions-to-install-custom-learning"></a>Autorisations pour installer l'apprentissage personnalisé
+### <a name="permissions-to-provision-custom-learning"></a>Autorisations pour mettre en service l'apprentissage personnalisé
 
-- Administrateur général Office 365
-- Administrateur SharePoint
+- Administrateur client, également appelé administrateur général Office 365
+- Administrateur de collection de sites SharePoint avec des autorisations de propriétaire sur le site
 
 ### <a name="permissions-to-use-custom-learning-administration-features"></a>Autorisations d'utilisation des fonctionnalités d'administration de formation personnalisées
 
-- Autorisations du propriétaire de site SharePoint ou de l'administrateur SharePoint Office 365
-- Administrateur de la collection de sites SharePoint/autorisations du propriétaire du site SharePoint
+- Administrateur de collection de sites
+- Autorisations de propriétaire ou de membre SharePoint
 
 ### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>Autorisations d'utilisation du site d'apprentissage personnalisé en tant qu'utilisateur
 
 - Autorisations utilisateur Office 365/autorisations des visiteurs du site SharePoint ou supérieur
 
+## <a name="get-started-with-customization"></a>Prise en main de la personnalisation
+Une fois que vous avez vérifié que vous disposez des autorisations nécessaires pour personnaliser le site et le composant WebPart, il est temps de commencer avec le processus de personnalisation. 
 
+- Pour commencer, consultez [la rubrique accéder au site d'apprentissage personnalisé](custom_goto.md).

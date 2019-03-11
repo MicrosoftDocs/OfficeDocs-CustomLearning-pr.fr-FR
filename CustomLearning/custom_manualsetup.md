@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Configuration de composant WebPart autonome
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
-ms.openlocfilehash: 650e6c12ebe8ca7fedc6edc107b5822c48ead99a
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411874"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523058"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configuration de composant WebPart autonome
 
@@ -24,7 +24,7 @@ La formation personnalisée offre une configuration de composant WebPart autonom
 > [!NOTE]
 > Si vous recherchez un moyen rapide et facile de configurer l'apprentissage personnalisé, consultez la rubrique [provision Custom Learning](installsitepackage.md).
 
-## <a name="prerequisites"></a>Conditions préalables
+## <a name="prerequisites"></a>Conditions requises
 Pour garantir la réussite de la configuration manuelle du composant WebPart d'apprentissage personnalisé, les conditions préalables requises doivent être satisfaites. 
 
 - Vous devez avoir configuré et configuré le catalogue d'applications à l'échelle du client. Consultez la rubrique [configurer votre client Office 365](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) et suivez la section créer un site de catalogue d'applications. 
@@ -58,10 +58,22 @@ Une partie de cette solution inclut le suivi des télémétries anonyme, qui est
 
 Si vous n'effectuez pas une installation manuelle et souhaitez désactiver le suivi de la télémétrie, un script `TelemetryOptOut.ps1` distinct a été inclus, lorsque l'exécution désactivera le suivi de télémétrie.
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Étape 6: initialiser la configuration personnalisée du composant WebPart
-Une fois le script PowerShell exécuté, accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Cela initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour sa première utilisation.
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Valider la réussite de la mise en service et initialiser la liste CustomConfig
 
-La configuration est maintenant terminée. Pour en savoir plus sur la personnalisation du site de formation personnalisé et du composant WebPart pour votre environnement, voir [personnaliser l'expérience de formation](custom_overview.md).
+Une fois le script PowerShell exécuté, accédez au site, initialisez l'élément de liste **CustomConfig** qui conFigure la formation personnalisée pour sa première utilisation et validez le bon fonctionnement du site.
+
+1. Accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
+
+![CG-adminapppage. png](media/cg-adminapppage.png)
+
+## <a name="add-owners-to-site"></a>Ajouter des propriétaires au site
+En tant qu'administrateur client, il est peu probable que vous soyez la personne qui personnalise le site; vous devrez donc affecter quelques propriétaires au site. Les propriétaires disposent de privilèges d'administrateur sur le site afin qu'ils puissent modifier les pages du site et repersonnaliser le site. Ils ont également la possibilité de masquer et d'afficher le contenu fourni par le biais du composant WebPart formation personnalisée. En outre, ils auront la possibilité de créer une playlist personnalisée et de les affecter à des sous-catégories personnalisées.  
+
+1. Dans le menu **paramètres** SharePoint, cliquez sur **autorisations de site**.
+2. Cliquez sur **paramètres d'autorisation avancés**.
+3. Cliquez sur **formation personnalisée pour les propriétaires Office 365**.
+4. Cliquez sur **nouveau** > **Ajouter des utilisateurs à ce groupe**, puis ajoutez les personnes que vous souhaitez être propriétaires. 
+5. Ajoutez un lien pour [Explorer le site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) dans le message de partage, puis cliquez sur **partager**.
 
 ### <a name="next-steps"></a>Étapes suivantes
 - [Personnaliser](custom_overview.md) l'expérience de formation pour votre organisation.

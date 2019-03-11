@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Mise à niveau de formation personnalisée
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411894"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523068"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Mise à niveau manuelle de l'apprentissage personnalisé
 
@@ -20,7 +20,7 @@ Custom Learning for Office 365 fournit un processus de mise à niveau manuel pou
 - Exécuter un script PowerShell qui configurera votre client avec les artefacts appropriés requis pour l'apprentissage personnalisé
 - Accédez à la page CustomLearningAdmin. aspx dans le site d'apprentissage personnalisé pour initialiser la configuration ccontent personnalisée.
 
-## <a name="prerequisites"></a>Conditions préalables
+## <a name="prerequisites"></a>Conditions requises
 Pour garantir la réussite de la mise à niveau de l'apprentissage personnalisé, les conditions préalables suivantes doivent être remplies. 
 
 - Vous devez avoir configuré un catalogue d'applications à l'échelle du client. Si vous n'avez pas de catalogue d'applications client, reportez-vous à la rubrique [configurer votre client Office 365](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) et suivre la section créer un site de catalogue d'applications. 
@@ -102,12 +102,11 @@ Avec les améliorations apportées au nouveau composant WebPart, les liens vers 
 Pour vous assurer que les playlists fonctionnent correctement, toutes les sélections qui ont été créées avec la version antérieure du composant WebPart devront être recréées. Avant de supprimer les sélections, créez une liste des sélections personnalisées et des ressources associées afin de pouvoir les recréer facilement avec le nouveau composant WebPart d'apprentissage personnalisé. Créer une copie d'une sélection, puis la supprimer. Vous pouvez utiliser le champ JSONData pour effectuer une copie du contenu d'une sélection avant de le supprimer. Cela facilitera la création ultérieure.
 
 
-• À partir du site d'apprentissage personnalisé, cliquez sur paramètres > contenu du site. • Sélectionnez une sélection, sélectionnez les ellipses, sélectionnez Modifier, puis copiez le contenu du champ JSONData et enregistrez-le dans le bloc-notes ou dans un autre document pour référence ultérieure. Sélectionnez Annuler.
-• Sélectionnez la sélection, sélectionnez les ellipses, puis sélectionnez Supprimer.
-• Vous êtes maintenant prêt à recréer la sélection avec le nouveau composant WebPart.
-Pour obtenir des instructions sur l'utilisation du nouveau composant WebPart formation personnalisée pour https://docs.microsoft.com/en-us/office365/customlearning/custom_overviewOffice 365, reportez-vous à la rubrique.
-
-## <a name="step-8---chan"></a>Étape 8-Chan
+1. À partir du site d'apprentissage personnalisé, cliquez sur **paramètres** > du**contenu du site**. 
+2. Sélectionnez une sélection, sélectionnez les ellipses, sélectionnez **modifier**, puis copiez le contenu du champ **JSONData** et enregistrez-le dans le bloc-notes ou dans un autre document pour référence ultérieure. Sélectionnez **Annuler**.
+3. Sélectionnez la sélection, sélectionnez les ellipses, puis sélectionnez **supprimer**.
+4. Vous êtes maintenant prêt à recréer la sélection avec le nouveau composant WebPart.
+Pour obtenir des instructions sur l'utilisation du composant WebPart Custom Learning for Office 365, reportez-vous à [personnaliser l'expérience d'apprentissage (custom_overview. MD).
 
 ### <a name="next-steps"></a>Étapes suivantes
 - [Personnaliser](custom_overview.md) l'expérience de formation pour votre organisation.
