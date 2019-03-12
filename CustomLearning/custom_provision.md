@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Mettre en service le site d'apprentissage personnalisé
 ms.date: 02/10/2019
 description: Mettre en service le site de formation personnalisée pour Office 365 via le moteur de mise en service SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523048"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543754"
 ---
 # <a name="provision-custom-learning"></a>Mettre en service une formation personnalisée 
 
@@ -17,9 +17,9 @@ Avec le service de mise en service SharePoint Online, un administrateur client O
 
 ## <a name="prerequisites"></a>Conditions requises
  
-Pour configurer correctement l'apprentissage personnalisé avec le [service de mise en service SharePoint Online](https://provisioning.sharepointpnp.com)du service de mise en service, la personne qui effectue la mise en service doit répondre aux conditions préalables suivantes: 
+Pour configurer correctement l'apprentissage personnalisé avec le service de mise en service, la personne qui effectue la mise en service doit répondre aux conditions préalables suivantes: 
  
-- La personne chargée de mettre en service l'apprentissage personnalisé doit être un client Administratorof le client où l'apprentissage personnalisé sera mis en service.  
+- La personne chargée de mettre en service l'apprentissage personnalisé doit être un administrateur client du client où l'apprentissage personnalisé sera mis en service.  
 - Un catalogue d'applications client doit être disponible dans l'option apps du centre d'administration SharePoint. Si votre organisation ne dispose pas d'un catalogue d'applications client SharePoint, reportez-vous à la [documentation SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) pour en créer une.  
 - La personne chargée de mettre en service l'apprentissage personnalisé doit être un propriétaire de collection de sites du catalogue d'applications client. Si la personne chargée de la mise en service de l'apprentissage personnalisé n'est pas un propriétaire de collection de sites du catalogue d'applications, [suivez ces instructions](addappadmin.md) et continuez. 
 
@@ -33,11 +33,11 @@ Pour configurer correctement l'apprentissage personnalisé avec le [service de m
 
 ![dans](media/inst_perms.png)
 
-3. Sélectionnez **Custom Learning for Office 365** dans la Galerie de solutions.
+3. Faites déFiler la page vers le bas, sélectionnez l'onglet **solutions** , puis sélectionnez **Custom learning for Office 365**. 
 
 ![dans](media/inst_select.png)
 
-4. Dans la page d'accueil de la solution, sélectionnez **Ajouter à votre client** .
+4. Sélectionnez **Ajouter à votre client**
 
 ![inst_select. png](media/inst_add.png)
 
@@ -50,7 +50,7 @@ Pour configurer correctement l'apprentissage personnalisé avec le [service de m
 6. Sélectionnez **configuration** lorsque vous êtes prêt à installer l'apprentissage personnalisé dans votre environnement de client.  Le processus de mise en service prendra jusqu'à 15 minutes. Vous serez averti par e-mail (à l'adresse e-mail de notification que vous avez entrée sur la page de mise en service) lorsque le site est prêt pour l'accès. 
 
 > [!IMPORTANT]
-> L'administrateur client qui met en service le site d'apprentissage personnalisé doit accéder au site, puis ouvrir CustomLearningAdmin. aspx pour initialiser les propriétés personnalisées de l'administrateur pédagogique. Pour l'instant, l'administrateur client doit également affecter des propriétaires au site. 
+> L'administrateur client qui met en service le site d'apprentissage personnalisé doit accéder au site, puis ouvrir **CustomLearningAdmin. aspx** pour initialiser les propriétés personnalisées de l'administrateur pédagogique. Pour l'instant, l'administrateur client doit également affecter des propriétaires au site. 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Valider la réussite de la mise en service et initialiser la liste CustomConfig
 

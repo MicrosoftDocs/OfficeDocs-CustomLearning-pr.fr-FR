@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Mise à niveau de formation personnalisée
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523068"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543774"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Mise à niveau manuelle de l'apprentissage personnalisé
 
@@ -45,7 +45,12 @@ Pour configurer la formation personnalisée pour Office 365, téléchargez le fi
 5. Dans le dossier où vous avez enregistré le fichier ZIP, sélectionnez le dossier du **composant WebPart** , puis sélectionnez **customlearning. sppkg.**
 6. Cliquez sur **Déployer**.
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Étape 5-exécuter le script de configuration PowerShell
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>Étape 3: ajouter l'application de formation personnalisée pour Office 365 sur le site
+
+1. À partir du site SharePoint, cliquez sur le menu système, puis cliquez sur **Ajouter une application**. 
+2. Sous **vos applications**, cliquez sur **à partir de votre organisation**, puis cliquez sur **Custom Learning for Office 365**. 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>Étape 4-exécuter le script de configuration PowerShell
 Un script `CustomLearningConfiguration.ps1` PowerShell est inclus dans le téléchargement zip à partir de github. Vous devez exécuter le script pour créer trois [Propriétés de client](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) utilisées par la solution. En outre, le script crée deux [pages d'application à composant unique](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) dans la bibliothèque pages de site pour héberger les composants WebPart administrateur et utilisateur à un emplacement connu. Ces pages d'application sont les suivantes:
 
 - CustomAdministration. aspx
@@ -57,18 +62,10 @@ Un script `CustomLearningConfiguration.ps1` PowerShell est inclus dans le télé
 ### <a name="disabling-telemetry-collection"></a>DésActivation de la collection de télémétrie
 L'apprentissage personnalisé inclut le suivi de télémétrie anonyme, qui est défini par défaut sur activé. Si vous souhaitez désactiver le suivi de la télémétrie, modifiez le `CustomlearningConfiguration.ps1` script pour définir la `$optInTelemetry` variable sur. `$false`
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Étape 6: initialiser la configuration personnalisée du composant WebPart
+## <a name="step-5---initialize-web-part-custom-configuration"></a>Étape 5: initialiser la configuration personnalisée du composant WebPart
 Une fois le script PowerShell exécuté, accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>Ajouter des propriétaires au site
-En tant qu'administrateur client, il est peu probable que vous soyez la personne qui personnalise le site; vous devrez donc affecter quelques propriétaires au site. Les propriétaires disposent de privilèges d'administrateur sur le site afin qu'ils puissent modifier les pages du site et repersonnaliser le site. Ils ont également la possibilité de masquer et d'afficher le contenu fourni par le biais du composant WebPart formation personnalisée. Ils ont également la possibilité de créer une playlist personnalisée et de les affecter à des sous-catégories personnalisées.  
-
-1. Dans le menu **paramètres** SharePoint, cliquez sur **autorisations de site**.
-2. Cliquez sur **paramètres d'autorisation avancés**.
-3. Cliquez sur **formation personnalisée pour les propriétaires Office 365**.
-4. Cliquez sur **nouveau** > **Ajouter des utilisateurs à ce groupe**, ajoutez les personnes voulues, puis cliquez sur **partager**.
 
 La mise à niveau est maintenant terminée. Pour en savoir plus sur la personnalisation du site de formation personnalisé et du composant WebPart pour votre environnement, voir [personnaliser l'expérience de formation](custom_overview.md).
 

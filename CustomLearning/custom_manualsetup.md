@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Configuration de composant WebPart autonome
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523058"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543744"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configuration de composant WebPart autonome
 
@@ -22,7 +22,7 @@ La formation personnalisée offre une configuration de composant WebPart autonom
 - Accédez à la page de site CustomLearningAdmin. aspx pour charger le composant WebPart d'administration afin d'initialiser la configuration de contenu personnalisé.
 
 > [!NOTE]
-> Si vous recherchez un moyen rapide et facile de configurer l'apprentissage personnalisé, consultez la rubrique [provision Custom Learning](installsitepackage.md).
+> Si vous recherchez un moyen rapide et facile de configurer l'apprentissage personnalisé, consultez la rubrique [provision Custom Learning](custom_provision.md).
 
 ## <a name="prerequisites"></a>Conditions requises
 Pour garantir la réussite de la configuration manuelle du composant WebPart d'apprentissage personnalisé, les conditions préalables requises doivent être satisfaites. 
@@ -44,13 +44,18 @@ Pour configurer la formation personnalisée pour Office 365, téléchargez le fi
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>Étape 3: configurer/identifier un site de communication moderne
 Identifiez un site de communication SharePoint existant ou approvisionnez-en un nouveau dans votre client SharePoint Online. Pour plus d'informations sur la mise en service d'un site de communication, voir [créer un site de communication dans SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) et suivre les étapes de création d'un site de communication.
 
-## <a name="step-4---set-permissions-for-the-site"></a>Étape 4: définir des autorisations pour le site
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>Étape 4: ajouter l'application de formation personnalisée pour Office 365 sur le site
+
+1. À partir du site SharePoint, cliquez sur le menu système, puis cliquez sur **Ajouter une application**. 
+2. Sous **vos applications**, cliquez sur **à partir de votre organisation**, puis cliquez sur **Custom Learning for Office 365**. 
+
+## <a name="step-5---set-permissions-for-the-site"></a>Étape 5: définir des autorisations pour le site
 Assurez-vous que les autorisations suivantes sont définies pour le site:
 - **Administrateur de la collection de sites ou partie du groupe propriétaires** : autorisations requises pour initialiser l'élément de liste CustomConfig qui configure la formation personnalisée pour sa première utilisation. 
 - **Groupe membres** -permissons requis pour administrer l'apprentissage personnalisé, y compris le masquage et l'affichage de contenu et l'administration des sélections personnalisées
 - **Groupe visiteurs** -autorisations requises pour afficher le contenu du site. 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Étape 5-exécuter le script de configuration PowerShell
+## <a name="step-6--execute-powershell-configuration-script"></a>Étape 6-exécuter le script de configuration PowerShell
 Un script `CustomLearningConfiguration.ps1` PowerShell est inclus que vous devrez exécuter pour créer trois propriétés de [client](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) utilisées par la solution. De plus, le script crée deux [pages d'application à composant unique](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) dans la bibliothèque pages de site pour héberger les composants WebPart administrateur et utilisateur à un emplacement connu.
 
 ### <a name="disabling-telemetry-collection"></a>DésActivation de la collection de télémétrie
@@ -62,7 +67,7 @@ Si vous n'effectuez pas une installation manuelle et souhaitez désactiver le su
 
 Une fois le script PowerShell exécuté, accédez au site, initialisez l'élément de liste **CustomConfig** qui conFigure la formation personnalisée pour sa première utilisation et validez le bon fonctionnement du site.
 
-1. Accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
+- Accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
