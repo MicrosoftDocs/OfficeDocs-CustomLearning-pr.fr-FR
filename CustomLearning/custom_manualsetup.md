@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Configuration de composant WebPart autonome
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543744"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577850"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configuration de composant WebPart autonome
 
@@ -58,10 +58,12 @@ Assurez-vous que les autorisations suivantes sont définies pour le site:
 ## <a name="step-6--execute-powershell-configuration-script"></a>Étape 6-exécuter le script de configuration PowerShell
 Un script `CustomLearningConfiguration.ps1` PowerShell est inclus que vous devrez exécuter pour créer trois propriétés de [client](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) utilisées par la solution. De plus, le script crée deux [pages d'application à composant unique](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) dans la bibliothèque pages de site pour héberger les composants WebPart administrateur et utilisateur à un emplacement connu.
 
-### <a name="disabling-telemetry-collection"></a>DésActivation de la collection de télémétrie
-Une partie de cette solution inclut le suivi des télémétries anonyme, qui est défini par défaut sur activé. Si vous effectuez une installation manuelle et que vous souhaitez désactiver le suivi de la télémétrie, modifiez le `CustomlearningConfiguration.ps1` script de manière à définir la variable $optInTelemetry sur $false.
+1. Si vous n'avez pas encore téléchargé SharePoint Online Management Shell, téléchargez-le maintenant. Voir [téléchargement de SharePoint Online Management Shell](https://go.microsoft.com/fwlink/p/?LinkId=255251).
+2. Vous devrez peut-être définir une stratégie d'exécution PowerShell pour exécuter le script. Pour plus d'informations, consultez la rubrique [à propos des stratégies d'exécution](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+3. Exécutez le `CustomLearningConfiguration.ps1` script. En plus de vos informations d'identification d'administrateur client, le script vous invite à indiquer le nom de votre client et le nom de votre site. Dans l'exemple suivant, pour l'URL de `https://contoso.sharepoint.com/sites/O365CL`votre `contoso` site,, est le `O365CL` nom du client et est le nom du site. 
 
-Si vous n'effectuez pas une installation manuelle et souhaitez désactiver le suivi de la télémétrie, un script `TelemetryOptOut.ps1` distinct a été inclus, lorsque l'exécution désactivera le suivi de télémétrie.
+### <a name="disabling-telemetry-collection"></a>DésActivation de la collection de télémétrie
+Une partie de cette solution inclut le suivi des télémétries anonyme, qui est défini par défaut sur activé. Si vous effectuez une installation manuelle et que vous souhaitez désactiver le suivi de la télémétrie, modifiez le `CustomlearningConfiguration.ps1` script de manière à définir la variable $optInTelemetry sur $false et exécutez le script.
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Valider la réussite de la mise en service et initialiser la liste CustomConfig
 

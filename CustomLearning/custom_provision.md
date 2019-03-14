@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Mettre en service le site d'apprentissage personnalisé
 ms.date: 02/10/2019
 description: Mettre en service le site de formation personnalisée pour Office 365 via le moteur de mise en service SharePoint
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543754"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577860"
 ---
 # <a name="provision-custom-learning"></a>Mettre en service une formation personnalisée 
 
@@ -56,7 +56,7 @@ Pour configurer correctement l'apprentissage personnalisé avec le service de mi
 
 Lorsque la mise en service est terminée, l'administrateur client qui a mis en service le site reçoit un courrier électronique du service de mise en service PnP. Le courrier électronique contient un lien vers le site. À ce stade, l'administrateur client doit accéder au site en utilisant le lien fourni dans le message électronique et configurer le site pour la première utilisation:
 
-1. Accédez à `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
+- Accédez à `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. L'ouverture de **CustomLearningAdmin. aspx** Initialise l'élément de liste **CustomConfig** qui configure la formation personnalisée pour la première utilisation. Vous devriez voir une page semblable à celle-ci:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ En tant qu'administrateur client, il est peu probable que vous soyez la personne
 2. Cliquez sur **paramètres d'autorisation avancés**.
 3. Cliquez sur **formation personnalisée pour les propriétaires Office 365**.
 4. Cliquez sur **nouveau** > **Ajouter des utilisateurs à ce groupe**, puis ajoutez les personnes que vous souhaitez être propriétaires. 
-5. Ajoutez un lien pour [Explorer le site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) dans le message de partage, puis cliquez sur **partager**.
+5. Ajoutez un lien pour [Explorer le site](custom_exploresite.md) dans le message de partage, puis cliquez sur **partager**.
 
 ### <a name="next-steps"></a>Étapes suivantes
 - Explorez le [contenu par défaut](custom_exploresite.md) fourni dans le site et le composant WebPart.
