@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Conditions préalables et décisions
 ms.date: 02/10/2019
 description: Décisions et informations prérequises pour l'installation et la configuration de l'apprentissage personnalisé
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989705"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408834"
 ---
 ## <a name="service-decisions"></a>Décisions de service
 
-Une fois que vos conditions préalables sont remplies et avant l'installation, vous devez prendre les décisions suivantes concernant votre implemenation de CLO365:
+Une fois que vous avez vérifié que les conditions requises pour la formation personnalisée sont remplies, vous devrez prendre les décisions suivantes concernant votre implemenation de formation personnalisée:
 
 1. **Disposez-vous déjà d'un portail de formation dans votre entreprise avec une interface moderne?**
 
