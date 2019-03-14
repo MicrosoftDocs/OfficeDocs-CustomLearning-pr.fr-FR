@@ -7,20 +7,18 @@ description: Découvrez comment personnaliser l'apprentissage pour Office 365 pe
 ---
 
 # <a name="custom-learning-for-office-365"></a>Formation personnalisée pour Office 365
-
-> [!NOTE]
-> L'apprentissage personnalisé est actuellement en cours de test interne et n'est pas encore publiquement disponible. 
-
-## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 Custom Learning for Office 365 (formation personnalisée) est une solution de formation à la demande personnalisable conçue pour améliorer l'utilisation et l'adoption d'Office 365 au sein d'une organisation. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 
 Custom Learning for Office 365 propose:
+
 - **Un site de communication SharePoint Online entièrement personnalisable** , officiellement connu sous le nom de boîte à outils pour le travail d'équipe, le portail de formation personnalisée peut être personnalisé pour ajouter l'aide, le support et le contenu de la communauté de votre organisation.
 - **ProvisionneMent simple** : provisionnement de l'apprentissage personnalisé à partir du service de mise en service SharePoint Online en quelques étapes simples
 - **La possibilité de créer vos propres sélections de formation** -avec l'apprentissage personnalisé, vous pouvez créer des listes de sélection de formation ciblées pour répondre aux besoins uniques de votre environnement.
 - **Contenu actualisé** : la formation personnalisée fournit du contenu via un catalogue de contenu Microsoft Online, de sorte que le contenu de votre site est mis à jour régulièrement.
+
+![CG-Introducing. png](media/cg-introducing.png)
 
 ## <a name="custom-learning-components"></a>Composants d'apprentissage personnalisés
 Custom Learning for Office 365 se compose de trois parties: 
