@@ -24,3 +24,4 @@
 # [Forum Aux Questions](faq.md)
 # [Forum aux questions sur les partenaires](custom_partner.md)
 # [Mise à niveau manuelle de l'apprentissage personnalisé](custom_upgrade.md)
+# [Dépannage de l'apprentissage personnalisé](custom_troubleshooting.md)

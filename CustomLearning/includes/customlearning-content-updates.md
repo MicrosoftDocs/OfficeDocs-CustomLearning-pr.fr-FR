@@ -17,29 +17,22 @@
 | 3/5/2019 | [Conditions préalables à l'installation](/Office365/CustomLearning/prereqs) | Modifié le |
 | 3/5/2019 | [Conditions préalables et décisions](/Office365/CustomLearning/servicedecisions) | Modifié le |
 | 3/5/2019 | [Explorer le site et le contenu par défaut](/Office365/CustomLearning/sitecontent) | Modifié le |
-| 3/5/2019 | [Découverte des pages d'application SharePoint](/Office365/CustomLearning/custom_apppages) | modifié |
+| 3/5/2019 | [Découverte des pages d'application SharePoint](/Office365/CustomLearning/custom_apppages) | Modifié le |
 
 
-## <a name="week-of-february-04-2019"></a>Semaine du 04 février 2019
+## <a name="week-of-march-11-2019"></a>Semaine du 11 mars 2019
 
 
 | Publié le |Titre de la rubrique | Modification |
 |------|------------|--------|
-| 2/4/2019 | [Nombre de jours dans la vie avec Office 365-matin](/Office365/CustomLearning/ditl_coffee) | Modifié le |
-| 2/4/2019 | [Nombre de jours dans la vie avec Office 365-collaboration avec des collègues](/Office365/CustomLearning/ditl_collab) | rajouté |
-| 2/4/2019 | [# Day dans la vie avec Office 365-sur votre](/Office365/CustomLearning/ditl_commute) | rajouté |
-| 2/4/2019 | [Nombre de jours dans la vie avec Office 365-connexion à l'échelle de l'entreprise](/Office365/CustomLearning/ditl_connect) | rajouté |
-| 2/4/2019 | [N ° jour de la vie avec Office 365 réunion au bureau](/Office365/CustomLearning/ditl_meeting) | rajouté |
-| 2/4/2019 | [# Liens utiles pour les administrateurs utilisant la formation personnalisée pour Office 365](/Office365/CustomLearning/embeds/for_admins) | rajouté |
-| 2/4/2019 | [Vue d'ensemble de la formation personnalisée pour Office 365 par Microsoft](/Office365/CustomLearning/index) | Modifié le |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion-spécialiste en matière d'adoption de services](/Office365/CustomLearning/champ_education) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion-recueillir des commentaires](/Office365/CustomLearning/champ_feedback) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion: trouver des champions](/Office365/CustomLearning/champ_findthem) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion](/Office365/CustomLearning/champ_getstarted) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion: Guide de l'adoption de l'utilisateur final de Microsoft 365](/Office365/CustomLearning/champ_o365guide) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion: Participez au programme Office 365 champions](/Office365/CustomLearning/champ_o365program) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion: recommandations concrètes](/Office365/CustomLearning/champ_realworldguides) | rajouté |
-| 2/4/2019 | [Meilleures pratiques pour le programme de champion](/Office365/CustomLearning/champ_whyadopt) | rajouté |
+| 3/11/2019 | [Configuration de composant WebPart autonome](/Office365/CustomLearning/custom_manualsetup) | Modifié le |
+| 3/11/2019 | [Mettre en service le site d'apprentissage personnalisé](/Office365/CustomLearning/custom_provision) | Modifié le |
+| 3/11/2019 | [Mise à niveau de formation personnalisée](/Office365/CustomLearning/custom_upgrade) | Modifié le |
+| 3/11/2019 | [Forum aux questions sur les solutions de formation personnalisée pour Office 365](/Office365/CustomLearning/faq) | Modifié le |
+| 3/12/2019 | [Vue d'ensemble de la solution open source de formation personnalisée pour Office 365](/Office365/CustomLearning/index) | Modifié le |
+| 3/13/2019 | [# Conduite de l'adoption du portail d'apprentissage personnalisé](/Office365/CustomLearning/driveadoption) | Modifié le |
+| 3/13/2019 | [Mettre en service le site d'apprentissage personnalisé](/Office365/CustomLearning/custom_provision) | Modifié le |
+| 3/13/2019 | [Configuration de composant WebPart autonome](/Office365/CustomLearning/custom_manualsetup) | Modifié le |
 
 
 ## <a name="week-of-february-11-2019"></a>Semaine du 11 février 2019
