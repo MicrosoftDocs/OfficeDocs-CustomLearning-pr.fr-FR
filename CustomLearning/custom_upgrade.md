@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Mise à niveau de formation personnalisée
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543774"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936394"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Mise à niveau manuelle de l'apprentissage personnalisé
 
@@ -20,7 +20,7 @@ Custom Learning for Office 365 fournit un processus de mise à niveau manuel pou
 - Exécuter un script PowerShell qui configurera votre client avec les artefacts appropriés requis pour l'apprentissage personnalisé
 - Accédez à la page CustomLearningAdmin. aspx dans le site d'apprentissage personnalisé pour initialiser la configuration ccontent personnalisée.
 
-## <a name="prerequisites"></a>Conditions requises
+## <a name="prerequisites"></a>Conditions préalables
 Pour garantir la réussite de la mise à niveau de l'apprentissage personnalisé, les conditions préalables suivantes doivent être remplies. 
 
 - Vous devez avoir configuré un catalogue d'applications à l'échelle du client. Si vous n'avez pas de catalogue d'applications client, reportez-vous à la rubrique [configurer votre client Office 365](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) et suivre la section créer un site de catalogue d'applications. 
@@ -80,7 +80,7 @@ Custom Learning for Office 365 a introduit diverses améliorations pour le compo
 1.  À partir du site d'apprentissage personnalisé, cliquez sur **paramètres**, puis cliquez sur ***Ajouter une page**.
 2.  Cliquez sur **+** l'icône sur la page pour ajouter un composant WebPart, puis sélectionnez le composant WebPart **formation personnalisée pour Office 365** . La page doit maintenant ressembler à ce qui suit:
 
-[CG-adminapppage. png](media/cg-adminapppage.png)
+![CG-adminapppage. png](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>Remplacer l'ancien composant WebPart par le nouveau composant WebPart
 Avant de remplacer le composant WebPart formation personnalisée ou d'apporter des modifications au site, nous vous recommandons de lire la documentation [personnaliser l'expérience d'apprentissage](custom_overview.md) car elle explique comment utiliser le nouveau composant WebPart. 
