@@ -1,31 +1,31 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Prise en charge et commentaires
+title: Commentaires et assistance
 ms.date: 02/10/2019
-description: Prise en charge et les commentaires des informations pour l’apprentissage personnalisé pour Office 365
+description: Commentaires et informations de support pour la formation personnalisée pour Office 365
 ms.openlocfilehash: 3a403b986b127fb5ea84dc43d5d91d62079803ce
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951188"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055321"
 ---
-# <a name="feedback-and-support"></a>Prise en charge et commentaires
+# <a name="feedback-and-support"></a>Commentaires et assistance
 
-Ce projet open source est pris en charge par le biais de notre [liste de problèmes en ligne](https://aka.ms/CustomLearningHelp) sur les référentiels. Ces solutions ne sont pas couverts par un contrat de support technique Microsoft existant.  
+Ce projet open source est pris en charge par le biais de notre [liste de problèmes en ligne](https://aka.ms/CustomLearningHelp) sur GitHub. Ces solutions ne sont pas couvertes par un contrat de support technique Microsoft existant.  
 
-## <a name="report-issues"></a>Problèmes de rapport
+## <a name="report-issues"></a>Signaler les problèmes
 
-Si vous avez des problèmes avec le modèle de site open source ou d’un composant webpart qui fournit l’apprentissage personnalisé expérience Saisissez votre problème dans notre liste de problèmes de référentiels.  Vous pouvez trouver cette liste :https://aka.ms/CustomLearningHelp  
+Si vous rencontrez des problèmes avec le modèle de site ou le composant WebPart source Open qui fournit l'expérience d'apprentissage personnalisée, entrez votre problème dans notre liste de problèmes GitHub.  Cette liste se trouve à l'adressehttps://aka.ms/CustomLearningHelp  
 
-Selon la norme avec des solutions open source la Communauté procède au triage ces problèmes pour la résolution.  Demandes de fonctionnalités sont transférées dans notre instance de voix utilisateur indiqué ci-dessous.  Bogues sont transmis aux responsables de service et de la Communauté pour hiérarchiser et la résolution.  
+Comme c'est le cas en standard avec les solutions open source, la communauté tripire ces problèmes de résolution.  Les demandes de fonctionnalité sont transférées dans notre instance de voix utilisateur indiquée ci-dessous.  Les bogues de code sont transmis à la communauté et aux gestionnaires de services pour le triage et la résolution.  
 
-## <a name="provide-us-feedback"></a>Fournissez des commentaires
+## <a name="provide-us-feedback"></a>Nous faire part de vos commentaires
 
-Notre solution réussit uniquement si l’activation de vos commerciaux !  Veuillez nous aider à améliorer faites-nous commentaires via [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Nous allons examiner régulièrement toutes vos questions et commentaires.
+Notre solution n'est qu'une réussite si elle permet d'activer les résultats de votre entreprise.  Aidez-nous à le faire mieux en nous donnant des commentaires réguliers à l'aide de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Nous allons régulièrement examiner tous vos commentaires et questions.
 
-## <a name="usage-questions"></a>Questions sur l’utilisation
+## <a name="usage-questions"></a>Questions relatives à l'utilisation
 
-Pour les questions sur les meilleures pratiques en utilisant le portail de formation et son contenu Rejoignez-nous sur les forums [Adoption conduite](https://aka.ms/DriveAdoption) sur la Communauté technique Microsoft https://aka.ms/DriveAdoption. 
+Pour en savoir plus sur les meilleures pratiques en matière d'utilisation du portail d'apprentissage et [](https://aka.ms/DriveAdoption) sur son contenu, rejoignez-nous https://aka.ms/DriveAdoptionsur les forums de conduite de la communauté technique Microsoft à l'adresse. 
 

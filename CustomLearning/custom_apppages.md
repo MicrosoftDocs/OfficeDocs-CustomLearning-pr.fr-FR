@@ -5,11 +5,11 @@ title: Découverte des pages d'application SharePoint
 ms.date: 02/15/2019
 description: En savoir plus sur les fonctionnalités des pages d'application SharePoint dans Custom Learning
 ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
-ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30412298"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055578"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Découverte des pages d'application SharePoint
 

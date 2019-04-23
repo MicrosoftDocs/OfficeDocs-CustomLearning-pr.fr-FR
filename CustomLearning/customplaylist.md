@@ -5,11 +5,11 @@ title: Personnaliser et partager des sélections
 ms.date: 02/10/2019
 description: Créer des playlists personnalisées à partir d'un contenu existant ou de nouvelles pages SharePoint
 ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989725"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056392"
 ---
 # <a name="customize-and-share-playlists"></a>Personnaliser et partager des sélections
 
@@ -22,7 +22,7 @@ L'avantage de l'ajout de pages SharePoint est que vous pouvez créer des pages S
 #### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Étape 1: créer une page SharePoint pour votre playlist
 Dans cet exemple, nous allons d'abord créer une page SharePoint à ajouter à la liste de lecture. Nous allons créer une page avec un composant WebPart de vidéo YouTube et un composant WebPart texte.  Ces instructions supposent que vous utilisez le service SharePoint Online. 
 
-#### <a name="create-a-new-page"></a>Créer une page
+#### <a name="create-a-new-page"></a>Créez une page.
 1.  Sélectionnez le menu paramètres > contenu > site Web > nouvelle page de site >.
 2.  Dans la zone de titre, tapez utiliser la boîte de commandes teams
 3.  Sélectionnez la section Ajouter une nouvelle section, puis sélectionnez deux colonnes.
@@ -41,12 +41,14 @@ Dans cet exemple, nous allons d'abord créer une page SharePoint à ajouter à l
 
 #### <a name="step-2-create-the-playlist"></a>Étape 2: créer la playlist
 
-1. Accédez à la page **administration de formation personnalisée** dans votre expérience de site. ![custom_admin. png](media/custom_admin.png)
+1. Accédez à la page **administration de formation personnalisée** dans votre expérience de site.
+![custom_admin. png](media/custom_admin.png)
 1. Vérifier que la **catégorie** est sélectionnée 
 1. Cliquez sur la catégorie dans laquelle vous souhaitez que votre nouvelle playlist apparaisse.
 1. En regard du nom de la catégorie, cliquez sur le ![symbole plus custom_addplay. png.](media/custom_addplay.png)
 
-1. Renseignez les valeurs comme indiqué dans l'exemple ci-dessous, puis sélectionnez **créer**. ![custom_details. png](media/custom_details.png)
+1. Renseignez les valeurs comme indiqué dans l'exemple ci-dessous, puis sélectionnez **créer**. 
+![custom_details. png](media/custom_details.png)
 - **Title** -nom d'affichage de la playlist
 - **Description** : informations sur les éléments qui seront appris
 - **Catégorie** -présélectionnée en fonction de votre sélection initiale
@@ -65,7 +67,8 @@ Dans cet exemple, nous allons d'abord créer une page SharePoint à ajouter à l
 Dans cette étape, vous allez ajouter des biens existants de Microsoft et la page SharePoint que vous avez créée dans la liste de lecture. 
 
 1. Une fois que vous avez enregistré les détails de votre playlist, vous pouvez utiliser la recherche pour les ressources existantes.
-1. **Entrez un terme de recherche** pour afficher la liste des biens prédéfinis disponibles dans d'autres playlists. **Cliquez sur le nom** d'un élément pour l'inclure dans votre nouvelle playlist. ![custom_slist. png](media/custom_slist.png)
+1. **Entrez un terme de recherche** pour afficher la liste des biens prédéfinis disponibles dans d'autres playlists. **Cliquez sur le nom** d'un élément pour l'inclure dans votre nouvelle playlist.
+![custom_slist. png](media/custom_slist.png)
 
 Vous pouvez également ajouter la page SharePoint que vous avez créée précédemment ou en créer une de toutes pièces dans l'expérience.
 

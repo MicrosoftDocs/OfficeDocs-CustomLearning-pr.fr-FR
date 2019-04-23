@@ -5,11 +5,11 @@ title: Options de configuration de formation personnalisée
 ms.date: 02/11/2019
 description: Option de configuration de la configuration de formation personnalisée
 ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523008"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056037"
 ---
 # <a name="custom-learning-setup-options"></a>Options de configuration de formation personnalisée
 Custom Learning for Office 365 offre la souplesse nécessaire pour configurer la solution de différentes manières. Les sections suivantes décrivent les options disponibles.

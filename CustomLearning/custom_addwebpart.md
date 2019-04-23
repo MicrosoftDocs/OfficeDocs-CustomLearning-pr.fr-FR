@@ -5,11 +5,11 @@ title: Ajouter et modifier le composant WebPart formation personnalisée
 ms.date: 02/17/2019
 description: Ajouter le composant WebPart d'apprentissage personnalisé à une page SharePoint
 ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103849"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055696"
 ---
 # <a name="add-and-edit-the-custom-learning-web-part"></a>Ajouter et modifier le composant WebPart formation personnalisée
 
@@ -41,4 +41,4 @@ Vous pouvez modifier le composant WebPart d'apprentissage personnalisé pour aff
 ## <a name="add-a-title-and-publish-the-page"></a>Ajouter un titre et publier la page
 1. Dans la zone de titre de la page, tapez «créer votre propre expérience».
 2. Cliquez sur l'icône **modifier le composant WebPart** dans la zone de titre, sélectionnez **simple** sous **disposition**, puis fermez le volet des **Propriétés** .
-3. Cliquez sur **publier**.
+3. Cliquez sur **Publier**.

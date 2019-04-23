@@ -5,11 +5,11 @@ title: Accéder au site de formation personnalisée pour Office 365
 ms.date: 02/18/2019
 description: Accéder au site d'apprentissage personnalisé
 ms.openlocfilehash: 220d27d6f12f4edb26e0d46ac76cbcea12270e74
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411864"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055795"
 ---
 # <a name="add-owners-custom-learning-site"></a>Ajouter des propriétaires site d'apprentissage personnalisé
 

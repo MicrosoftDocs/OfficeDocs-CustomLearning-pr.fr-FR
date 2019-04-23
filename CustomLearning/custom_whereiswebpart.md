@@ -5,11 +5,11 @@ title: Où est le composant WebPart formation personnalisée
 ms.date: 02/15/2019
 description: En savoir plus sur l'emplacement où le composant WebPart formation personnalisée s'affiche dans le site d'apprentissage personnalisé
 ms.openlocfilehash: e1dff0c8624a69a299f718f0ce001000d0ca8dad
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103769"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056246"
 ---
 # <a name="wheres-the-custom-learning-web-part"></a>Où se trouve le composant WebPart formation personnalisée?
 

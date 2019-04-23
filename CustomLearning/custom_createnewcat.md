@@ -5,11 +5,11 @@ title: Créer une sous-catégorie
 ms.date: 02/17/2019
 description: Créer une sous-catégorie avec l'apprentissage personnalisé
 ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103739"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055448"
 ---
 # <a name="create-a-subcategory"></a>Créer une sous-catégorie 
 Dans certains cas, vous souhaiterez créer une sous-catégorie. Par exemple, si la première sous-catégorie jours ne fonctionne pas pour votre organisation, vous pouvez créer une sous-catégorie et y ajouter des sélections pour répondre aux besoins de votre organisation. 

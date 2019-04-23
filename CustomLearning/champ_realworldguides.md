@@ -1,20 +1,15 @@
 ---
-titre : ''
-ms.openlocfilehash: d306c62b264a0198967fedb259db06cf8fe472e9
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733679"
+titre: meilleures pratiques pour le programme de champion-Description du guide concret: # Drive adoption of Office 365 with the champion Program Best Practices Author: {github-ID} # karuanag ms. Author: {ms-alias} # karuanag ms. Date: {@date}           # 02/01/2019 ms. rubrique: Getting-Started # How-to
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>Conseils réelle de votre programme Champions
 
-Visionner ces vidéos d’instructions du monde réel pour la création de votre programme Champions.  
+# <a name="real-world-guidance-for-your-champions-program"></a>Recommandations concrètes pour votre programme de champions
 
-Simon Denton, architecte d’entreprise à Mott MacDonald
+Consultez ces vidéos de conseils pratiques pour créer votre programme de champions.  
+
+Simon Denton, architecte d'entreprise chez Mott MacDonald
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Pouneh Kaufman & Sara Bush de Microsoft IT présentent la création d’un programme Champions chez Microsoft
+Pouneh Kaufman & Sara de Microsoft IT discuter de la création d'un programme de spécialistes chez Microsoft
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

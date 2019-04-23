@@ -1,46 +1,41 @@
 ---
-titre : ''
-ms.openlocfilehash: 8f2351e1767de9073870e79d1111370cbe4df2cd
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29943950"
+titre: nombre de jours dans la vie avec Office 365-matin Description du café: # étapes rapides pour être prêt pour la journée à l'aide d'Office 365 auteur: {github-ID} # karuanag ms. Author: {ms-alias} # karuanag ms. Date: {@date} # 02/ 01/2019 ms. rubrique: Getting-Started # How-to
 ---
-# <a name="during-morning-coffee"></a>Au cours de café du matin
 
-![Café du matin visual](media/ditl_coffee.png)
+# <a name="during-morning-coffee"></a>Pendant le matin
 
-Il s’agit de 7 h 00, et même avant l’ouverture de l’ordinateur, vous pouvez obtenir un lot terminé sur votre appareil mobile lors de la consommation de votre café du matin. Dans cette section, nous allons vous montrer comment démarrer votre journée avec des applications Office 365 sur votre téléphone.
+![Café du matin](media/ditl_coffee.png)
 
-Office 365 permet de travailler à partir d’un de vos périphériques, où que vous soyez. Vous allez découvrir les avantages de l’utilisation de votre appareil mobile pour lire les messages électroniques le plus récent que dans la nuit, vérifier les tâches, replanifier une réunion, passez en revue vos tableaux de bord PowerBI, corriger une présentation ou envoyer un message. 
+Il est 7:00 AM et même avant l'ouverture de votre ordinateur, vous pouvez obtenir beaucoup de choses sur votre appareil mobile tout en boire votre café matin. Dans cette section, nous allons vous montrer comment lancer votre journée avec les applications Office 365 sur votre téléphone.
+
+Office 365 permet de travailler à partir de n'importe quel appareil, où que vous soyez. Vous découvrirez les avantages de l'utilisation de votre appareil mobile pour lire les derniers courriers électroniques arrivant à la nuit, vérifier les tâches, replanifier une réunion, vérifier vos tableaux de bord PowerBI, corriger une présentation ou envoyer un message. 
 
 ## <a name="tools"></a>Outils
 - Outlook (mobile)
 - Microsoft Teams (mobile)
-- Nouveautés de SharePoint (mobile)
+- Actualités SharePoint (mobile)
 - Office (mobile)
 
-## <a name="checklist-for-your-morning-coffee"></a>Liste de vérification pour votre café du matin
-- Consulter la messagerie dans Outlook ou Outlook mobile
-- Obtenir à jour sur les projets dans Microsoft Teams & SharePoint News
+## <a name="checklist-for-your-morning-coffee"></a>Liste de vérification pour votre café matin
+- Vérifier le courrier dans Outlook ou Outlook Mobile
+- Mettre à jour les projets dans Microsoft teams & SharePoint News
 - Gérer les éléments de calendrier sur votre appareil mobile
-- Vérifier les tâches pour le jour
+- Vérifier les tâches du jour
 - Gérer les fichiers Office à partir de votre appareil mobile 
 
-## <a name="check-mail-from-your-mobile-device"></a>Consulter votre messagerie à partir de votre appareil mobile
-Avant de vous déverrouillez votre téléphone, vous pouvez voir les messages électroniques non lus qui ont été envoyés vous nuit à partir de vos collègues dans différents fuseaux horaires. Vous pouvez également voir que vous avez deux réunions planifiées de 9 h 00, vous devrez faire quelque chose, mais les premières choses que tout d’abord : vérifier le courrier électronique pour voir si importants sont arrivée.
+## <a name="check-mail-from-your-mobile-device"></a>Vérifier le courrier à partir de votre appareil mobile
+Avant de déverrouiller votre téléphone, vous pouvez voir les courriels non lus qui vous ont été envoyés pendant la nuit depuis des collègues de différents fuseaux horaires. Vous pouvez également voir que deux réunions sont planifiées pour 9:00 AM-vous devez faire quelque chose sur cela, mais d'abord: Vérifiez le courrier électronique pour voir si un élément important est arrivé.
 
-Différentes plateformes mobiles disposent de fonctionnalités de notification différents. Configurer des notifications dans vos paramètres de notification d’appareils mobiles. 
+Différentes plateformes mobiles ont des fonctionnalités de notification différentes. ConFigurez les notifications dans les paramètres de notification des appareils mobiles. 
 
-## <a name="get-up-to-date-on-projects-in-microsoft-teams"></a>Obtenir à jour sur les projets dans Microsoft Teams
-Teams Microsoft est une conversation espace de travail idéal pour la gestion de projets, engagements clients ou n’importe quel type d’équipe est effectuée plus rapidement des conversations rapides. Les équipes et leurs canaux peut être facilement analysé pour la nouvelle activité. Analyse de l’activité le plus récent à partir de vos équipes en accédant aux informations sur les activités dans votre application mobile Teams Microsoft. Vous pouvez voir les notifications de canaux vous suivez ou où les personnes ont @ mentionné vous pour obtenir vos commentaires.  
+## <a name="get-up-to-date-on-projects-in-microsoft-teams"></a>Mettre à jour les projets dans Microsoft teams
+Microsoft teams est un espace de travail de conversation idéal pour la gestion des projets, des engagements client ou de n'importe quel type d'équipe qui devient plus productif grâce à des conversations rapides. Teams et leurs canaux peuvent être facilement analysés pour les nouvelles activités. Analysez la dernière activité de vos équipes en accédant au flux d'activités dans votre application mobile Microsoft Teams. Vous pouvez voir les notifications à partir des canaux que vous suivez ou des personnes qui ont @mentioned d'obtenir vos commentaires.  
 
 ## <a name="manage-calendar-items-on-your-mobile-device"></a>Gérer les éléments de calendrier sur votre appareil mobile
-Défilement par courrier électronique, vous voyez qu’il existe une référence à une des réunions planifiées de 9 h 00. Il indique que votre gestionnaire a besoin d’une mise à jour l’état d’un projet que vous travaillez sur cette réunion, et qu’en cours dans la bibliothèque de documents de votre site d’équipe SharePoint Online diapositives manque les figures le plus récent. Il s’agit clairement la priorité, afin que vous accédez au calendrier dans Outlook à replanifier les autres réunions a été à 9 h 00 et envoyez des mises à jour aux participants.
+En parCourant le courrier électronique, vous voyez qu'il existe une référence à une des réunions planifiée pour 9:00 AM. Il indique que votre responsable a besoin d'une mise à jour de l'état d'un projet sur lequel vous travaillez dans cette réunion, et que le jeu de diapositives actuel de la bibliothèque de documents de votre site d'équipe SharePoint Online manque aux derniers chiffres. Il s'agit clairement de la priorité, donc vous accédez au calendrier dans Outlook pour replanifier l'autre réunion de 9:00 AM et envoyer des mises à jour aux participants.
 
-## <a name="check-tasks-for-the-day"></a>Vérifier les tâches pour le jour
-Dans l’application Calendrier, vous pouvez également vérifier les tâches de la journée. Si vous utilisez le planificateur, le propriétaire de votre plan peut ajouter ces informations à leur calendrier Outlook. Puis tout membre de l’équipe permettre afficher les tâches dans un affichage Calendrier dans Outlook. Cela vous permet d’avoir clairement les rendez-vous et les tâches de priorité.  
+## <a name="check-tasks-for-the-day"></a>Vérifier les tâches du jour
+Dans l'application Calendrier, vous pouvez également vérifier les tâches du jour. Si vous utilisez le planificateur, le propriétaire de votre plan peut ajouter ces informations à son calendrier Outlook. Tous les membres de l'équipe peuvent afficher les tâches dans une vue de planification dans Outlook. Cela vous permet d'avoir une vue claire des tâches et rendez-vous prioritaires.  
 
 ## <a name="manage-office-files-from-your-mobile-device"></a>Gérer les fichiers Office à partir de votre appareil mobile
-Pour mettre à jour la présentation avec les figures le plus récent, allez dans le hub Office sur votre appareil mobile, où la bibliothèque de documents pour le site d’équipe a été configurée pour une synchronisation. À partir de là, recherchez l’ensemble de diapositives qui est utilisé pour la réunion et le modifier directement à partir de votre téléphone, en ajoutant les derniers chiffres PowerBI du tableau de bord. Vous pouvez accéder facilement des fichiers à l’aide de l’onglet fichiers Teams Microsoft qui s’ouvre automatiquement Hub Office sur votre appareil mobile. 
+Pour mettre à jour la présentation avec les derniers chiffres, accédez au hub Office sur votre appareil mobile où la bibliothèque de documents du site d'équipe a été configurée pour être synchronisée. À partir de là, recherchez le jeu de diapositives utilisé pour la réunion et modifiez-le directement à partir de votre téléphone, en ajoutant les derniers chiffres du tableau de bord PowerBI. Vous pouvez également accéder facilement aux fichiers via l'onglet fichiers Microsoft teams qui ouvre automatiquement le Hub Office sur votre appareil mobile. 

@@ -5,11 +5,11 @@ title: Liaison aux ressources de formation personnalisées
 ms.date: 02/15/2019
 description: Comment établir un lien vers des ressources de formation personnalisées
 ms.openlocfilehash: cdde37f370663ca50241833a15e8411921b45a1b
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103729"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056149"
 ---
 # <a name="link-to-custom-learning-content"></a>Lien vers du contenu de formation personnalisé
 
@@ -32,7 +32,7 @@ Si vous avez créé de nouvelles pages et des expériences d'apprentissage avec 
 5. Fermez le volet des propriétés du héros, cliquez sur **publier**, puis testez le lien. 
 
 ## <a name="link-to-the-custom-learning-web-part"></a>Lien vers le composant WebPart formation personnalisée
-L'apprentissage personnalisé vous offre la possibilité de créer un lien vers une instance du composant WebPart indépendamment de la page qui contient le composant WebPart. Vous pouvez partager le lien copié ou le lier à d'autres pages. Le lien copié, lorsque l'utilisateur clique dessus, affiche l'instance du composant WebPart de formation personnalisée dans la page CustomLLearningViewer. aspx. Examinons un exemple. 
+L'apprentissage personnalisé vous offre la possibilité de créer un lien vers une instance du composant WebPart indépendamment de la page qui contient le composant WebPart. Vous pouvez partager le lien copié ou le lier à d'autres pages. Le lien copié, lorsque l'utilisateur clique dessus, affiche l'instance du composant WebPart de formation personnalisée dans la page CustomLLearningViewer. aspx. Prenons un exemple. 
 
 1. À partir de la page d'accueil, cliquez sur **formation Office 365**.
 2. Cliquez sur **Microsoft teams**, puis sur **Introduction à Microsoft teams**.

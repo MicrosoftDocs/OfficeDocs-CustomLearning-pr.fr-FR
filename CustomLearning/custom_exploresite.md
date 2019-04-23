@@ -5,11 +5,11 @@ title: Explorer le site et le contenu par défaut
 ms.date: 02/10/2019
 description: Explorer le site de formation personnalisé et le contenu par défaut
 ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523038"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056450"
 ---
 # <a name="explore-the-custom-learning-site"></a>Explorer le site d'apprentissage personnalisé
 

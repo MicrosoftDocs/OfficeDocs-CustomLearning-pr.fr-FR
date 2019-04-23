@@ -1,23 +1,18 @@
 ---
-titre : ''
-ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733686"
+titre: description des meilleures pratiques pour le programme de champion: # pourquoi l'adoption du lecteur? Auteur: {github-ID} # karuanag ms. Author: {ms-alias} # karuanag ms. Date: {@date} # 02/01/2019 ms. topic: Getting-Started # How-to
 ---
-# <a name="why-put-effort-into-driving-adoption"></a>Pourquoi mettre effort en su adopter ?  
 
-Il est dans l’intérêt de votre société et vos employés pour obtenir le meilleur parti de votre investissement dans Office 365.  Vos employés peuvent simplifier leur productivité et vos données peuvent être sécurisée à l’intérieur de nos services.  Mais les jours, « Créez-le et ils seront arrivé. » est longues disparu.  Il est important de montrer les employés engagement moyens comment ils peuvent tirer parti de ces services.
+# <a name="why-put-effort-into-driving-adoption"></a>Pourquoi faire des efforts pour adopter l'adoption?  
 
-Programmes d’adoption peuvent augmenter la culture numérique de vos employés, simplifier leur productivité et entraîner une meilleure commerciaux. Donner vos employés sera finalement permettent à votre organisation à atteindre ses objectifs. 
+Il est dans le meilleur intérêt de votre entreprise et de vos employés de tirer le meilleur parti de votre investissement Office 365.  Vos employés peuvent rationaliser leur productivité et vos données peuvent être sûres et sécurisées à l'intérieur de nos services.  Mais les jours de, «sa création et son arrivée». sont dépassées.  Il est important de montrer aux employés comment ils peuvent tirer le meilleur parti de ces services.
 
-## <a name="interview-adoption-best-practices"></a>Entretien : Méthodes conseillées d’Adoption
+Les programmes d'adoption peuvent augmenter la culture numérique de vos employés, simplifier leur expérience de productivité et conduire à de meilleurs résultats. Permettre à vos employés d'atteindre les objectifs de votre organisation. 
 
-Regardez cette vidéo pour mieux comprendre pourquoi investir dans l’adoption de l’utilisateur.  
+## <a name="interview-adoption-best-practices"></a>Interview: recommandations relatives à l'adoption
 
-**Adopter & favorablement**: discuter d’Adoption pour & Teams Microsoft Office 365 avec [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), responsable du [programme Office 365 Champions](https://aka.ms/O365Champions) et [Darryl Webster](https://webster.net.nz/), MVP Microsoft et subject de collaboration en matière expert. 
+Regardez cette vidéo pour mieux comprendre pourquoi investir dans l'adoption par les utilisateurs.  
+
+**Adopter &** adopter: discussion sur l'adoption de Microsoft teams & Office 365 avec [KARUANA Gatimu](https://linkedin.com/in/karuanagatimu), leader du [programme Office 365 champions](https://aka.ms/O365Champions) et [Darryl](https://webster.net.nz/)Webster, MVP Microsoft et expert en collaboration. 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

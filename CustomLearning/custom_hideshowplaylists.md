@@ -5,11 +5,11 @@ title: Masquage et affichage des playlists
 ms.date: 02/15/2019
 description: Masquage et affichage des playlists
 ms.openlocfilehash: b0c3c2cc9c5803b6e4149ad914d22281691638ca
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103819"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055602"
 ---
 # <a name="hide-and-show-playlists"></a>Masquage et affichage des playlists
 

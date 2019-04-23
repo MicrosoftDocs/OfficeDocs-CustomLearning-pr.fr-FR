@@ -5,11 +5,11 @@ title: Accéder à la page Administration de formation personnalisée
 ms.date: 02/15/2019
 description: Procédure d'accès à la page d'administration de formation personnalisée à partir du composant WebPart ou du menu
 ms.openlocfilehash: 11bb2327948aedbc2db83138dd70c3ee76d085b6
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103669"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055522"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>Accéder à la page Administration de formation personnalisée
 

@@ -5,11 +5,11 @@ title: Ajouter des ressources à une playlist
 ms.date: 02/17/2019
 description: Ajouter des ressources nouvelles et existantes à une sélection d'apprentissage personnalisée
 ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103509"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055955"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Ajouter des ressources à une playlist personnalisée
 
@@ -44,7 +44,7 @@ Il existe deux options pour ajouter une nouvelle ressource à une playlist.
 
 ![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
 
-7. Cliquez sur **publier**.
+7. Cliquez sur **Publier**.
 8. ReVenez à la page **administration de formation personnalisée** . 
 9. Renseignez les autres propriétés de l'élément, puis cliquez sur enregistrer l' **élément.**
 
@@ -67,7 +67,7 @@ Avec l'option **Entrez l'URL** , vous fournissez un titre pour l'élément, puis
 
 Les biens existants consistent en des biens de formation personnalisés fournis par Microsoft ou des biens qui ont déjà été ajoutés à l'apprentissage personnalisé par votre organisation. 
 
-- Dans la zone de **recherche** , entrez une expression de recherche, puis sélectionnez un élément dans les résultats de la recherche. Dans cet exemple, entrez «What is Excel?» pour ajouter une rubrique d'introduction Excel à la playlist.
+- Dans la zone de **recherche** , entrez une expression de recherche, puis sélectionnez un élément dans les résultats de la recherche. Dans cet exemple, entrez «qu'est-ce qu'Excel?» pour ajouter une rubrique d'introduction Excel à la sélection.
 
 ![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
 

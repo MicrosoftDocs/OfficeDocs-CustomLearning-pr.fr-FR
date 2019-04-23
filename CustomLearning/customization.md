@@ -5,11 +5,11 @@ title: Personnaliser l'expérience de formation
 ms.date: 02/10/2019
 description: En savoir plus sur les différentes personnalisations disponibles avec la formation personnalisée pour Office 365
 ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30059685"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056296"
 ---
 # <a name="customize-the-training-experience"></a>Personnaliser l'expérience de formation
 
@@ -40,7 +40,8 @@ Comme point de départ pour la personnalisation du site, sélectionnez poser des
 
 1.  Accéder à la page Administration de formation personnalisée dans le ![site Web custom_admin. png](media/custom_admin.png)
 1. Sélectionnez **technologie** pour afficher la liste complète des services inclus dans la solution.
-1. Sélectionnez une technologie et **cliquez sur le symbole représentant un oeil** pour masquer ce contenu.  Cliquez de nouveau sur le symbole de l'oeil pour afficher le contenu dans l'expérience. ![personnalisé](media/custom_techlist.png)
+1. Sélectionnez une technologie et **cliquez sur le symbole représentant un oeil** pour masquer ce contenu.  Cliquez de nouveau sur le symbole de l'oeil pour afficher le contenu dans l'expérience. 
+![personnalisé](media/custom_techlist.png)
 
 Le même processus peut être répété pour les catégories de sélections dans l'expérience.  Il suffit de sélectionner l'option catégorie pour afficher/masquer les playlists. 
 

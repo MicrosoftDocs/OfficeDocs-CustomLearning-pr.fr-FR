@@ -1,22 +1,17 @@
 ---
-titre : ''
-ms.openlocfilehash: 6396722d085bf6c9e831ac34a86f9f3d087ef62e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733684"
+titre: les meilleures pratiques pour le programme de champion-Guide de l'adoption des utilisateurs finaux Microsoft 365 Description: # Drive adoption of Office 365 avec notre programme champion Best Practices Author: {github-ID} # karuanag ms. Author: {ms-alias} # karuanag  ms. Date: {@date} # 02/01/2019 ms. rubrique: Getting-Started # How-to
 ---
-# <a name="microsoft-365-end-user-adoption-guide"></a>Guide de Microsoft 365 utilisateur final d’Adoption
 
-![Guide d’Adoption Microsoft 365](media/m365euguide.png)
+# <a name="microsoft-365-end-user-adoption-guide"></a>Guide d'adoption de l'utilisateur final de Microsoft 365
 
-Pour en savoir plu sur ce sujet utilisent le [Guide de Microsoft 365 utilisateur final d’Adoption](https://aka.ms/adoptionguide). Ce guide présente les étapes pour la conduite d’adoption d’utilisateur final dans les domaines clés suivants :
+![Guide d'adoption de Microsoft 365](media/m365euguide.png)
 
-- Parties prenantes
+Pour en savoir plus sur ce sujet, utilisez le Guide de l'adoption de l' [utilisateur final de Microsoft 365](https://aka.ms/adoptionguide). Ce guide décrit les étapes à suivre pour adopter l'adoption par les utilisateurs finaux dans les domaines clés suivants:
+
+- Aux
 - Scénarios
 - Sensibilisation
 - Formation 
 - Planifier, implémenter et gérer les modifications
 - 
-- Nous mettre à jour ce guide fréquemment pour incorporer les nouvelles informations.
+- Nous mettons régulièrement à jour ce guide pour incorporer de nouvelles informations.

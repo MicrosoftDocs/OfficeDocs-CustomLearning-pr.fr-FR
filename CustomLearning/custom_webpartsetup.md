@@ -5,17 +5,17 @@ title: Mettre en service le site d'apprentissage personnalisé
 ms.date: 02/10/2019
 description: Mettre en service le site de formation personnalisée pour Office 365 via le moteur de mise en service SharePoint
 ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523590"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056127"
 ---
 # <a name="provision-custom-learning"></a>Mettre en service une formation personnalisée
 
 Avec le service de mise en service SharePoint Online, un administrateur client Office 365 peut démarrer le processus de mise en service avec quelques clics simples. Le service de mise en service est la méthode recommandée pour mettre en service l'apprentissage personnalisé. Il est rapide, facile et ne prend que quelques minutes pour démarrer le processus. Avant de commencer à utiliser le service de mise en service, assurez-vous que vous avez rempli les conditions préalables pour la mise en service.
 
-## <a name="prerequisites"></a>Conditions requises
+## <a name="prerequisites"></a>Conditions préalables
  
 Pour configurer correctement l'apprentissage personnalisé avec le [service de mise en service SharePoint Online](https://provisioning.sharepointpnp.com)du service de mise en service, la personne qui effectue la mise en service doit répondre aux conditions préalables suivantes: 
  

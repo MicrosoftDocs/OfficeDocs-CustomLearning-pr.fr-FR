@@ -5,17 +5,17 @@ title: Accéder au site de formation personnalisée pour Office 365
 ms.date: 02/18/2019
 description: Accéder au site d'apprentissage personnalisé
 ms.openlocfilehash: 3964d77ea207000b2fab0320e5bf2237f6e49e2a
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103759"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056180"
 ---
 # <a name="go-to-the-custom-learning-site"></a>Accéder au site d'apprentissage personnalisé
 
 Le site de formation personnalisée pour Office 365 est hébergé dans votre client Office 365, de sorte que vous devez vous connecter à Office 365 pour accéder au site. Si vous ne vous êtes pas déjà connecté à Office 365, connectez-vous maintenant. 
 
-## <a name="sign-in-to-office-365"></a>Connectez-vous à Office 365 
+## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
 1.  Ouvrez votre navigateur Web et accédez à office.com ou à l'emplacement de connexion de votre organisation. 
 2.  Connectez-vous avec votre nom d'utilisateur et votre mot de passe.
