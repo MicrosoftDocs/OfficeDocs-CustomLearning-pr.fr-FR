@@ -5,11 +5,11 @@ title: Configuration de composant WebPart autonome
 ms.date: 02/10/2019
 description: Formation personnalisée pour la configuration du composant WebPart manuel Office 365
 ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577850"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055058"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configuration de composant WebPart autonome
 
@@ -24,7 +24,7 @@ La formation personnalisée offre une configuration de composant WebPart autonom
 > [!NOTE]
 > Si vous recherchez un moyen rapide et facile de configurer l'apprentissage personnalisé, consultez la rubrique [provision Custom Learning](custom_provision.md).
 
-## <a name="prerequisites"></a>Conditions requises
+## <a name="prerequisites"></a>Conditions préalables
 Pour garantir la réussite de la configuration manuelle du composant WebPart d'apprentissage personnalisé, les conditions préalables requises doivent être satisfaites. 
 
 - Vous devez avoir configuré et configuré le catalogue d'applications à l'échelle du client. Consultez la rubrique [configurer votre client Office 365](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) et suivez la section créer un site de catalogue d'applications. 

@@ -1,24 +1,24 @@
 # <a name="webpart-default-content"></a>Contenu par défaut du composant WebPart
 
-## <a name="the-playlist-model"></a>Le modèle de sélection
+## <a name="the-playlist-model"></a>Modèle de la playlist
 
-Notre webpart utilise un modèle de sélection familière pour organiser le contenu.  Ce modèle est simple pour les utilisateurs à comprendre et à personnaliser si vous choisissez de.  Personnalisation n’est pas obligatoire.  Notre hors de l’expérience de zone vous propose une formation effective du contenu basé sur notre recherche.
+Notre composant WebPart utilise un modèle de playlist familier pour organiser le contenu.  Ce modèle est simple pour les utilisateurs finals à comprendre et à personnaliser si vous le souhaitez.  La personnalisation n'est pas obligatoire.  Notre expérience out-of-Box vous fournit un contenu de formation efficace basé sur notre recherche approfondie.
 
-Ces sélections sont conçues pour aider les organisations à personnaliser l’expérience de formation des utilisateurs et de les présenter avec pour consommer les sélections à animer les comportements de nouvelles et plus productifs. Le contenu au serveur à partir de Support.Office.com et les biens sont brièvement, avec des vidéos peppy, agréable. 
+Ces playlists sont conçues pour aider les organisations à personnaliser l'expérience d'apprentissage pour les utilisateurs et à les présenter avec des playlists faciles à utiliser pour les animer et les comportements plus productifs. Le contenu de serve de Support.Office.com et les biens sont courts et doux, avec Peppy, attirant des vidéos. 
 
-Chaque mosaïque représente une sélection proposée individuelle ou une catégorie de contenu. Cliquez sur les mosaïques sélection ou d’une catégorie rapidement dirige l’utilisateur dans la zone sélectionnée. L’illustration ci-dessous montre les deux listes proposés sous catégories « Get Started sélection » et l’application Office 365 tels que Excel, Microsoft Teams et d’autres personnes. 
+Chaque vignette représente une sélection individuelle ou une catégorie de contenu. Le fait de cliquer sur une sélection ou une vignette de catégorie permet de naviguer rapidement dans la zone sélectionnée. Le graphique ci-dessous présente les deux listes en vedette sous «liste de sélection de prise en main» et les catégories d'applications Office 365 telles que Excel, Microsoft teams et autres. 
 
-![Affichage par défaut du composant WebPart](media/clo365addwebpart.png)
+![Vue par défaut du composant WebPart](media/clo365addwebpart.png)
 
-En cliquant sur la catégorie Excel accéder par exemple à une collection de listes de diffusion.  Ils peuvent regarder contenu dans l’ordre ou sélectionnez ce qui les intéressent en fonction de leurs besoins en matière de formation. 
+Si vous cliquez sur la catégorie Excel, l'instance se déplace vers une collection de playlists.  Ils peuvent suivre le contenu dans l'ordre ou sélectionner les centres d'intérêt en fonction de leurs besoins de formation. 
 
-![Sélection du composant WebPart](media/clo365exceltraining.png)
+![Liste de WebPart](media/clo365exceltraining.png)
 
-Sélection vue sélectionnée
+Vue de playlist sélectionnée
 
-![Sélection d’Excel](media/clo365excelplaylist.png)
+![Playlist Excel](media/clo365excelplaylist.png)
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- Parcourir et familiarisez-vous avec le contenu existant
-- Passez à [Personnaliser les sélections](customplaylists.md)
+- Parcourir et se familiariser avec le contenu existant
+- Procéder à la [personnalisation](customplaylists.md) des sélections
