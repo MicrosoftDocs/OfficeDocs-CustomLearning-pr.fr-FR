@@ -3,22 +3,22 @@ author: pkrebs
 ms.author: pkrebs
 title: Rechercher
 ms.date: 02/10/2019
-description: Recherche dans l'apprentissage personnalisé
-ms.openlocfilehash: 0d697c8fb064db482f4eb5db4003ac91164f58ff
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Recherche dans les voies d’apprentissage Microsoft 365
+ms.openlocfilehash: d6675e1df06a27813c4d83e1a95d29aa135596a2
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055038"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247702"
 ---
-# <a name="search-for-custom-learning-content"></a><span data-ttu-id="cc039-103">Rechercher du contenu d'apprentissage personnalisé</span><span class="sxs-lookup"><span data-stu-id="cc039-103">Search for Custom Learning content</span></span>
+# <a name="search-for-microsoft-365-learning-pathways-content"></a><span data-ttu-id="7f02c-103">Rechercher le contenu des chemins d’apprentissage Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="7f02c-103">Search for Microsoft 365 learning pathways content</span></span>
 
-<span data-ttu-id="cc039-104">L'apprentissage personnalisé offre la possibilité de rechercher du contenu en fonction de la sous-catégorie, de la liste de diffusion ou de la ressource.</span><span class="sxs-lookup"><span data-stu-id="cc039-104">Custom Learning provides the ability to search for content by subcategory, playlist, or asset.</span></span> 
+<span data-ttu-id="7f02c-104">Les chemins d’apprentissage Microsoft 365 permettent de rechercher du contenu par sous-catégorie, liste de diffusion ou ressource.</span><span class="sxs-lookup"><span data-stu-id="7f02c-104">Microsoft 365 learning pathways provides the ability to search for content by subcategory, playlist, or asset.</span></span> 
 
 > [!TIP]
-> <span data-ttu-id="cc039-105">La recherche de formation personnalisée est étendue au contenu de formation personnalisé, y compris au contenu fourni par Microsoft et à tout contenu ajouté à des listes de lecture ou à des sous-catégories personnalisées.</span><span class="sxs-lookup"><span data-stu-id="cc039-105">Custom Learning Search is scoped to Custom Learning content, including the content provided by Microsoft  and any content added to custom playlists or subcategories.</span></span> <span data-ttu-id="cc039-106">La recherche d'apprentissage personnalisée n'inclut pas les pages SharePoint dans les résultats de la recherche.</span><span class="sxs-lookup"><span data-stu-id="cc039-106">Custom Learning Search does not include the SharePoint pages in its Search results.</span></span>     
+> <span data-ttu-id="7f02c-105">La recherche des chemins d’apprentissage Microsoft 365 est limitée au contenu d’apprentissage, notamment le contenu fourni par Microsoft et tout le contenu ajouté aux listes de lecture ou aux sous-catégories personnalisées.</span><span class="sxs-lookup"><span data-stu-id="7f02c-105">Microsoft 365 learning pathways Search is scoped to learning pathways content, including the content provided by Microsoft and any content added to custom playlists or subcategories.</span></span> <span data-ttu-id="7f02c-106">Les pages SharePoint qui ne se trouvent pas dans une playlist de voies d’apprentissage ne sont pas incluses dans les résultats de la recherche.</span><span class="sxs-lookup"><span data-stu-id="7f02c-106">SharePoint pages that are not in a learning pathways playlist are not included in Search results.</span></span>     
 
-- <span data-ttu-id="cc039-107">Cliquez sur l'icône de **recherche** et tapez une expression de recherche.</span><span class="sxs-lookup"><span data-stu-id="cc039-107">Click the **Search** icon and type a Search phrase.</span></span> 
+- <span data-ttu-id="7f02c-107">Cliquez sur l’icône de **recherche** et tapez une expression de recherche.</span><span class="sxs-lookup"><span data-stu-id="7f02c-107">Click the **Search** icon and type a Search phrase.</span></span> 
 
 ![CG-Search. png](media/cg-search.png)
 
