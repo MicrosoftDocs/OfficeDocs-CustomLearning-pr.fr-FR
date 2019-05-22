@@ -24,5 +24,5 @@
 # [Commentaires et assistance](feedback.md)
 # [Forum Aux Questions](faq.md)
 # [Forum aux questions sur les partenaires](custom_partner.md)
-# [Mettre à jour les chemins d’apprentissage Microsoft 365](custom_upgrade.md)
+# [Mettre à jour les chemins d’apprentissage Microsoft 365](custom_update.md)
 # [Dépannage des chemins d’apprentissage Microsoft 365](custom_troubleshooting.md)
