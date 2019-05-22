@@ -4,15 +4,19 @@ ms.author: pkrebs
 title: Options de configuration des chemins d’apprentissage Microsoft 365
 ms.date: 02/11/2019
 description: Option de configuration de la configuration de formation personnalisée
-ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247689"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334699"
 ---
 # <a name="learning-pathways-setup-options"></a>Options de configuration des voies d’apprentissage
 Les voies de formation permettent de configurer la solution de différentes manières. Les sections suivantes décrivent les options disponibles.
+
+> [!IMPORTANT]
+> À 5/21/2019, les voies d’apprentissage Microsoft 365 sont le nouveau nom de la solution anciennement appelée formation personnalisée pour Office 365. Si vous avez déjà mis en service une formation personnalisée pour Office 365 dans votre organisation et que vous souhaitez mettre à jour la solution, suivez les instructions «mise à jour de la solution» dans le [fichier Lisez-moi des chemins d’apprentissage Microsoft 365](https://github.com/pnp/custom-learning-office-365). Si vous configurez les voies d’apprentissage de Microsoft 365 pour la première fois, reportez-vous à la rubrique [provision microsoft 365 Learning voies instructions]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) dans la documentation Microsoft 365 Learning voies.  
+
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Recommandé: configuration du service de mise en service SharePoint Online 
 Le service de mise en service SharePoint Online offre la méthode la plus rapide, la plus facile et recommandée pour la configuration de l’apprentissage personnalisé. Avec le service de mise en service SharePoint Online, un administrateur client Office 365 se connecte au service, effectue quelques choix, puis clique sur **Ajouter au client** pour mettre en service le site de formation personnalisé et le composant WebPart formation personnalisée. Lorsque la mise en service est terminée, l’administrateur de client reçoit un message électronique indiquant que le site est prêt. 
