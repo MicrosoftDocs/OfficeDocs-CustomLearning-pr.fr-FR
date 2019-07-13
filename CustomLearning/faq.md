@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Forum aux questions pour les voies d’apprentissage Microsoft 365
 ms.date: 02/10/2019
 description: Forum aux questions informations sur les voies d’apprentissage Microsoft 365
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334718"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636108"
 ---
 # <a name="frequently-asked-questions"></a>Forum Aux Questions
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>J’ai récemment vu un billet de blog qui a été renommé formation personnalisée pour Office 365 sur les voies d’apprentissage de Microsoft 365. Y a-t-il d’autres modifications ajoutées à la solution dans le cadre de l’opération de changement de nom? Dois-je mettre à jour la solution dans mon organisation?
+
+Le lancement des voies d’apprentissage de Microsoft 365 est un effort de personnalisation destiné à modifier le nom de la solution afin de l’aligner sur la personnalisation Microsoft 365. Si vous disposez d’une formation personnalisée pour Office 365 en cours d’exécution dans votre organisation, il n’est pas nécessaire de mettre à jour la solution pour le moment.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Quelles sont les conditions requises pour l’installation des chemins d’apprentissage Microsoft 365 dans mon environnement de client?
 
@@ -34,7 +38,7 @@ Les chemins d’apprentissage Microsoft 365 sont actuellement en version bêta. 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Quelles sont les langues disponibles pour les voies d’apprentissage Microsoft 365?
 
-Les chemins d’apprentissage Microsoft 365 sont actuellement disponibles uniquement en anglais. La mise en service automatique de bout en bout ne fonctionne qu’avec les locataires anglais. Nous prévoyons de déployer la prise en charge multilingue pour ces neuf langues dans CY19 Q3: 
+Les chemins d’apprentissage Microsoft 365 sont actuellement disponibles uniquement en anglais. La mise en service automatique de bout en bout ne fonctionne qu’avec les locataires anglais. Nous prévoyons de déployer la prise en charge multilingue pour ces neuf langues dans CY19 T4: 
 
 - Chinois (simplifié) 
 - Néerlandais (Pays-Bas) 
