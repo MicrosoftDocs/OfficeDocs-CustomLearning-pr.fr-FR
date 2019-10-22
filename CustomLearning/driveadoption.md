@@ -3,34 +3,40 @@ title: ''
 description: ''
 author: karuanag
 ms.author: karuanag
-ms.date: 3/13/19
+ms.date: 5/16/19
 ms.topic: getting-started
-ms.openlocfilehash: a6e1f7dc24ac98def19300ccc38f775e5750da7c
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 16b1ed0ad0ea9d236963e7e82085c7041e95ae33
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056017"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34248049"
 ---
-# <a name="drive-adoption-of-your-learning-portal"></a>Adoption des lecteurs de votre portail d'apprentissage
+# <a name="drive-adoption-of-your-learning-pathways-portal"></a>Encouragez l’adoption de votre portail de voies d’apprentissage
 
-Encouragez l'adoption de vos expériences d'apprentissage personnalisées à l'aide de ces étapes et outils simples. 
+Pour vous aider à accélérer l’adoption des chemins de formation Microsoft 365, nous avons créé un [Kit d’adoption téléchargeable](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). Le kit inclut une vue d’ensemble des meilleures pratiques pour l’adoption de la conduite, des exemples de modèles de courrier électronique basés sur des scénarios courants et un calendrier pratique pour la planification de votre campagne de communication pour votre nouveau site de voies de formation.Utilisez nos modèles ou examinez-les pour vous inspirer pour créer votre propre campagne de communication.  
 
-Nous comprenons que les solutions de formation sont aussi efficaces que l'utilisation qu'elles reçoivent dans votre organisation. C'est pourquoi nous avons créé ces étapes et modèles simples pour vous aider à sensibiliser et à adopter nos outils. Commencez par ces étapes une fois que vous avez configuré le modèle de site dans votre environnement SharePoint Online.
+Au minimum, pour garantir le succès, nous vous recommandons d’effectuer les opérations suivantes :
 
-## <a name="connect-learning-to-other-business-outcomes"></a>Se connecter aux autres résultats de l'entreprise
-Vous obtiendrez les meilleurs résultats lorsque le lancement de l'expérience d'apprentissage personnalisée est intégré à d'autres projets de déploiement ou de mise à niveau de services.  Cela permettra aux employés de consulter le site.  Il peut s'agir par exemple d'une mise à niveau de SharePoint Online ou du déploiement de Microsoft Teams.  Vous pouvez inclure des expressions telles que:
+1. Communiquez le lancement du site de voies d’apprentissage à vos employés.  
+2. Connectez les voies d’apprentissage aux tâches courantes que vos employés peuvent apprendre ou améliorer.
+3. Maintenir la campagne de communication sur une période de temps pour que les employés aient la possibilité de comprendre le comportement.
+4. Encouragez les commentaires via une communauté Yammer ou une équipe Microsoft. 
+5. Renseignez-vous auprès des responsables commerciaux clés de votre organisation et encouragez-les à créer des listes de sélection pour les tâches et les processus courants qu’ils aimeraient que leurs membres d’équipe apprennent.  
 
-«Pour en savoir plus sur <Insert service name here> la visite guidée de notre portail d'apprentissage personnalisé pour Office 365». 
+## <a name="connect-learning-to-other-business-outcomes"></a>Se connecter aux autres résultats de l’entreprise
+Vous obtiendrez les meilleurs résultats lorsque le lancement de l’expérience de voies d’apprentissage est intégré à d’autres projets de déploiement ou de mise à niveau de service.  Cela permettra aux employés de consulter le site.  Il peut s’agir par exemple d’une mise à niveau de SharePoint Online ou du déploiement de Microsoft Teams.  Vous pouvez inclure des expressions telles que :
 
-## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Aligner le site de formation sur les investissements réalisés dans l'apprentissage de votre employé 
+"Pour en savoir plus sur <Insert service name here> la visite du site des chemins d’apprentissage Microsoft 365." 
 
-Collaborez avec votre équipe des ressources humaines pour aligner le lancement de votre portail de formation avec les autres initiatives de formation des employés qui sont mises en œuvre dans votre entreprise. 
+## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Aligner le site de formation sur les investissements réalisés dans l’apprentissage de votre employé 
 
-## <a name="join-the-driving-adoption-community"></a>Participer à la communauté de l'adoption du conducteur
+Collaborez avec votre équipe des ressources humaines pour aligner le lancement de votre site de formation aux autres initiatives de formation des employés qui sont mises en œuvre dans votre entreprise. 
 
-Partagez votre expérience avec le portail d'apprentissage de notre communauté d'adoption en ligne.  Accédez-nous https://aka.ms/DriveAdoptionà l'adresse.
+## <a name="join-the-driving-adoption-community"></a>Participer à la communauté de l’adoption du conducteur
+
+Partagez votre expérience avec les voies d’apprentissage de Microsoft 365 dans notre communauté d’adoption de conduite en ligne.  Accédez-nous https://aka.ms/DriveAdoptionà l’adresse.
 
 ## <a name="give-us-feedback"></a>Faites-nous part de vos commentaires
 
-Avez-vous des demandes de nouvelles fonctionnalités ou du contenu dans le portail d'apprentissage personnalisé?  Visitez notre site UserVoice en ligne, qui vous permet de voter pour des suggestions existantes ou d'ajouter les vôtres.  Recherchez notre instance UserVoice à https://aka.ms/AdoptionToolsl'adresse.
+Avez-vous des demandes de nouvelles fonctionnalités ou du contenu dans le portail d’apprentissage personnalisé ?  Visitez notre site UserVoice en ligne, qui vous permet de voter pour des suggestions existantes ou d’ajouter les vôtres.  Recherchez notre instance UserVoice à https://aka.ms/AdoptionToolsl’adresse.

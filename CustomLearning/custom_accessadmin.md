@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: Accéder à la page Administration de formation personnalisée
 ms.date: 02/15/2019
 description: Procédure d’accès à la page d’administration de formation personnalisée à partir du composant WebPart ou du menu
-ms.openlocfilehash: 0e108c4b523d0abed667b9f07d86e1b81bb686a3
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247530"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327225"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>Accéder à la page Administration de formation personnalisée
 
-La page d’administration de formation personnalisée est le point de contrôle central pour l’administration du composant WebPart pathwasy d’apprentissage Microsoft 365. La page d’administration des voies d’apprentissage est uniquement disponible pour les administrateurs SharePoint. Les utilisateurs disposant de privilèges de membre visitant le site ne verront pas l’option administrer la **playlist** . De plus, seuls les administrateurs ont la possibilité d’ouvrir la page Administration de formation personnalisée à partir de l’élément de menu **Accueil** SharePoint.  
+La page d’administration de formation personnalisée est le point de contrôle central pour l’administration du composant WebPart pathwasy d’apprentissage Microsoft 365. La page d’administration des voies d’apprentissage est uniquement disponible pour les administrateurs SharePoint. Les utilisateurs disposant de privilèges de membre visitant le site ne verront pas l’option **administrer la playlist** . De plus, seuls les administrateurs ont la possibilité d’ouvrir la page Administration de formation personnalisée à partir de l’élément de menu **Accueil** SharePoint.  
 
 > [!IMPORTANT]
 > Les modifications apportées à la page Administration de formation personnalisée, telles que le masquage d’une liste ou d’une sous-catégorie de produits, seront reflétées dans toutes les instances du composant WebPart. En outre, il est recommandé qu’un seul administrateur à la fois effectue des modifications sur la page administrateur de formation personnalisée, car l’apprentissage personnalisé ne fournit pas de détection de collision si plusieurs personnes utilisent l’administration de formation personnalisée en même temps.  
@@ -22,7 +22,7 @@ La page d’administration de formation personnalisée est le point de contrôle
 Comme nous allons l’afficher dans cet exemple, l’ouverture de la page Administration de formation personnalisée à partir du composant WebPart est la méthode préférée car elle ouvre la page d’administration dans une nouvelle fenêtre de navigateur. Avec cette méthode, il est facile de basculer entre les pages à onglets pour vérifier ou modifier votre travail.  
 
 1. Sur la page d’accueil des chemins d’apprentissage Microsoft 365, cliquez sur la vignette de **formation Office 365** .
-2. Cliquez sur le menu **système** , puis sur administrer la **playlist**. 
+2. Cliquez sur le menu **système** , puis sur **administrer la playlist**. 
 
 ![CG-adminaccbtn. png](media/cg-adminaccbtn.png)
 
