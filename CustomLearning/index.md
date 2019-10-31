@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Vue d’ensemble des chemins d’apprentissage Microsoft 365
 ms.date: 10/23/2019
 description: Découvrez comment les chemins d’apprentissage Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services 365 Microsoft dans votre organisation. Les voies de formation incluent un composant WebPart SharePoint Online personnalisé et un site de formation aux communications SharePoint Online modernes qui est facile à configurer pour votre client Microsoft 365.
-ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
+ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726718"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37885558"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Aperçu bêta des chemins d’apprentissage Microsoft 365
 Les voies d’apprentissage de Microsoft 365 sont une solution d’apprentissage à la demande personnalisable conçue pour améliorer l’utilisation et l’adoption des services 365 Microsoft au sein de votre organisation.  
@@ -38,7 +38,7 @@ Nous allons commencer à créer une expérience de voies d’apprentissage pour 
 
 ## <a name="feedback-and-support"></a>Commentaires et assistance
 
-Les voies d’apprentissage Microsoft 365 sont un projet open source pris en charge par notre [liste de problèmes en ligne](https://aka.ms/CustomLearningHelp) sur GitHub. La solution de chemins d’learnng et ses composants ne sont pas couverts par les contrats de support technique Microsoft existants.  
+Les voies d’apprentissage Microsoft 365 sont un projet open source pris en charge par notre [liste de problèmes en ligne](https://aka.ms/CustomLearningHelp) sur GitHub. La solution de voies d’apprentissage et ses composants ne sont pas couverts par les contrats de support technique Microsoft existants.  
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
-Vous pouvez utiliser le site des chemins d’apprentissage Microsoft 365 pour fournir des liens vers les forums de la communauté d’utilisateurs nouveaux ou existants. Pensez à démarrer un groupe d’utilisateurs interne, si vous n’en avez pas encore, pour permettre aux utilisateurs de partager leur réussite et d’apprendre les uns des autres.  Si vous n’avez pas le temps nécessaire pour entretenir un groupe d’utilisateurs interne, vous et vos employés pouvez rejoindre la [communauté office 365 champion](https://aka.ms/O365Champions) pour la formation mensuelle, l’appartenance à la communauté en ligne et l’accès anticipé aux outils et ressources pour Office 365.
+Vous pouvez utiliser le site des chemins d’apprentissage Microsoft 365 pour fournir des liens vers les forums de la communauté d’utilisateurs nouveaux ou existants. Pensez à démarrer un groupe d’utilisateurs interne, si vous n’en avez pas encore, pour permettre aux utilisateurs de partager leur réussite et d’apprendre les uns des autres.  Si vous n’avez pas le temps d’entretenir un groupe d’utilisateurs interne, vous et vos employés pouvez rejoindre la [communauté office 365 champion](https://aka.ms/O365Champions) pour la formation mensuelle, l’appartenance à la communauté en ligne et l’accès anticipé aux outils et ressources pour Office 365.

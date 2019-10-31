@@ -1,38 +1,29 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Vue d’ensemble
+title: Personnaliser les voies d’apprentissage
 ms.date: 02/18/2019
-description: Vue d’ensemble des chemins d’apprentissage Microsoft 365
-ms.openlocfilehash: 74fac090177ad8009155e21a977b05ee2b742b3b
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: Personnaliser les voies d’apprentissage
+ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247845"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886637"
 ---
-# <a name="customize-the-learning-experience"></a>Personnaliser l’expérience d’apprentissage
+# <a name="customize-learning-pathways"></a>Personnaliser les voies d’apprentissage
 
-Présentation des voies d’apprentissage Microsoft 365, une nouvelle solution Microsoft conçue pour accélérer l’utilisation et l’adoption d’Office 365 au sein d’une organisation. Avec Learning pathwyas, vous pouvez :
-- Personnalisation du contenu d’apprentissage et d’adoption Microsoft 365 pour votre environnement 
+Les voies d’apprentissage de Microsoft 365 vous permettent de personnaliser le contenu de votre organisation. Par exemple, vous pouvez :  
+- Modifier le site SharePoint des chemins d’apprentissage : modifiez le nom du site, le logo et les autres. Modifiez la page poser des questions et obtenir de l’aide pour créer votre propre centre d’aide. 
 - Masquer ou afficher le contenu pour refléter les services ou fonctionnalités pris en charge dans votre organisation 
-- Mise à jour de votre contenu et de vos utilisateurs avec un flux de mise à jour du contenu de formation de Microsoft 
-- Créer des listes de lecture et des catégories personnalisées conçues spécifiquement pour répondre aux besoins de vos utilisateurs
+- Créer des listes de lecture et des sous-catégories personnalisées conçues spécifiquement pour répondre aux besoins de vos utilisateurs
+- Créez des pages d’arrivée dont le contenu est filtré pour prendre en charge les résultats de l’entreprise, tels que l’adoption de Microsoft Teams, Outlook Mobile ou collaborer avec Microsoft 365.
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="how-does-learning-pathways-work"></a>Comment fonctionnent les voies d’apprentissage ?
-
-les voies de formation pour Office 365 (voies d’apprentissage pour les courts) se composent de trois parties : 
-1. flux de contenu en direct d’un catalogue Microsoft Online
-2. un site de communication SharePoint
-3. un composant WebPart SharePoint 
-
-![CG-howitworks. png](media/cg-howitworks.png)
-
 ## <a name="requirements-and-permissions"></a>Configuration requise et autorisations
 
-Avant de commencer à utiliser ce guide, assurez-vous que les voies de formation ont été configurées par votre administrateur client SharePoint. Si vous ne savez pas si elle a été configurée, contactez votre administrateur client SharePoint pour vérifier que les voies de formation ont été configurées. Veillez également à obtenir l’URL du site SharePoint des voies d’apprentissage. Si vous êtes l’administrateur client et que les voies de formation n’ont pas été configurées, consultez la rubrique mise en [service des chemins d’apprentissage](custom_provision.md). 
+Avant de commencer à utiliser le guide personnaliser les voies d’apprentissage, vérifiez que les voies de formation ont été configurées par votre administrateur client SharePoint. Si vous ne savez pas si elle a été configurée, contactez votre administrateur client SharePoint pour vérifier que les voies de formation ont été configurées. Veillez également à obtenir l’URL du site SharePoint des voies d’apprentissage. Si vous êtes l’administrateur client et que les voies de formation n’ont pas été configurées, consultez la rubrique mise en [service des chemins d’apprentissage](custom_provision.md). 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>Autorisations pour mettre en service des chemins d’apprentissage
 
