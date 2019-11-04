@@ -5,7 +5,7 @@
 ## [Configuration de composant WebPart autonome](custom_manualsetup.md)
 # [Centre de réussite des administrateurs](custom_successcenter.md)
 ## [Mises à jour de contenu de novembre](custom_contentupdates.md)
-## [Gérer les mises à jour de contenu](custom_managecontentupdates.md)
+## [Gérer les mises à jour de contenu](custom_contentupdatesmanage.md)
 ## [Mises à jour des fonctionnalités de novembre](custom_featureupdates.md)
 ## [Planifier le contenu de formation](custom_plancontent.md)
 ## [Personnaliser les voies d’apprentissage](custom_overview.md)
