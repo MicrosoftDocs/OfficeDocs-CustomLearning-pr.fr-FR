@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886977"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956641"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Encouragez l’adoption de votre portail de voies d’apprentissage
 Une fois que vous avez personnalisé les chemins d’apprentissage Microsoft 365 et créé vos campagnes d’apprentissage initiales, il est temps de réfléchir sur la façon dont vous allez faire en sorte que les utilisateurs retournent aux chemins d’apprentissage de Microsoft 365 pour une apprentissage et une transformation en cours. Vous pouvez utiliser les conseils, le kit d’adoption et les meilleures pratiques que Microsoft a mis à votre disposition pour vous aider à exécuter les campagnes de formation Microsoft 365, nous proposons des conseils, des meilleures pratiques et un kit d’adoption. 
@@ -31,8 +31,8 @@ Les scénarios suivants de votre campagne de communication aident les utilisateu
 - Partager des sites et du contenu
 - Connecter votre organisation avec Yammer
 
-## <a name="use-the-download-adoption-kit"></a>Utiliser le kit d’adoption de téléchargement
-Pour vous aider à exécuter votre campagne de communication des chemins d’apprentissage Microsoft 365, utilisez le kit d’adoption téléchargeable. Il contient : 
+## <a name="use-the-downloadable-adoption-kit"></a>Utiliser le kit d’adoption téléchargeable
+Pour vous aider à exécuter votre campagne de communication des chemins d’apprentissage Microsoft 365, utilisez le [Kit d’adoption téléchargeable](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). Il contient : 
 
 - Chemins d’apprentissage Microsoft 365 le calendrier des campagnes de communication recommandé pour vous aider à planifier votre campagne
 - Lancement de l’utilisateur final et conseils modèles de courriers électroniques pour chacun des cinq scénarios Microsoft 365.    

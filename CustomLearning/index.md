@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Vue d’ensemble des chemins d’apprentissage Microsoft 365
 ms.date: 10/23/2019
 description: Découvrez comment les chemins d’apprentissage Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services 365 Microsoft dans votre organisation. Les voies de formation incluent un composant WebPart SharePoint Online personnalisé et un site de formation aux communications SharePoint Online modernes qui est facile à configurer pour votre client Microsoft 365.
-ms.openlocfilehash: f68f678f46633e9a5b661862d39f63b8b98138c3
-ms.sourcegitcommit: 91f02943cd5bfe6ad584fff71054c13e9547a0d7
+ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/03/2019
-ms.locfileid: "37947154"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956584"
 ---
-# <a name="microsoft-365-learning-pathways-beta-preview"></a>Aperçu bêta des chemins d’apprentissage Microsoft 365
-Les voies d’apprentissage de Microsoft 365 sont une solution d’apprentissage à la demande personnalisable conçue pour améliorer l’utilisation et l’adoption des services 365 Microsoft au sein de votre organisation.  
+# <a name="microsoft-365-learning-pathways"></a>Chemins d’apprentissage Microsoft 365 
+Les voies d’apprentissage de Microsoft 365 sont une solution d’apprentissage à la demande personnalisable conçue pour améliorer l’utilisation et l’adoption des services 365 Microsoft au sein de votre organisation.   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 
@@ -25,7 +25,7 @@ Les voies d’apprentissage de Microsoft 365 :
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-# <a name="sharepoint-online-provisioning-service"></a>Service de mise en service SharePoint Online 
+## <a name="sharepoint-online-provisioning-service"></a>Service de mise en service SharePoint Online 
 Les voies de formation peuvent être configurées à partir du service de mise en service SharePoint Online. Lorsque les chemins d’apprentissage Microsoft 365 sont configurés, les organisations reçoivent un site de communication SharePoint Online conçu pour être un portail de formation « out-of-Box », ainsi qu’un composant WebPart de voies d’apprentissage connecté à un catalogue en ligne de contenu de formation. 
 
 ![CG-provision. png](media/cg-provision.png)

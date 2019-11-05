@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Planifier le contenu de la voie d’apprentissage
 ms.date: 10/20/2019
 description: Mise à jour du contenu des chemins d’apprentissage Microsoft 365
-ms.openlocfilehash: 90f2db3c320f23931059b12d3eb9a6a9daeada72
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886713"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956661"
 ---
 # <a name="plan-your-learning-pathways-content"></a>Planifier le contenu de la voie d’apprentissage
 Avant de plonger dans le déploiement des voies d’apprentissage de Microsoft 365, il est recommandé de prendre le temps d’examiner le contenu, les outils et les fonctionnalités de formation dont vous disposez. Notre objectif est de permettre aux utilisateurs de votre organisation de se mettre à la vitesse et de gagner en efficacité le plus rapidement et efficacement possible. Lorsqu’il s’agit de planifier les voies d’apprentissage, nous vous recommandons de procéder en trois étapes :
@@ -53,18 +53,21 @@ Avec les voies d’apprentissage de Microsoft 365, vous pouvez disposer de conte
 - **Playlist** : sont des conteneurs pour les biens. Microsoft fournit des playlists que vous ne pouvez pas modifier, mais vous pouvez créer vos propres sélections.  
 - **Biens** -les pages d’apprentissage dans la playlist. Microsoft fournit des biens dans des sélections que vous ne pouvez pas modifier, mais vous pouvez créer vos propres biens et les ajouter à des sélections. est
 
-### <a name="review-the-learning-pathways-inventory-and-resources"></a>Passer en revue l’inventaire et les ressources des voies d’apprentissage
-Si l’inventaire administrateur n’est pas assez détaillé, jetez un œil à la feuille de calcul inventaire des chemins d’apprentissage Microsoft 365 sur la page ressources. Elle inclut une liste complète des métadonnées, des catégories, des sous-catégories, des playlists et des biens. La page ressources fournit également un lien vers des ressources supplémentaires, telles que des guides de démarrage rapide personnalisables. Pour plus d’informations, consultez la rubrique [formation des ressources](custom_plancontent_resources.md).
+### <a name="review-additional-resources-from-microsoft"></a>Consulter des ressources supplémentaires à partir de Microsoft
+Microsoft fournit des ressources d’aide et de formation que vous pouvez utiliser lors de la planification du contenu pour les voies de formation.  
+
+-  [Aide et formation Office](https://support.office.com)
+-  [Centre de formation Office 365](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>Passer en revue les ressources d’apprentissage de votre organisation
 Prenez le stock du contenu de formation déjà disponible dans votre organisation.
-Par exemple, votre organisation a peut-être déjà des guides de démarrage rapide personnalisés, des tableaux de triche ou des pages SharePoint dédiés à la préparation, au support technique, à l’intégration ou à la formation de Microsoft 365. Les composants SharePoint existants peuvent être incorporés dans les sélections de portail Microsoft 365 et être mélangés avec du contenu Microsoft dans une sélection pour créer une liste de sélection ciblée pour votre organisation. Pour plus d’informations sur le mélange du contenu de votre organisation avec le contenu de Microsoft, reportez-vous à la section Personnalisation des voies d’apprentissage du centre de réussite des administrateurs.
+Par exemple, votre organisation a peut-être déjà des guides de démarrage rapide personnalisés, des tableaux de triche ou des pages SharePoint dédiés à la préparation, au support technique, à l’intégration ou à la formation de Microsoft 365. Les composants SharePoint existants peuvent être incorporés dans les sélections de portail Microsoft 365 et être mélangés avec du contenu Microsoft dans une sélection pour créer une liste de sélection ciblée pour votre organisation. Pour plus d’informations sur le mélange du contenu de votre organisation avec le contenu de Microsoft, consultez la rubrique [Customizing Learning voies](custom_overview.md). Section Personnalisation des voies d’apprentissage du centre de réussite des administrateurs.
 
 ### <a name="leverage-the-adoption-resources"></a>Exploiter les ressources d’adoption
 Notez que vous pouvez commencer à utiliser les voies de formation au cours des jours, mais il est préférable d’effectuer une planification préalable avant d’exécuter une stratégie de campagne d’apprentissage pour intégrer une nouvelle technologie ou un ensemble de services. Le développement d’un plan de contenu et l’utilisation des voies de formation font partie des efforts plus poussés de planification d’une stratégie de gestion des modifications globale, de sorte que nous fournissons des documents d’adoption que vous pouvez utiliser pour planifier votre stratégie globale. Dans le cadre de votre effort de planification, consultez la [ressource adoption](https://resources.techcommunity.microsoft.com/adoption/).
 
 ### <a name="build-a-learning-plan-and-iterate"></a>Créer un plan d’apprentissage et effectuer une itération 
-De nombreuses entreprises qui ont réussi à déployer les voies d’apprentissage ont adopté des campagnes de formation axées sur des scénarios ou technologies spécifiques. Par exemple, « soyez plus collaboratifs à l’aide de teams » ou « soyez plus mobile avec Outlook Mobile ». Vous pouvez voir des exemples de campagnes d’apprentissage potentielles à l’aide du [Kit d’adoption téléchargeable](https://resources.techcommunity.microsoft.com/adoption/).
+De nombreuses entreprises qui ont réussi à déployer les voies d’apprentissage ont adopté des campagnes de formation axées sur des scénarios ou technologies spécifiques. Par exemple, « soyez plus collaboratifs à l’aide de teams » ou « soyez plus mobile avec Outlook Mobile ». Vous pouvez voir des exemples de campagnes d’apprentissage potentielles à l’aide du [Kit d’adoption téléchargeable](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip).
 
 
  

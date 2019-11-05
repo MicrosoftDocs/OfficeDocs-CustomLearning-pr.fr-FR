@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Commentaires et assistance
 ms.date: 02/10/2019
 description: Commentaires et informations de support pour les voies d’apprentissage Microsoft 365
-ms.openlocfilehash: ed1654bfe9ff762a9f9f17e7f564e1784608bdf1
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248149"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956631"
 ---
 # <a name="feedback-and-support"></a>Commentaires et assistance
 
@@ -23,7 +23,7 @@ Comme c’est le cas en standard avec les solutions open source, la communauté 
 
 ## <a name="provide-us-feedback"></a>Nous faire part de vos commentaires
 
-Notre solution n’est qu’une réussite si elle permet d’activer les résultats de votre entreprise.  Aidez-nous à le faire mieux en nous donnant des commentaires réguliers à l’aide de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Nous allons régulièrement examiner tous vos commentaires et questions.
+Notre solution n’est qu’une réussite si elle permet d’activer les résultats de votre entreprise.  Aidez-nous à le faire mieux en nous donnant des commentaires réguliers à l’aide de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Nous allons régulièrement examiner tous vos commentaires et questions. 
 
 ## <a name="usage-questions"></a>Questions relatives à l’utilisation
 
