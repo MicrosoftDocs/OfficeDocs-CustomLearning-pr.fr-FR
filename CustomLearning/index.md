@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Vue d’ensemble des chemins d’apprentissage Microsoft 365
 ms.date: 10/23/2019
 description: Découvrez comment les chemins d’apprentissage Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services 365 Microsoft dans votre organisation. Les voies de formation incluent un composant WebPart SharePoint Online personnalisé et un site de formation aux communications SharePoint Online modernes qui est facile à configurer pour votre client Microsoft 365.
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626609"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831890"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Chemins d’apprentissage Microsoft 365 
-Les voies d’apprentissage de Microsoft 365 sont une solution d’apprentissage à la demande personnalisable conçue pour améliorer l’utilisation et l’adoption des services 365 Microsoft au sein de votre organisation.   
+Les voies d’apprentissage de Microsoft 365 sont une solution d’apprentissage à la demande personnalisable conçue pour améliorer l’utilisation et l’adoption des services 365 Microsoft au sein de votre organisation.    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 
@@ -36,7 +36,7 @@ Nous allons commencer à créer une expérience de voies d’apprentissage pour 
 2. Personnalisez les voies d’apprentissage pour votre environnement.
 3. Partagez les voies de formation avec vos utilisateurs à l’aide de nos [Outils d’adoption](driveadoption.md).
 
-## <a name="feedback-and-support"></a>Commentaires et assistance
+## <a name="feedback-and-support"></a>Commentaires et support
 
 Les voies d’apprentissage Microsoft 365 sont un projet open source pris en charge par notre [liste de problèmes en ligne](https://aka.ms/CustomLearningHelp) sur GitHub. La solution de voies d’apprentissage et ses composants ne sont pas couverts par les contrats de support technique Microsoft existants.  
 
