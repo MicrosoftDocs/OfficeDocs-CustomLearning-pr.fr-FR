@@ -1,12 +1,17 @@
 ---
-titre: nombre de jours dans la vie avec Office 365-connexion dans la description de l'entreprise: # étapes rapides pour être prêt pour la journée à l'aide d'Office 365 auteur: {github-ID} # karuanag ms. Author: {ms-alias} # karuanag ms. Date: {@date}           # 02/01/2019 ms. rubrique: Getting-Started # How-to
+titre : ''
+ms.openlocfilehash: 78115ccf91fbbd76d4b30a17ba72307a658fceed
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055140"
 ---
+# <a name="connecting-across-the-company"></a>La connexion dans l’entreprise
 
-# <a name="connecting-across-the-company"></a>Connexion à l'ensemble de l'entreprise
+![Se connecter visuellement](media/ditl_crosscompany.png)
 
-![Se connecter à Visual](media/ditl_crosscompany.png)
-
-Il s'agit d'une date d'occupation, mais avant de laisser le bureau vous souhaitez vous assurer que toutes les personnes qui s'intéressent à votre travail sont informées de ce qui se passe. Assurez-vous que toutes les parties prenantes, à l'intérieur et à l'extérieur de votre équipe (comprendre vos objectifs, progression et résultats) constituent un élément important de ce que vous faites.  
+La journée de travail est chargée, mais avant de quitter le bureau, vous voulez vous assurer que toutes les personnes ayant un intérêt dans votre travail sont informées sur ce qui se passe. Assurez-vous que toutes les parties prenantes, à l’intérieur et à l’extérieur de votre équipe, comprennent vos objectifs, progrès et résultats qui constituent une part importante de ce que vous faites.  
 
 ## <a name="tools"></a>Outils
 - SharePoint
@@ -14,34 +19,34 @@ Il s'agit d'une date d'occupation, mais avant de laisser le bureau vous souhaite
 - Outlook
 - Microsoft Teams 
 
-## <a name="checklist-for-communicating-across-the-company"></a>Liste de vérification pour la communication au sein de l'entreprise
-- Comprendre votre public et ses méthodes de communication existantes
-- Cibler vos messages clés par personnage, par exemple, les parties prenantes de projet, le membre de l'équipe ou l'employé
-- Sélectionner des outils de communication qui vous complètent, par exemple, créer un billet sur votre communauté Yammer et envoyer une alerte par courrier électronique 
-- Co-créer vos informations avec d'autres membres de votre équipe
-- Publier vos informations et envoyer une notification à toutes vos personnes intéressées 
+## <a name="checklist-for-communicating-across-the-company"></a>Liste de contrôle pour la communication dans l’entreprise
+- Comprendre votre audience et leurs méthodes de communication actuelles
+- Cibler vos messages clés par personnage, par exemple, les parties prenantes d'un projet, un membre de l’équipe ou un employé
+- Sélectionnez les outils de communication qui se complètent, par exemple, créez un billet sur votre communauté Yammer et envoyez une alerte par courrier électronique 
+- Co-écrire vos informations avec d’autres membres de votre équipe
+- Publier vos informations et envoyer une notification à toutes les parties intéressées 
  
-## <a name="select-your-communication-method"></a>Sélectionnez votre méthode de communication
-Utilisez les informations ci-dessous pour décider de la meilleure façon de communiquer avec votre équipe. Équilibrez l'utilisation de nouvelles technologies avec les annonces de messagerie classiques lorsque les personnes migrent vers de nouvelles méthodes de communication. Une approche de communication cohérente est un moyen efficace de prendre conscience de la sensibilisation et de la modification organisationnelle. 
+## <a name="select-your-communication-method"></a>Sélectionnez votre moyen de communication
+Utilisez les informations ci-dessous pour déterminer le meilleur moyen pour communiquer avec votre équipe. Équilibrez en utilisant des nouvelles technologies avec des annonces de messagerie classiques, alors que les personnes passent à de nouvelles méthodes de communication. Une approche de communication cohérente est une méthode efficace pour sensibiliser et changer les organisations. 
 
-**Yammer**: vous pouvez diriger la conversation sur un large groupe de personnes à l'aide de Yammer pour partager vos mises à jour. Publiez une mise à jour standard ou utilisez la fonctionnalité d'annonce pour vous assurer qu'une copie de votre mise à jour mène à la boîte aux lettres de chaque membre. 
+**Yammer** : vous pouvez engager une conversation au sein d’un grand groupe de personnes à l’aide de Yammer pour partager vos mises à jour. Publiez une mise à jour standard ou utilisez la fonctionnalité Annonce pour s’assurer qu’une copie de votre mise à jour est dirigée vers la boîte aux lettres de chaque membre. 
 
-![Billet de réseaux sociaux](media/ditl_IT-Service-News.png)
+![Publications sur les réseaux sociaux](media/ditl_IT-Service-News.png)
 
-**SharePoint**: Si vous souhaitez joindre des personnes en dehors de votre groupe de travail, envisagez de rédiger un bref article d'actualité sur votre Charte et votre progression, qui est immédiatement disponible et conservé pendant toute la durée de vie de votre projet dans SharePoint Online. Utiliser une page moderne dans un site d'équipe SharePoint ou pour un plus grand nombre de programmes, envisagez de créer un site de communication SharePoint. 
+**SharePoint** : si vous voulez atteindre des personnes extérieures à votre groupe de travail, envisagez de rédiger un bref article d'actualités sur votre charte et votre avancement, qui sont facilement disponibles et conservés pendant toute la durée de vie de votre projet dans SharePoint Online. Utilisez une page moderne dans un site d’équipe SharePoint, ou pour un programme plus important, songez à créer un site de communication SharePoint. 
 
-Les sites de communication SharePoint fournissent des articles d'actualité visuels et flexibles qui vous permettent d'incorporer des images, des tableaux de bord et du texte. Les informations sont ensuite disponibles via un navigateur ou via l'application mobile SharePoint. Cette vidéo fournit une vue d'ensemble rapide de ce que ces sites puissants peuvent faire. Pour garantir la meilleure visibilité du site de communication sous forme d'onglet pour votre groupe de travail dans Microsoft Teams.
+Les sites de communication SharePoint fournissent des articles d'actualités visuels et flexibles qui vous permettent d’incorporer des images, des tableaux de bord et du texte ensemble. Les informations sont ensuite disponibles via n’importe quel navigateur ou via l’application mobile SharePoint. Cette vidéo vous permet d’obtenir un aperçu rapide sur les fonctionnalités de ces sites performants. Pour garantir une visibilité optimale, épinglez le site de communication en tant qu’un onglet pour votre groupe de travail dans Microsoft Teams.
 
 ![Exemple de site de communication dans SharePoint Online](media/ditl_Comm-Site.png)
 
-**Microsoft teams**: si ce groupe de personnes grand public fait déjà partie de votre groupe de travail dans Microsoft Teams, pourquoi ne pas publier de note dans votre canal général avec les faits clés et un lien vers une page wiki pour votre mise à jour plus longue.  Il est possible de co-créer des pages wiki par plusieurs personnes et de les conserver pendant toute la durée de vie de cette équipe. 
+**Microsoft Teams** : si ce grand groupe de personnes fait déjà partie de votre groupe de travail dans Microsoft Teams, pourquoi pas publier une note dans votre canal général avec des éléments clés et un lien vers une page Wiki pour votre mise à jour plus longue.  Les pages Wiki peuvent être co-écrites par plusieurs personnes et se prolonger au-delà de la durée de vie de l'équipe. 
 
-![capture d'écran d'une page wiki dans Microsoft teams](media/ditl_Teams-Wiki.png)
+![Capture d’écran d’une page Wiki dans Microsoft Teams](media/ditl_Teams-Wiki.png)
 
 ## <a name="tip-to-modernize-your-communication"></a>Conseil pour moderniser votre communication
 
-**Pour vos collègues de messagerie électronique**: Abonnez-les aux alertes à partir de votre groupe Yammer ou de votre flux d'actualités SharePoint.  De cette façon, les utilisateurs recevront une notification dans leur courrier électronique pour vous permettre de publier de nouvelles informations, puis de cliquer sur les informations de votre source sans avoir à créer un message électronique distinct.  Vous voulez obtenir sympa?  Personnalisez la notification à l'aide de Microsoft Flow ou PowerApps. EnVisagez d'avoir un Brownbag pour montrer à ces utilisateurs comment utiliser Microsoft Teams, SharePoint ou Yammer sur leurs appareils mobiles. 
+**Pour vos collègues centrés sur les courriers électroniques** : abonnez-les aux alertes provenant de votre groupe Yammer ou de votre flux d’actualités SharePoint.  Ils recevront ainsi une notification dans leur message électronique les informant que vous avez publié de nouvelles informations, et pourront ensuite consulter vos informations de source sans avoir à créer de courrier séparé.  Vous voulez obtenir quelque chose de spécial ?  Personnalisez la notification avec Microsoft Flow ou PowerApps. Nous vous conseillons d’avoir un déjeuner de travail pour montrer à ces utilisateurs comment utiliser Microsoft Teams, SharePoint ou Yammer sur leurs appareils mobiles. 
 
-**Faire parler des personnes!** EnCouragez l'engagement en activant des commentaires pour vos pages de site de communication SharePoint.  Si vous utilisez Yammer, assurez-vous que les personnes participent à votre communauté en les surveillant régulièrement pour les questions auxquelles vous pouvez répondre. 
+**Faites parler les autres** Encouragez l’implication en activant les commentaires pour les pages de votre site de communication SharePoint.  Si vous utilisez Yammer, assurez-vous que les personnes participent à votre communauté en la suivant régulièrement pour afficher les questions auxquelles vous pouvez répondre. 
 
-**Partager**de manière externe: Microsoft Teams, SharePoint et Yammer prennent en charge le partage externe si votre administrateur l'autorise dans votre instance d'Office 365.  En utilisant le partage externe, vous pouvez partager vos mises à jour avec des personnes qui travaillent pour des partenaires, des fournisseurs et, bien sûr, vos clients.
+**Partagez en externe** : Microsoft Teams, SharePoint et Yammer prennent en charge le partage externe, si votre administrateur le permet, dans votre instance Office 365.  L’utilisation du partage externe vous permet de partager vos mises à jour avec des personnes qui travaillent pour des partenaires, des fournisseurs et bien évidemment, vos clients.

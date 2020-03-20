@@ -1,39 +1,44 @@
 ---
-title: n ° Day dans la vie avec Office 365-collaboration avec des collègues Description: # étapes rapides pour être prêt pour la journée à l'aide d'Office 365 auteur: {github-ID} # karuanag ms. Author: {ms-alias} # karuanag ms. Date: {@date}           # 02/01/2019 ms. rubrique: Getting-Started # How-to
+titre : ''
+ms.openlocfilehash: 2ba1045a3c8a74c8769b61647cdfeeba74efd357
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055762"
 ---
+# <a name="collaborating-with-colleagues"></a>Collaborer avec des collègues
 
-# <a name="collaborating-with-colleagues"></a>Collaboration avec des collègues
+![Commutation visuelle](media/ditl_collab.png)
 
-![Netmute visuel](media/ditl_collab.png)
-
-Il est 2:00 et heure de collaborer avec les collègues. Office 365 fournit des opportunités de meilleure qualité pour la collaboration, ce qui permet à teams de collaborer de différentes façons. 
+Il est 14h00 et le temps de collaborer avec vos collègues. Office 365 offre les opportunités les plus performantes en matière de collaboration, ce qui permet aux équipes de collaborer de plusieurs manières. 
 
 ## <a name="tools"></a>Outils
 - Microsoft Teams
-- Office Online
+- Office Online
 - OneNote
-- SharePoint & OneDrive
+- SharePoint et OneDrive
 - 
-## <a name="checklist-for-collaborating-with-colleagues"></a>Liste de vérification pour collaborer avec des collègues
+## <a name="checklist-for-collaborating-with-colleagues"></a>Liste de contrôle pour collaborer avec des collègues
 - Créer ou rejoindre une équipe Microsoft pour collaborer
 - Créer et partager des fichiers à partir de OneDrive 
 - Co-créer dans Office 365 
-- Utiliser des pièces jointes dans le Cloud
+- Utiliser le pièces jointes dans le cloud :
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>Créer ou rejoindre une équipe Microsoft pour la collaboration
 
-Microsoft teams et les canaux sont des emplacements où les utilisateurs peuvent collaborer en partageant des fichiers, en suivi des éléments d'action d'équipe et bien plus encore. Chaque équipe a une intégration dans un site SharePoint, un bloc-notes OneNote et d'autres ressources. Ce service d'Office 365 est idéal pour les personnes qui travaillent ensemble fréquemment sur des projets ou des résultats partagés. 
+Microsoft Teams et les canaux sont des emplacements où les utilisateurs peuvent collaborer en partageant des fichiers, en suivi des éléments d’action d’équipe et bien plus encore. Chaque Microsoft Teams a une intégration à un site SharePoint, un bloc-notes OneNote et d’autres ressources. Ce service Office 365 est idéal pour les personnes qui travaillent fréquemment ensemble sur des projets partagés ou des résultats. 
 
 ## <a name="share-files-from-your-onedrive"></a>Partager des fichiers à partir de votre OneDrive
-Les fichiers qui ont été enregistrés sur OneDrive entreprise peuvent être partagés avec n'importe qui dans le navigateur ou dans les applications Office 365 Desktop comme Word ou Excel. Il est possible de partager avec des personnes à l'aide de leur nom, de leur alias ou de leur adresse de messagerie de société. 
+Les fichiers enregistrés sur OneDrive Entreprise peuvent être partagés avec tout le monde à partir du navigateur ou des applications de bureau Office 365 telles que Word ou Excel. Il est possible de partager avec des personnes à l’aide de leur nom, alias ou adresse de messagerie d’entreprise. 
 
 ## <a name="co-create-in-office-365"></a>Co-créer dans Office 365
-La co-création est lorsque nous travaillons simultanément avec des collègues sur le même fichier. Cela est possible dans les versions Web des applications Office 365 principales et dans les versions de bureau de ces applications à partir d'Office 2016.  Gagnez du temps et travaillez ensemble sur le même document et Office synchronisera ces modifications pour vous, même si vous êtes en mode hors connexion. 
+La co-création est activée lorsque nous travaillons simultanément avec des collègues sur le même fichier. Cette fonctionnalité est possible dans les versions web des principales applications Office 365 et dans les versions de bureau de ces applications à partir d’Office 2016.  Gagnez du temps et travaillez en collaboration sur le même document. Office synchronise ces modifications pour vous, même si vous êtes en mode hors connexion. 
 
 ![Co-auteur dans Word](media/ditl_coauth.png)
 
-## <a name="use-cloud-attachments---stop-emailing-that-spreadsheet"></a>Utiliser des pièces jointes Cloud-arrêter la messagerie de cette feuille de calcul!
-Combien de fois avez-vous eu à rechercher la version appropriée d'un document lorsqu'il était joint à un message électronique? Désormais, dans Office 365, vous pouvez partager un lien vers le fichier, appelé une pièce jointe en nuage, afin que tout le monde modifie la même version.  Vous pouvez choisir d'envoyer un lien et de décider si les utilisateurs peuvent afficher ou modifier le fichier. 
+## <a name="use-cloud-attachments---stop-emailing-that-spreadsheet"></a>Utiliser les pièces jointes cloud : arrêter la messagerie de cette feuille de calcul !
+Combien de fois avez-vous dû chercher la version appropriée d’un document lorsque celui-ci était joint à un message électronique ? Désormais, dans Office 365, vous pouvez partager un lien vers le fichier, appelé une pièce jointe dans le cloud, afin que tout le monde modifie la même version.  Vous pouvez choisir d’envoyer un lien et de choisir si les utilisateurs peuvent afficher ou modifier le fichier. 
 
-![Pièce jointe dans le Cloud](media/ditl_cloudattach.png)
+![Pièces jointes dans le cloud :](media/ditl_cloudattach.png)
 
