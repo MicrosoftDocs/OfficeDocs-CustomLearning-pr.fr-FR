@@ -3,11 +3,14 @@
 ## [Configurer les parcours d’apprentissage de Microsoft 365](custom_provision.md)
 ## [Explorez le site des parcours d’apprentissage de Microsoft 365](custom_exploresite.md)
 ## [Configuration de composants WebPart autonomes](custom_manualsetup.md)
-# [Centre de réussite des administrateurs](custom_successcenter.md)
-## [Mises à jour de contenu de novembre](custom_contentupdates.md)
+# Nouveautés 
+## [Mises à jour de contenu](custom_contentupdates.md) 
 ## [Gérer les mises à jour de contenu](custom_contentupdatesmanage.md)
-## [Mise à jour des fonctionnalités de novembre](custom_featureupdates.md)
-## [Planifier le contenu de votre formation](custom_plancontent.md)
+## [Mises à jour des fonctionnalités](custom_featureupdates.md)
+# [Centre de réussite des administrateurs](custom_successcenter.md)
+## Planifier du contenu d’apprentissage 
+### [Planifier le contenu de votre formation](custom_plancontent.md)
+### [Ressources pour la prise en charge de votre personnel distant](custom_plancontent_remoteresources.md)
 ## [Personnaliser les parcours d’apprentissage](custom_overview.md)
 ### [Accéder au site des parcours d’apprentissage M365](custom_goto.md)
 ### [Personnaliser la site](custom_edithelp.md)
