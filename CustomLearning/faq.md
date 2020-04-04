@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Forum aux questions pour les voies d’apprentissage Microsoft 365
 ms.date: 02/10/2019
 description: Forum aux questions informations sur les voies d’apprentissage Microsoft 365
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068815"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141367"
 ---
 # <a name="frequently-asked-questions"></a>Forum Aux Questions
 
@@ -38,10 +38,9 @@ Les chemins d’apprentissage Microsoft 365 sont actuellement en version bêta. 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Quelles sont les langues disponibles pour les voies d’apprentissage Microsoft 365 ?
 
-Les chemins d’apprentissage Microsoft 365 sont actuellement disponibles uniquement en anglais. La mise en service automatique de bout en bout ne fonctionne qu’avec les locataires anglais. Nous prévoyons de déployer la prise en charge multilingue pour ces neuf langues au cours du premier trimestre de 2020. 
+Les chemins d’apprentissage Microsoft 365 sont actuellement disponibles uniquement en anglais. La mise en service automatique de bout en bout ne fonctionne qu’avec les locataires anglais. Nous prévoyons de déployer la prise en charge multilingue pour les langues suivantes dans le deuxième trimestre de 2020. 
 
 - Chinois (simplifié) 
-- Néerlandais (Pays-Bas) 
 - Français  
 - Allemand 
 - Italien (Italie) 
@@ -49,6 +48,8 @@ Les chemins d’apprentissage Microsoft 365 sont actuellement disponibles unique
 - Portugais (Brésil) 
 - Russe (russe)  
 - Espagnol 
+
+> La prise en charge de la langue néerlandaise n’est pas incluse dans la prochaine version de prise en charge multilingue pour les voies de formation. Nous continuerons à évaluer les nouvelles options de langue à l’avenir.
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Combien de temps faut-il pour installer le site dans notre environnement client ?
 
