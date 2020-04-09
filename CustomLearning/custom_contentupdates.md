@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Mises à jour de contenu de chemins d’apprentissage
 ms.date: 3/30/2020
 description: Chemins d’apprentissage des mises à jour de contenu d’avril 2020
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141380"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191344"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour de contenu des chemins d’apprentissage Microsoft 365
 Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 avril.
@@ -109,9 +109,9 @@ Office pour le Web fournit un ensemble de sélections pour les scénarios dans l
 - Partager vos documents
 - Créer un lien partageable
 - Sécuriser vos documents uniquement à des personnes spécifiques
-- Partager avec une personne extérieure à votre organisation
+- Partager avec une personne extérieure à votre organisation 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 Par demande, il existe également des nouvelles ressources de formulaires. 
 #### <a name="forms-4-new-assets"></a>Formulaires (4 nouvelles ressources) 
 - Créer un formulaire 
@@ -119,7 +119,7 @@ Par demande, il existe également des nouvelles ressources de formulaires.
 - Afficher les résultats d’un formulaire 
 - Forum aux questions sur Microsoft Forms 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>Ressources pour la prise en charge de votre personnel à distance
+### <a name="resources-for-supporting-your-remote-workforce"></a>Ressources pour la prise en charge de votre personnel distant
 Vous pouvez utiliser les voies de formation pour créer une page d’accueil dans votre site de voies d’apprentissage pour prendre en charge les travailleurs distants. Ou vous pouvez ajouter le composant WebPart voies d’apprentissage à une page de support existante sur votre site de voies d’apprentissage et filtrer le composant WebPart pour afficher les sélections à distance. Voici une liste des ressources les plus populaires de Microsoft pour la prise en charge du travail à distance dans votre organisation. 
 - [Comment déployer Microsoft teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Réunions et conférences dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Vous pouvez utiliser les voies de formation pour créer une page d’accueil dan
 - [Éducation : Centre d’enseignement Microsoft](https://education.microsoft.com) 
 - [Éducation : prise en main de l’apprentissage à distance](https://education.microsoft.com/resource/4c0c02c0)
 
-Pour plus d’informations sur la personnalisation des voies d’apprentissage, voir [Customize Learning voies] ((custom_overview. MD). 
+Pour plus d’informations sur la personnalisation des voies d’apprentissage, voir [Customize Learning voies](custom_overview.md). 
 
 ## <a name="november-2019-content-updates"></a>Mises à jour de contenu de novembre 2019
 Bienvenue dans la mise à jour du contenu des chemins d’apprentissage Microsoft 365. À partir de la mise à jour du 2019 novembre, nous fournirons un inventaire mis à jour du catalogue des voies d’apprentissage chaque trimestre. Pour la mise à jour de novembre 2019, les nouvelles sous-catégories de contenu et les playlists suivantes ont été ajoutées au catalogue des voies d’apprentissage. Pour plus d’informations sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir [Manage content updates](custom_contentupdatesmanage.md).    
@@ -186,7 +186,7 @@ La sous-catégorie Sway de contenu a été ajoutée avec les playlists suivantes
 - Ajouter du contenu à Sway (11 ressources)
 - Personnaliser Sway (5 ressources)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Démarrage rapide d’Access (4 ressources)
 - Introduction à Access (3 biens)
 - Créer une base de données Access (2 ressources)
