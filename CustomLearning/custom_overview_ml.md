@@ -5,12 +5,12 @@ title: Vue d’ensemble
 ms.date: 06/06/2020
 description: Prise en charge multilingue des voies de formation
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699068"
+ms.locfileid: "44704620"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Prise en charge multilingue des voies de formation
 
@@ -26,7 +26,7 @@ Si votre organisation couvre un remplissage diversifié, vous pouvez faire en so
 - Russe (russe)
 - Spanish
 
-La prise en charge multilingue des chemins d’apprentissage est prise en charge par la fonctionnalité multilingue de SharePoint Online pour les sites de communication SharePoint Online. 
+La prise en charge multilingue des chemins d’apprentissage est prise en charge par la fonctionnalité multilingue de SharePoint Online pour les sites de communication SharePoint Online.  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>Se familiariser avec la fonctionnalité multilingue de SharePoint Online
 Avec la prise en charge multilingue de SharePoint Online, vous pouvez fournir des pages traduites, des billets d’actualité et des éléments d’interface utilisateur dans la langue préférée de l’utilisateur. Avant de commencer, prenez le temps de découvrir le fonctionnement de la prise en charge multilingue. 
