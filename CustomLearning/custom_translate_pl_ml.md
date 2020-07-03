@@ -1,57 +1,122 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Traduire une nouvelle playlist
+title: Traduire les sélections personnalisées des voies d’apprentissage
 ms.date: 06/8/2020
-description: Traduire une nouvelle playlist
+description: Traduire les sélections personnalisées des voies d’apprentissage
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 120193f55599b22e5bb46cdd352213871c209012
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: b57bf6d32a645f4ddf26429bb56f547c994d453a
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699050"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031732"
 ---
-# <a name="translate-a-learning-pathways-custom-playlist"></a>Traduire une playlist personnalisée de voies d’apprentissage
-Si vous avez créé des listes de lecture personnalisées pour votre site, vous pouvez les convertir en langues activées pour ce site.
+# <a name="translate-learning-pathways-custom-playlists"></a>Traduire les sélections personnalisées des voies d’apprentissage
+Avec les voies de formation, la façon dont vous utilisez les playlists personnalisées dépend de la façon dont vous avez configuré le site des voies d’apprentissage. 
+
+- Si vous avez configuré un nouveau site de voies d’apprentissage multilingues, vous pouvez copier ou créer une nouvelle liste de lecture et la convertir en langues prises en charge par le site.
+- Si vous avez mis à niveau un site de voies d’apprentissage existant qui comporte des sélections personnalisées préexistantes, vous pouvez traduire les playlists existantes dans les langues prises en charge par votre site. Vous pouvez également copier et créer de nouvelles sélections. 
+
+> [!IMPORTANT]
+> - Les playlists fournies par Microsoft sont déjà traduites et ne peuvent pas être modifiées sauf si vous créez une copie de la playlist. 
+
+## <a name="create-or-copy-a-playlist-and-have-it-translated"></a>Créer ou copier une sélection et la traduire
+Si vous avez configuré un nouveau site de voies d’apprentissage multilingues ou que vous avez mis à niveau le site avec le composant WebPart multilingue, vous pouvez copier ou créer une playlist personnalisée et la convertir en langues prises en charge par votre site. 
+
+### <a name="copy-a-playlist-and-have-it-translated"></a>Copier une playlist et la faire traduire
+Pour montrer comment créer une nouvelle playlist personnalisée et la faire traduire, nous allons utiliser la fonctionnalité de sélection de copie des chemins d’apprentissage.
 
 1.  Dans le menu **Accueil** des chemins d’apprentissage, cliquez sur **administration des chemins**d’apprentissage. 
-2.  Cliquez sur la sélection personnalisée. Dans cet exemple, nous allons utiliser **cinq étapes simples-Bienvenue dans contoso**. 
-3.  Cliquez sur **modifier le détail**, puis dans la zone Ajouter une **langue** , sélectionnez une langue. Dans cet exemple, nous utilisons l' **italien – Italie**. 
-5.  Cliquez sur **enregistrer les détails**. 
+2.  Sous **chemins d’apprentissage Microsoft 365**, sélectionnez **premiers jours**, puis **six étapes simples-Bienvenue dans Microsoft 365**. 
+3. Cliquez sur **copier la sélection**, faites défiler la page vers le bas et cliquez sur modifier le **détail**.   
+4. Modifiez le titre de la playlist. Dans cet exemple, nous allons remplacer le titre de la playlist par **cinq étapes simples**. Notez que les langues disponibles dépendent des langues prises en charge par le site. Pour ajouter des langues supplémentaires, vous devez ajouter des langues prises en charge supplémentaires au site.   
+5. Cliquez sur **enregistrer les détails**. 
+6. Cliquez sur une langue à droite de la langue par défaut (dans ce cas, anglais) pour afficher les détails de la playlist copiée. Les détails de la nouvelle langue reflètent la playlist copiée d’origine et nécessitent une traduction.
+7. Prenez note pour informer le traducteur des détails de la playlist à être traduit.  
 
 ![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
-> Les notifications du traducteur ne sont pas intégrées dans les playlists personnalisées. Les traducteurs devront être avertis manuellement. 
+> Les notifications du traducteur ne sont pas intégrées dans les playlists personnalisées. Les traducteurs devront être avertis manuellement. Les traducteurs traduisent manuellement les copies des détails de langue par défaut dans la ou les langues spécifiées. Vous devrez informer le traducteur des traductions requises pour les détails de la playlist. Il est recommandé de terminer toutes les modifications de sélection, y compris l’ajout, la modification ou la suppression des éléments de sélection, puis d’informer le traducteur des traductions requises pour les détails et les biens de la playlist.
 
-## <a name="what-does-a-translator-do"></a>Qu’est-ce qu’un traducteur fait ?
-Les traducteurs traduisent manuellement les copies de la page de langue par défaut dans la ou les langues spécifiées. Vous devrez informer le traducteur des traductions requises pour les détails de la playlist. Il est recommandé de terminer toutes les modifications de sélection, y compris l’ajout, la modification ou la suppression des éléments de sélection, puis d’informer le traducteur des traductions requises.
+## <a name="create-multilingual-assets-in-a-custom-playlist"></a>Créer des ressources multilingues dans une playlist personnalisée
+Les composants d’une liste de lecture fournis par Microsoft ne sont pas modifiables et ne nécessitent pas de traduction. Les ressources fournies par Microsoft seront disponibles dans les langues prises en charge par le site. Pour les ressources personnalisées que vous créez ou les ressources personnalisées existantes, vous pouvez ajouter les langues prises en charge par le site.  Examinons la procédure d’ajout de langues pour les ressources personnalisées nouvelles et existantes dans une sélection. 
 
-## <a name="translate-the-assets-in-the-custom-playlist"></a>Traduire les biens dans la playlist personnalisée
-Les composants d’une liste de lecture fournis par Microsoft ne sont pas modifiables et ne nécessitent pas de traduction. Si vous avez ajouté des composants personnalisés à partir du site SharePoint de votre client, ces composants devront être traduits. Voyons comment traduire un élément personnalisé dans une liste de lecture.
+### <a name="create-a-new-multilingual-asset-for-a-playlist"></a>Créer une ressource multilingue pour une playlist
+Ces instructions supposent que vous utilisez la sélection de cinq étapes simples dans l’exemple de cette rubrique. 
 
-### <a name="add-a-language-for-an-existing-asset"></a>Ajouter une langue pour un élément existant
-1. Sous **composants**, sélectionnez l’icône **modifier** en regard de l’élément personnalisé. 
-2. Sélectionnez une langue dans la zone **Ajouter une langue** , puis enregistrer l' **élément**.
+**Pour créer l’élément**
+1. Pour la sélection de cinq étapes simples, sous **ressources**, sélectionnez **+ nouvelle ressource** , puis renseignez les détails du bien. 
+- Pour **titre**, entrez « Bienvenue dans Microsoft 365 chez contoso ». 
+- Pour la **technologie**, sélectionnez **Microsoft 365**.
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+2. Sélectionnez **créer une ressource**, puis **enregistrer l’élément**.
 
-### <a name="add-a-language-page-for-an-existing-asset"></a>Ajouter une page de langue pour un élément existant
-1. Dans la liste des biens, cliquez sur la ressource en anglais, puis cliquez sur **ouvrir**.
-2. Dans la barre supérieure, sélectionnez **traduction**.
-3. Dans la liste déroulante langue, sélectionnez la langue du bien, sélectionnez **créer**, puis **Afficher**. Votre page doit maintenant ressembler à ce qui suit. 
-![custom_update_ml_transcusplpage.png](media/custom_update_ml_transcusplpage.png)
-4. Cliquez sur **publier**, puis copiez l’URL de la page. Il doit ressembler à ce qui suit, avec le code de langue dans l’URL.
-https://tenantname.sharepoint.com/sites/M365LP/SitePages/it/Welcome-to-Contoso.aspx.
-5. Revenez à la page Administration de SharePoint, ajoutez l’URL de la langue de l’élément, puis cliquez sur **Enregistrer**. 
-![custom_update_ml_transcusplurl.png](media/custom_update_ml_transcusplurl.png)
-6.  Faites défiler la page vers le haut, puis cliquez sur **Fermer la playlist**.
+**Pour ouvrir l’élément**
+1. Sélectionnez le bien que vous venez de créer, puis cliquez sur **ouvrir**.  
+2. Effectuez les modifications souhaitées sur la page. Pour le moment, vous pouvez modifier le titre de la page et ajouter du texte à la page comme illustré dans l’exemple suivant, puis cliquez sur **publier**. 
+3. Cliquez sur **traduction**.
+4. Sélectionnez **créer** pour la ou les langues souhaitées. Pour cet exemple, nous allons sélectionner italien.
+5. Sélectionnez **affichage**. Vous devez maintenant voir une page semblable à l’exemple suivant en fonction de vos langues prises en charge.
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+6. Cliquez sur **Publier**.
+7. Pour la page de traduction que vous avez créée, copiez l’URL à partir du navigateur et revenez à la page d’administration des voies d’apprentissage.
 
-## <a name="what-the-translator-does"></a>Quel est le rôle du traducteur ?
-Le traducteur effectuera les opérations suivantes :
+**Pour ajouter une langue pour la ressource de traduction que vous avez créée** 
+1. Revenez à la page d’administration des chemins d’apprentissage et sélectionnez l’icône modifier (crayon) pour l’élément « cinq étapes simples » que vous avez ouvert. 
+2. Cliquez sur **Ajouter une langue**, puis sélectionnez une langue. Dans cet exemple, nous avons sélectionné italien. 
+3. Entrez l’URL de la page traduite que vous avez créée. Vous devriez voir une page semblable à l’exemple suivant. 
+![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+4. Cliquez sur **enregistrer l’élément**.
+
+## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>Ajouter des langues pour les éléments de sélection et les biens personnalisés existants
+Si vous disposez de voies d’apprentissage mises à niveau pour la prise en charge multilingue et que vous disposez de sélections et de ressources personnalisées existantes, vous pouvez ajouter des langues prises en charge pour les sélections et les biens. Ces instructions supposent que vous disposez d’une sélection personnalisée à laquelle vous pouvez ajouter des langues. Si vous n’avez pas de playlist personnalisée, consultez la section « créer ou copier une sélection » plus haut dans cette rubrique. 
+
+> [!IMPORTANT]
+> - Les playlists fournies par Microsoft sont déjà traduites et ne peuvent pas être modifiées sauf si vous créez une copie de la playlist. Vous pouvez uniquement ajouter des langues pour les playlists personnalisées. 
+> - Pour ajouter des langues pour des sélections et des biens personnalisés, la prise en charge multilingue et les langues doivent être activées. Pour plus d’informations sur l’activation de la prise en charge multilingue et des options, consultez la rubrique [Set Language settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
+
+### <a name="to-add-languages-for-an-existing-playlist"></a>Pour ajouter des langues pour une playlist existante
+1.  Dans le menu **Accueil** des chemins d’apprentissage, cliquez sur **administration des chemins**d’apprentissage. 
+2.  Sélectionnez une playlist personnalisée. Une sélection personnalisée est identifiée par l’icône personnes avec la coche, comme illustré dans l’exemple suivant.
+![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+3. Sélectionnez **modifier le détail**. Vous devrez peut-être faire défiler la liste pour trouver le bouton **modifier les détails** .   
+4. Sélectionnez **Ajouter une langue** , puis sélectionnez une langue. 
+5. Sélectionnez **enregistrer les détails**.
+ Notez que les langues disponibles dépendent des langues prises en charge par le site. Pour ajouter des langues supplémentaires, vous devez ajouter des langues prises en charge supplémentaires au site.   
+5. Cliquez sur une langue à droite de la langue par défaut (dans ce cas, anglais) pour afficher les détails de la playlist copiée. Les détails de la nouvelle langue reflètent la playlist copiée d’origine et nécessitent une traduction.
+![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+7. Prenez note pour informer le traducteur des détails de la playlist à être traduit.  
+
+**Pour ouvrir l’élément**
+1. Sélectionnez le bien que vous venez de créer, puis cliquez sur **ouvrir**.  
+2. Effectuez les modifications souhaitées sur la page. Pour le moment, vous pouvez modifier le titre de la page et ajouter du texte à la page comme illustré dans l’exemple suivant, puis cliquez sur **publier**. 
+3. Cliquez sur **traduction**.
+4. Sélectionnez **créer** pour la ou les langues souhaitées. Pour cet exemple, nous allons sélectionner italien.
+5. Sélectionnez **affichage**. Vous devez maintenant voir une page semblable à l’exemple suivant en fonction de vos langues prises en charge.
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+6. Cliquez sur **Publier**.
+7. Pour la page de traduction que vous avez créée, copiez l’URL à partir du navigateur et revenez à la page d’administration des voies d’apprentissage.
+
+## <a name="notify-the-translator"></a>Informer le traducteur
+Lorsque vous avez terminé de créer des ressources de traduction, informez le traducteur des traductions requises. Le traducteur effectuera les opérations suivantes :
 - Traduire les détails de la playlist.
 - Convertit les détails des biens.
-- Traduire les pages de langue ajoutées pour l’élément.
+- Traduire des pages de langue ajoutées pour un élément.
 - Informer le demandeur des traductions que les traductions sont prêtes à passer en revue
+
+## <a name="add-languages-for-an-existing-custom-playlist"></a>Ajouter des langues pour une playlist personnalisée existante
+Si vous disposez de voies d’apprentissage mises à niveau pour la prise en charge multilingue et que vous disposez de sélections et de ressources personnalisées existantes, vous pouvez ajouter des langues prises en charge pour les sélections et les biens. 
+
+> [!IMPORTANT]
+> - Les playlists fournies par Microsoft sont déjà traduites et ne peuvent pas être modifiées sauf si vous créez une copie de la playlist. Vous pouvez uniquement ajouter des langues pour les playlists personnalisées. 
+> - Pour ajouter des langues pour des sélections et des biens personnalisés, la prise en charge multilingue et les langues doivent être activées. Pour plus d’informations sur l’activation de la prise en charge multilingue et des options, consultez la rubrique [Set Language settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
+
+
+
+
+## <a name="instructions-for-the-translator"></a>Instructions pour le traducteur
 
 ### <a name="translate-playlist-details"></a>Traduire les détails de la playlist
 Dans le menu **Accueil** des chemins d’apprentissage, cliquez sur **administration des chemins**d’apprentissage. 
@@ -66,11 +131,9 @@ Dans le menu **Accueil** des chemins d’apprentissage, cliquez sur **administra
 2. Faites défiler la page vers le bas, puis sous composants, sélectionnez Modifier pour l’immobilisation à modifier, puis sélectionnez la langue. 
 3. Effectuez les traductions de l’élément, puis cliquez sur **enregistrer l’actif**.  
 
-## <a name="translate-the-added-language-page-for-the-asset"></a>Traduire la page de langue ajoutée pour l’élément
+### <a name="translate-the-added-language-page-for-the-asset"></a>Traduire la page de langue ajoutée pour l’élément
 Dans le menu **Accueil** des chemins d’apprentissage, cliquez sur **administration des chemins**d’apprentissage. 
 1. Cliquez sur la sélection personnalisée qui nécessite une traduction. 
 2. Faites défiler la page vers le bas, puis sous composants, sélectionnez l’immobilisation, sélectionnez la langue, puis cliquez sur Ouvrir. 
-3. Effectuez les traductions de la page, puis cliquez sur **publier**.  
+3. Effectuez les traductions de la page, puis cliquez sur **publier**.   
 
-## <a name="create-a-new-multilangual-playlist"></a>Créer une nouvelle playlist Multilangual
-Pour obtenir des instructions sur la création d’une playlist pour un site, voir [Create a Custom playlist](custom_createnewplaylist.md). Une fois que vous avez créé la liste de sélection et les biens, reportez-vous à cette documentation pour obtenir des instructions sur la façon de traduire la sélection et les biens. 

@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Mettre en service un nouveau site multilingue de chemins d’apprentissage
+title: Mettre en service une nouvelle solution multilingue de voies d’apprentissage
 ms.date: 02/10/2019
 description: Approvisionner le site des voies d’apprentissage Microsoft 365 via le service de mise en service SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: ca565a113056a915cfc780568ca36777bbf8f5bb
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699073"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031710"
 ---
-# <a name="provision-a-new-learning-pathways-multilingual-site"></a>Mettre en service un nouveau site multilingue de chemins d’apprentissage
+# <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Mettre en service une nouvelle solution multilingue de voies d’apprentissage
 Les organisations qui n’ont pas de voies d’apprentissage déjà configurées dans leur client peuvent ajouter la solution voies d’apprentissage multilingues à leur client. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications. 
 
 > [!IMPORTANT]

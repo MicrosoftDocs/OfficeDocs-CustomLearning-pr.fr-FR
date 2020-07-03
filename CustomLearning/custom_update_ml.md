@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Mettre à jour les parcours d’apprentissage de Microsoft 365
+title: Mettre à jour les voies de formation pour la prise en charge multilingue
 ms.date: 05/20/2019
-description: Mettre à jour les parcours d’apprentissage de Microsoft 365
+description: Mettre à jour les voies de formation pour la prise en charge multilingue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699062"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031700"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>Mettre à jour les parcours d’apprentissage de Microsoft 365
+# <a name="update-learning-pathways-for-multilingual-support"></a>Mettre à jour les voies de formation pour la prise en charge multilingue
 Si vous disposez d’un site de voies d’apprentissage existant, vous pouvez le mettre à jour pour la prise en charge multilingue. Pour mettre à jour les voies de formation vers la version multilingue 4,0, téléchargez le package de composants WebPart, customlearning. sppkg, dans le catalogue d’applications clientes SharePoint. Lorsque vous mettez à jour les voies de formation :  
 
 - Tous les éléments et playlists personnalisés créés précédemment sont conservés
@@ -41,7 +41,7 @@ Les voies d’apprentissage prennent en charge neuf langues, mais vous devez ajo
 - Sous **Ajouter ou supprimer des langues de site**, commencez à taper un nom de langue dans **Sélectionner ou tapez une langue**, ou choisissez une langue dans la liste déroulante. Vous pouvez répéter cette étape pour ajouter plusieurs langues. Vous pouvez ajouter ou supprimer des langues de votre site à tout moment en revenant à cette page.
  
 ### <a name="assign-translators"></a>Affecter des traducteurs
-Lors de la définition des paramètres de langue pour les voies de formation, vous pouvez attribuer des traducteurs. Un profil de langue étrangère doit être configuré pour les traducteurs. Pour plus d’informations sur les profils de langue étrangère, consultez la rubrique [créer des sites, des pages et des actualités de communication multilingue](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
+Lors de la définition des paramètres de langue pour les voies de formation, vous pouvez attribuer des traducteurs. Un profil de langue étrangère doit être configuré pour les traducteurs. Pour plus d’informations sur les profils de langue étrangère, consultez la rubrique [créer des sites, des pages et des actualités de communication multilingue](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
 - Pour une langue prise en charge, cliquez sur **Sélectionner ou tapez un traducteur** , puis sélectionnez un convertisseur. 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>Mettre à jour le package de composants WebPart des chemins d’apprentissage
