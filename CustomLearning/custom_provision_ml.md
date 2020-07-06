@@ -5,15 +5,15 @@ title: Mettre en service une nouvelle solution multilingue de voies d’apprenti
 ms.date: 02/10/2019
 description: Approvisionner le site des voies d’apprentissage Microsoft 365 via le service de mise en service SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031710"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038994"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Mettre en service une nouvelle solution multilingue de voies d’apprentissage
-Les organisations qui n’ont pas de voies d’apprentissage déjà configurées dans leur client peuvent ajouter la solution voies d’apprentissage multilingues à leur client. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications. 
+Les organisations qui n’ont pas de voies d’apprentissage configurées dans leur client peuvent utiliser le service de mise en service SharePoint pour ajouter la solution des chemins d’apprentissage multilingues. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications. 
 
 > [!IMPORTANT]
 > Si vous avez déjà mis en service des voies d’apprentissage dans votre client, il est recommandé de suivre le [chemin de mise à jour](custom_update_ml.md) pour les voies de formation. Si vous installez des voies de formation sur une instance existante de votre client, toutes les modifications apportées au modèle de site ou aux playlists de la voie d’apprentissage peuvent être perdues.
@@ -73,12 +73,12 @@ En tant qu’administrateur client, il est peu probable que vous soyez la person
 5. Ajoutez un lien pour [Explorer le site](custom_exploresite.md) dans le message de partage, puis cliquez sur **partager**.
 
 ## <a name="add-translators-to-the-site"></a>Ajouter des traducteurs au site
-Les traducteurs nécessitent des autorisations de membre ou plus sur le site. 
+Si vous utilisez des traducteurs pour le site, vous pouvez leur attribuer des autorisations. Les traducteurs nécessitent des autorisations de membre ou une version ultérieure. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Choisir les options d’utilisation de plusieurs langues sur le site
 Le service de mise en service SharePoint crée le site des voies d’apprentissage dans neuf langues. Les recommandations suivantes s’appliquent :
 - Désactiver les langues que vous ne voulez pas prendre en charge
-- Si vous ne prenez pas en charge un site multilingue, désactivez la fonctionnalité multilingue. 
+- Si vous ne prenez pas en charge un site multilingue, désactivez la fonctionnalité multilingue. Consultez la section « désactiver la prise en charge multilingue » plus loin dans cette rubrique.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>Supprimer les langues que vous ne voulez pas prendre en charge
 Pour les organisations qui choisissent de prendre en charge une seule langue, en plus de la langue anglaise par défaut, nous vous recommandons de supprimer les langues qui ne sont pas prises en charge. 
@@ -102,6 +102,11 @@ Si vous envisagez de traduire des pages, affectez éventuellement un ou plusieur
 
 ## <a name="turn-off-multilingual-support"></a>Désactiver la prise en charge multilingue
 Si vous ne souhaitez pas un site multilingue, par exemple, si vous souhaitez un site en anglais uniquement, il est recommandé de désactiver la fonctionnalité multilingue. 
+
+1. Sur le site des voies d’apprentissage, sélectionnez les **paramètres** dans la partie supérieure droite de la page, puis sélectionnez **informations sur le site**.
+2. En bas du volet informations sur le site, sélectionnez **Afficher tous les paramètres du site**.
+3. Sous **administration du site**, sélectionnez **paramètres de langue**.
+4. Sous **activer la traduction des pages et des informations en plusieurs langues**, faites glisser le bouton bascule **sur activé**. Il doit être activé par défaut.
 - Sous **activer la traduction des pages et des news**, sélectionnez **désactivé**. 
 
 ### <a name="add-languages"></a>Ajouter des langues

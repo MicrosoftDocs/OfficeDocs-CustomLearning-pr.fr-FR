@@ -5,12 +5,12 @@ title: Configuration manuelle des voies d’apprentissage
 ms.date: 02/10/2019
 description: Configuration manuelle des voies d’apprentissage
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037229"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038974"
 ---
 # <a name="learning-pathways-manual-setup"></a>Configuration manuelle des voies d’apprentissage
 
@@ -18,7 +18,7 @@ Les chemins d’apprentissage Microsoft 365 offrent une configuration manuelle p
 
 - Votre organisation dispose d’un site de communication moderne SharePoint Online dédié à la formation et vous souhaitez ajouter des voies de formation à ce site. Dans ce scénario, le composant WebPart voies d’apprentissage n’a pas été configuré sur le site.
 
-- Vous souhaitez installer les voies de formation pour la prise en charge multilingue dans l’un des sites de communication SharePoint de votre organisation. Le site possède une langue par défaut qui n’est pas l’anglais, mais est l’une des langues prises en charge par les voies d’apprentissage. Voici les langues prises en charge par les voies de formation :
+- Vous souhaitez installer les voies de formation pour la prise en charge multilingue dans l’un des sites de communication SharePoint de votre organisation. Le site possède une langue par défaut qui n’est pas l’anglais et est l’une des langues prises en charge par les voies d’apprentissage. Voici les langues prises en charge par les voies de formation :
 
 - English
 - Chinois (simplifié)
@@ -30,23 +30,20 @@ Les chemins d’apprentissage Microsoft 365 offrent une configuration manuelle p
 - Russe (russe)
 - Spanish
 
-La configuration manuelle des voies de formation nécessite l’utilisation de Windows PowerShell et de SharePoint Online Management Shell. Voici les étapes de configuration manuelle des voies de formation : 
+La configuration manuelle des voies de formation nécessite l’utilisation de Windows PowerShell et de SharePoint Online Management Shell. Voici une présentation des étapes de la configuration manuelle des voies de formation : 
 
 - Vérifiez que vous remplissez toutes les conditions préalables.
 - Vérifiez les paramètres de langue par défaut pour votre site. Si ce n’est pas le cas, poursuivez l’installation manuelle. Si vous avez besoin d’un autre paramètre de langue par défaut, vous devez créer un nouveau site. 
 - Installez le fichier customlearning. sppkg dans votre catalogue d’applications client SharePoint.
 - Approvisionner/identifier un site de communication moderne qui se comporte comme votre site d’accueil des chemins d’apprentissage Microsoft 365.
-- Exécutez un script PowerShell qui configurera votre client avec les artefacts appropriés dont dépend le chemin d’apprentissage.
+- Exécutez un script PowerShell qui configurera votre client avec les artefacts dont dépend le chemin d’apprentissage.
 - Accédez à la page de site CustomLearningAdmin. aspx pour charger le composant WebPart d’administration afin d’initialiser la configuration de contenu personnalisé.
-
-> [!NOTE]
-> Si vous recherchez un moyen rapide et facile de configurer les voies de formation, voir [approvisionner les chemins d’apprentissage Microsoft 365](custom_provision.md).
 
 ## <a name="prerequisites"></a>Conditions préalables
 Pour garantir la réussite de la configuration manuelle du composant WebPart voies d’apprentissage, les conditions préalables suivantes doivent être remplies. 
 
-- Vous devez avoir configuré et configuré le catalogue d’applications à l’échelle du client. Voir [configurer votre client Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) et suivre la section créer un site de catalogue d’applications. 
-- Si votre catalogue d’applications à l’échelle du client a déjà été configuré, vous aurez besoin d’accéder à un compte disposant de droits de chargement d’un package vers celui-ci pour terminer le processus d’installation. En règle générale, ce compte dispose d’un rôle d’administrateur SharePoint. 
+- Vous devez avoir configuré et configuré le catalogue d’applications à l’échelle du client. Consultez la rubrique [configurer votre client Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) et suivez la section « créer un catalogue d’applications ». 
+- Si votre catalogue d’applications à l’échelle du client a déjà été mis en service, vous devez accéder à un compte disposant des droits pour télécharger un package vers celui-ci. En règle générale, ce compte dispose d’un rôle d’administrateur SharePoint. 
 - Si un compte associé à ce rôle ne fonctionne pas, accédez au centre d’administration SharePoint et recherchez les administrateurs de collections de sites pour la collection de sites de catalogue d’applications, ou ouvrez une session en tant qu’administrateur de collection de sites ou ajoutez le compte d’administrateur SharePoint qui a échoué aux administrateurs de collection de sites. 
 - Vous aurez également besoin d’accéder à un compte qui est un administrateur de client SharePoint.
 
@@ -76,7 +73,7 @@ Avec cette option, vous créez un site de communication SharePoint Online avec l
 3. Ajoutez des langues supplémentaires, si nécessaire, puis cliquez sur **Enregistrer**. 
 4. Passez à l’étape 2. 
 
->! Note Si vous avez besoin de migrer le contenu personnalisé d’un site vers un site nouvellement créé, consultez la rubrique [migrer du contenu personnalisé](Migrate custom content). 
+>! Note Si vous devez migrer le contenu personnalisé d’un site vers un site nouvellement créé, reportez-vous à la section « migrer du contenu personnalisé » plus loin dans ce document. 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>Étape 2 : obtenir le package de composants WebPart et le script de configuration à partir de GitHub
 Dans le cadre du processus de configuration, vous avez besoin du package de composants WebPart des chemins d’apprentissage Microsoft 365 et du script de configuration de PowerShell.
@@ -129,8 +126,9 @@ En tant qu’administrateur client, il est peu probable que vous soyez la person
 5. Ajoutez un lien pour [Explorer le site](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) dans le message de partage, puis cliquez sur **partager**.
 
 ## <a name="migrate-custom-content"></a>Migrer du contenu personnalisé
-Une fois que vous avez rétablissez votre site de voies d’apprentissage en suivant les étapes ci-dessus, vous devrez déplacer le contenu de votre liste **CustomPlaylists** et de votre liste **CustomAssets** . Vous pouvez également déplacer les pages personnalisées réelles qui composent vos biens personnalisés si elles résident sur le site des voies d’apprentissage existantes, et que votre intention est de la supprimer. La tâche peut être difficile, car pour tous les éléments de la liste **CustomPlaylists** , l’ID de l’élément de liste dans la liste **CustomAssets** est enfoui dans le champ JSONData de chaque élément de liste de playlist. Par conséquent, le simple fait de simplement délimiter le contenu de la liste **CustomPlaylists** d’un site à l’autre sera insuffisant. De plus, la liste **CustomAssets** contient l’URL absolue de la page de l’élément personnalisé dans le champ JSONData de l’élément de liste. Si les ressources ne sont pas déplacées et que le site n’est pas renommé (ce qui modifie l’URL absolue vers la page de l’élément), **CustomAssets** peut être conservé. Toutefois, vous devrez corriger manuellement les entrées. Étant donné la complexité de ce type de migration, nous vous conseillons d’avoir inscrit l’un de nos partenaires de parcours de formation pour vous aider à effectuer cette transition.
+Une fois que vous avez rétablissez votre site de voies d’apprentissage en suivant les étapes ci-dessus, vous devrez déplacer le contenu de votre liste **CustomPlaylists** et de votre liste **CustomAssets** . Vous pouvez également déplacer les pages personnalisées réelles qui composent vos biens personnalisés si elles résident sur le site des voies d’apprentissage existantes, et que votre intention est de la supprimer. La tâche peut être difficile, car pour tous les éléments de la liste **CustomPlaylists** , l’ID de l’élément de liste dans la liste **CustomAssets** est enfoui dans le champ JSONData de chaque élément de liste de playlist. Par conséquent, le simple fait de simplement délimiter le contenu de la liste **CustomPlaylists** d’un site à l’autre sera insuffisant. De plus, la liste **CustomAssets** contient l’URL absolue de la page de l’élément personnalisé dans le champ JSONData de l’élément de liste. Si les ressources ne sont pas déplacées et que le site n’est pas renommé (ce qui modifie l’URL absolue vers la page de l’élément), **CustomAssets** peut être conservé. Toutefois, vous devrez corriger manuellement les entrées. Étant donné la complexité de ce type de migration, nous vous conseillons d’avoir inscrit l’un de nos partenaires de parcours de formation pour vous aider à effectuer cette transition. 
 
 ### <a name="next-steps"></a>Étapes suivantes
-- [Personnaliser](custom_overview.md) l’expérience de formation pour votre organisation.
+- Voir [Customize Learning voies](custom_overview.md). 
+- Voir [traduire des pages de site](custom_translate_page_ml.md).
 
