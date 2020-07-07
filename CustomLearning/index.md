@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Vue d’ensemble des parcours d’apprentissage de Microsoft 365
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Découvrez comment les parcours d’apprentissage de Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation. Les parcours d’apprentissage incluent un composant WebPart SharePoint Online personnalisé et un site de formation modernes de communications SharePoint Online qui est facilement configuré pour votre locataire Microsoft 365.
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141397"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043236"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Parcours d’apprentissage de Microsoft 365 
 Les parcours d’apprentissage de Microsoft 365 constituent une solution d’apprentissage personnalisable et à la demande conçue pour améliorer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation.    
 
 > [!IMPORTANT]
-> En réponse aux événements actuels, les voies d’apprentissage fournissent une mise à jour de contenu d’avril 2020 qui se concentre sur les playlists et les ressources conçues pour permettre le travail à distance dans votre organisation. Nous avons ajouté un nouvel ensemble de tâches de sélection à distance, mis à jour de manière significative le contenu Microsoft Teams, en particulier pour les réunions Teams, et ajouté un nouvel ensemble d’Office pour les playlists Web. Dans le cadre de la mise à jour, nous avons également fourni une liste de ressources de travail distantes pour les administrateurs. Pour obtenir la liste complète des mises à jour, reportez-vous aux [chemins d’apprentissage des mises à jour de contenu d’avril 2020](custom_contentupdates.md).   
+> En réponse aux commentaires des clients, les voies de formation offrent désormais une prise en charge multilingue pour neuf langues. Pour obtenir des informations et des instructions sur l’activation de la prise en charge multilingue pour les voies de formation, consultez les rubriques suivantes : 
+>- [Vue d’ensemble de la prise en charge multilingue pour les voies de formation](custom_overview_ml.md) 
+>- [Options de configuration pour les voies de formation](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 
@@ -33,11 +34,12 @@ Les parcours d’apprentissage peuvent être configurées à partir du service d
 
 ![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3 étapes simples
+## <a name="4-easy-steps"></a>4 étapes simples
 Nous allons commencer à créer une expérience de parcours d’apprentissage pour votre environnement.
-1. Choisissez une [option de configuration](custom_setupoptions.md) et approvisionnez les parcours d’apprentissage de Microsoft 365.  
-2. Personnalisez les parcours d’apprentissage pour votre environnement.
-3. Partagez des parcours de formation avec vos utilisateurs à l’aide de nos [outils d’adoption ](driveadoption.md).
+1. Consultez la [rubrique vue d’ensemble de la prise en charge multilingue pour les voies de formation](custom_overview_ml.md). 
+2. Choisissez une [option de configuration](custom_setupoptions.md) et approvisionnez les parcours d’apprentissage de Microsoft 365.  
+3. Personnalisez les parcours d’apprentissage pour votre environnement.
+4. Partagez des parcours de formation avec vos utilisateurs à l’aide de nos [outils d’adoption ](driveadoption.md).
 
 ## <a name="feedback-and-support"></a>Commentaires et support
 

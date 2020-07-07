@@ -1,12 +1,18 @@
-# [Prise en main](index.md)
-## [Options de configuration des parcours d’apprentissage de Microsoft 365](custom_setupoptions.md)
-## [Configurer les parcours d’apprentissage de Microsoft 365](custom_provision.md)
+# [Prise en main](index.md)  
+## [Options de configuration des parcours d’apprentissage](custom_setupoptions.md)
+## [Configurer les parcours d’apprentissage](custom_provision.md)
+## [Mettre à jour les parcours d’apprentissage](custom_update.md)
+## [Configuration manuelle](custom_manualsetup.md)
 ## [Explorez le site des parcours d’apprentissage de Microsoft 365](custom_exploresite.md)
-## [Configuration de composants WebPart autonomes](custom_manualsetup.md)
 # Nouveautés 
 ## [Mises à jour de contenu](custom_contentupdates.md) 
 ## [Gérer les mises à jour de contenu](custom_contentupdatesmanage.md)
 ## [Mises à jour des fonctionnalités](custom_featureupdates.md)
+# Assistance multilingue
+## [Assistance multilingue pour les parcours d’apprentissage](custom_overview_ml.md)
+## [Traduire les pages du site](custom_translate_page_ml.md)
+## [Traduire les sélections personnalisées des parcours d’apprentissage](custom_translate_pl_ml.md)
+## [Traduire le nom, la navigation et les pieds de page du site](custom_sitenamenav_ml.md)
 # [Centre de réussite des administrateurs](custom_successcenter.md)
 ## Planifier du contenu d’apprentissage 
 ### [Planifier le contenu de votre formation](custom_plancontent.md)

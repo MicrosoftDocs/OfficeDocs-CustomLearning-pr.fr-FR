@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: Mises à jour des fonctionnalités de voies d’apprentissage
 ms.date: 10/20/2019
 description: Mises à jour des fonctionnalités de voies d’apprentissage
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141357"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048092"
 ---
-# <a name="learning-pathways-feature-updates"></a>Mises à jour des fonctionnalités de voies d’apprentissage
-L’équipe des voies d’apprentissage écoute les commentaires des clients afin de fournir les fonctionnalités dont vous avez besoin. Les éléments suivants fournissent une mise à jour sur les fonctionnalités prévues pour le deuxième trimestre de 2020. 
+# <a name="july-2020-version-40-feature-updates"></a>Mises à jour des fonctionnalités de juillet 2020 version 4,0 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Mises à jour des fonctionnalités à venir pour le deuxième trimestre 2020
-La prise en charge multilingue pour les voies de formation est prévue pour le deuxième trimestre de 2020. La prise en charge multilingue prend une dépendance vis-à-vis de la fonctionnalité de publication de pages Multiligual pour SharePoint moderne et sera disponible en même temps que la prise en charge multilingue de SharePoint. Pour plus d’informations, reportez-vous à la feuille de [route Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
-  
-Les langues suivantes seront prises en charge pour les voies de formation :   
+Les nouvelles fonctionnalités suivantes ont été ajoutées à la version 4,0 des chemins d’apprentissage Microsoft 365. 
 
+## <a name="multilingual-support-for-learning-pathways"></a>Prise en charge multilingue des voies de formation 
+La prise en charge multilingue des voies de formation est désormais disponible en neuf langues.  
+- English     
 - Chinois (simplifié) 
-- Français  
+- Français 
 - Allemand 
 - Italien (Italie) 
-- Japonais (Japon)  
+- Japonais (Japon) 
 - Portugais (Brésil) 
-- Russe (russe)  
-- Espagnol 
+- Russe (russe) 
+- Spanish 
+
+Pour plus d’informations, reportez-vous à la rubrique [apprentissage des chemins d’apprentissage multilingues](custom_overview.md). 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Sélecteur d’image pour les sous-catégories de voies d’apprentissage personnalisées 
+Les voies de formation fournissent désormais un sélecteur d’image facile à utiliser pour les listes de lecture et sous-catégories personnalisées.  Dans les versions antérieures, vous pouviez modifier l’image d’une sélection, mais pas une sous-catégorie.  
+
+Si vous souhaitez plus d’informations, reportez-vous aux rubriques suivantes :
+- [Créez une playlist personnalisée](custom_createnewplaylist.md). 
+- [Créer une sous-catégorie](custom_createnewcat.md)
 
 > [!NOTE]
 > La prise en charge de la langue néerlandaise n’est pas incluse dans la prochaine version de prise en charge multilingue pour les voies de formation. Nous continuerons à évaluer les nouvelles options de langue à l’avenir.

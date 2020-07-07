@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: Traduire les sélections personnalisées des voies d’apprentissage
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: Traduire les sélections personnalisées des voies d’apprentissage
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039004"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048132"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Traduire les sélections personnalisées des voies d’apprentissage
 Les voies de formation vous permettent d’utiliser des listes de lecture personnalisées en fonction de la configuration des voies de formation.  
@@ -137,5 +135,5 @@ Dans le menu **Accueil** des chemins d’apprentissage, cliquez sur **administra
 3. Effectuez les traductions de la page, puis cliquez sur **publier**.   
 
 ## <a name="for-more-information"></a>Pour plus d'informations
-- Pour plus d’informations sur la personnalisation des voies de formation, voir [Customize Learning voies](custom_overview.md).  
+- Pour plus d’informations sur la personnalisation des voies de formation, voir [Customize Learning voies](custom_overview.md). 
 

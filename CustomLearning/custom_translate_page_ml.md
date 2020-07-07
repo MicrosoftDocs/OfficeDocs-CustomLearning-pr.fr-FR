@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: Traduire des pages de site
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: Traduire des pages de site
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038984"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048112"
 ---
 # <a name="translate-site-pages"></a>Traduire des pages de site
 Avant de commencer à traduire le site des voies d’apprentissage, il est important de comprendre quelques concepts clés relatifs à la manière dont la fonctionnalité multilingue fonctionne avec les voies de formation. 
 - Les traductions d’informations de site, de navigation et de nom de site nécessitent que le site soit affiché et traduit dans le profil de langue de l’utilisateur.  
 - Le composant WebPart voies d’apprentissage doit être affiché avec le profil de la langue de l’utilisateur pour qu’il apparaisse dans une langue autre que l’anglais. Le composant WebPart et le contenu fourni par Microsoft sont déjà traduits pour vous. Pour plus d’informations sur les profils de langues, voir [modifier vos paramètres régionaux et de langue personnelle](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
-- La manière dont vous configurez les voies de formation détermine si les pages traduites sont disponibles. Les nouveaux sites mis en service avec le service de mise en service SharePoint auront des pages traduites dans neuf langues. Les sites mis à jour ou les sites que vous créez nécessitent une traduction manuelle. Consultez la rubrique [options de configuration pour les voies de formation multilingues](custom_setupoptions_ml.md).
+- La manière dont vous configurez les voies de formation détermine si les pages traduites sont disponibles. Les nouveaux sites configurés avec le service Microsoft 365 Look Book seront traduits en neuf langues. Les sites mis à jour ou les sites que vous créez nécessitent une traduction manuelle. Consultez la rubrique [options de configuration pour les voies de formation multilingues](custom_setupoptions_ml.md).
 - La prise en charge multilingue des voies de formation est activée par les fonctionnalités multilingues SharePoint Online pour les sites de communication. Pour en savoir plus sur les fonctionnalités multilingues de SharePoint Online, consultez la rubrique [créer des sites de communication multilingues, des pages et des actualités](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Utilisation d’un site nouvellement configuré
-Si vous avez configuré un nouveau site de voies d’apprentissage à partir du service de mise en service SharePoint, les pages traduites sont déjà disponibles. Par défaut, le site fournit les pages suivantes :
+Si vous avez configuré un nouveau site de voies d’apprentissage à partir du service de carnet d’adresses Microsoft 365, les pages traduites sont déjà disponibles. Par défaut, le site fournit les pages suivantes :
 
 - Home. aspx
 - Start-with-Six-Simple-Steps. aspx
