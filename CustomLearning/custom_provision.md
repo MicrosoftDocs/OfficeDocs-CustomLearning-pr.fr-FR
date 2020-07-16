@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: Mettre en service une nouvelle solution de voies d’apprentissage
 ms.date: 02/10/2019
 description: Approvisionner le site des chemins d’apprentissage Microsoft 365 avec le service Microsoft 365 Look Book
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048122"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146535"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Mettre en service une nouvelle solution de voies d’apprentissage 
 Les organisations qui n’ont pas de voies d’apprentissage configurées dans leur client peuvent utiliser le service de carnet d’adresses SharePoint pour ajouter la solution des chemins d’apprentissage multilingues. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications.
@@ -39,6 +40,8 @@ Avant de mettre en service les voies de formation, vérifiez que la langue séle
 1. Accédez à la [page des solutions de formation Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Cliquez sur **Ajouter à votre client**. Si vous n’êtes pas connecté à votre client, le service de mise en service vous demandera vos informations d’identification d’administrateur client. 
 3. Dans la boîte de dialogue autorisations demandées, sélectionnez **consentement au nom de votre organisation** , puis sélectionnez **accepter**.
+
+![Image du consentement catologue de l’application](media/app-catologue-consent.png)
 
 Le service de carnet d’adresses nécessite ces autorisations pour créer le catalogue d’applications client, installer l’application dans le catalogue d’applications client et approvisionner le modèle de site. Il n’y a aucun impact global sur votre client. Ces autorisations sont utilisées de manière explicite pour l’installation de la solution. Vous devez accepter ces autorisations pour poursuivre l’installation.
 
