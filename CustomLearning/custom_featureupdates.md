@@ -6,6 +6,7 @@ ms.date: 10/20/2019
 description: Mises à jour des fonctionnalités de voies d’apprentissage
 ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
 ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45048092"

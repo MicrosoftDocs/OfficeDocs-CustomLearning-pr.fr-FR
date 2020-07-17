@@ -6,6 +6,7 @@ ms.date: 07/06/2020
 description: Mettre à jour les parcours d’apprentissage de Microsoft 365
 ms.openlocfilehash: 5fe9dc64916eb75d309c44188cd2f72fa88ba9e4
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043246"
