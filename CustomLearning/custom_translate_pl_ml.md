@@ -6,6 +6,7 @@ ms.date: 07/06/2020
 description: Traduire les sélections personnalisées des voies d’apprentissage
 ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
 ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.translationtype: Auto
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45048132"

@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: Traduire le nom du site, la navigation et les pieds de page
 ms.openlocfilehash: c6ff6c94f18cdf83f39e366fa5245d846c39eccc
 ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.translationtype: Auto
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45048102"

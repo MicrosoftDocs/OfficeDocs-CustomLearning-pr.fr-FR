@@ -7,6 +7,7 @@ description: Configuration manuelle des voies d’apprentissage
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: Auto
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043276"
