@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Vue d’ensemble des parcours d’apprentissage de Microsoft 365
 ms.date: 7/6/2020
 description: Découvrez comment les parcours d’apprentissage de Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation. Les parcours d’apprentissage incluent un composant WebPart SharePoint Online personnalisé et un site de formation modernes de communications SharePoint Online qui est facilement configuré pour votre locataire Microsoft 365.
-ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043236"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199344"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Parcours d’apprentissage de Microsoft 365 
 Les parcours d’apprentissage de Microsoft 365 constituent une solution d’apprentissage personnalisable et à la demande conçue pour améliorer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation.    
@@ -17,7 +17,7 @@ Les parcours d’apprentissage de Microsoft 365 constituent une solution d’ap
 > [!IMPORTANT]
 > En réponse aux commentaires des clients, les voies de formation offrent désormais une prise en charge multilingue pour neuf langues. Pour obtenir des informations et des instructions sur l’activation de la prise en charge multilingue pour les voies de formation, consultez les rubriques suivantes : 
 >- [Vue d’ensemble de la prise en charge multilingue pour les voies de formation](custom_overview_ml.md) 
->- [Options de configuration pour les voies de formation](custom_setupoptions.md)  
+>- [Options de configuration des parcours d’apprentissage](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 
@@ -30,8 +30,8 @@ Parcours d’apprentissage de Microsoft 365 proposent :
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-online-provisioning-service"></a>Service d’approvisionnement SharePoint Online 
-Les parcours d’apprentissage peuvent être configurées à partir du service d’approvisionnement SharePoint Online. Une fois les parcours d’apprentissage de Microsoft 365 mises en service, les organisations reçoivent un site de communication SharePoint Online conçu pour être un portail de formation prêts à l’emploi, avec un composant WebPart parcours d’apprentissage connecté à un catalogue en ligne de contenu de formation. 
+## <a name="sharepoint-look-book-service"></a>Service de carnet d’adresses SharePoint
+Les voies de formation peuvent être configurées à partir du service de carnet d’adresses SharePoint. Une fois les parcours d’apprentissage de Microsoft 365 mises en service, les organisations reçoivent un site de communication SharePoint Online conçu pour être un portail de formation prêts à l’emploi, avec un composant WebPart parcours d’apprentissage connecté à un catalogue en ligne de contenu de formation. 
 
 ![cg-provision.png](media/cg-provision.png)
 

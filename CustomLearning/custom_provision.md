@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: Mettre en service une nouvelle solution de voies d’apprentissage
 ms.date: 02/10/2019
 description: Approvisionner le site des chemins d’apprentissage Microsoft 365 avec le service Microsoft 365 Look Book
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146535"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196782"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Mettre en service une nouvelle solution de voies d’apprentissage 
-Les organisations qui n’ont pas de voies d’apprentissage configurées dans leur client peuvent utiliser le service de carnet d’adresses SharePoint pour ajouter la solution des chemins d’apprentissage multilingues. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications.
+Les organisations qui n’ont pas de voies d’apprentissage configurées dans leur client peuvent utiliser le service de carnet d’adresses SharePoint pour ajouter la solution des chemins d’apprentissage multilingues. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications. 
 
 > [!IMPORTANT]
 > Si vous avez déjà configuré des voies de formation dans votre client, il est recommandé de [mettre à jour](custom_update.md) les voies de formation. Si vous installez une nouvelle instance de voies de formation, vous devrez transférer manuellement toutes les personnalisations du site existant vers le nouveau site. 
 
 ## <a name="prerequisites-for-multilingual-support"></a>Conditions requises pour la prise en charge multilingue
  
-Pour configurer correctement les voies d’apprentissage de Microsoft 365 avec le service de livres de recherche, la personne qui effectue la mise en service doit répondre aux conditions préalables suivantes : 
+Pour configurer correctement les voies d’apprentissage de Microsoft 365 avec le service de livres de recherche, la personne qui effectue la mise en service doit répondre aux conditions préalables suivantes :   
  
 - Les voies d’apprentissage de mise en service de la personne doivent être un administrateur client du client où les voies d’apprentissage seront mises en service.  
 - Un catalogue d’applications client doit être disponible dans l’option apps du centre d’administration SharePoint. Si votre organisation ne dispose pas d’un catalogue d’applications client SharePoint, reportez-vous à la [documentation SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) pour en créer une. Vous devez attendre au moins deux heures après avoir créé le catalogue d’applications avant de procéder à la mise en service des voies d’apprentissage.  
@@ -40,8 +40,6 @@ Avant de mettre en service les voies de formation, vérifiez que la langue séle
 1. Accédez à la [page des solutions de formation Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Cliquez sur **Ajouter à votre client**. Si vous n’êtes pas connecté à votre client, le service de mise en service vous demandera vos informations d’identification d’administrateur client. 
 3. Dans la boîte de dialogue autorisations demandées, sélectionnez **consentement au nom de votre organisation** , puis sélectionnez **accepter**.
-
-![Image du consentement catologue de l’application](media/app-catologue-consent.png)
 
 Le service de carnet d’adresses nécessite ces autorisations pour créer le catalogue d’applications client, installer l’application dans le catalogue d’applications client et approvisionner le modèle de site. Il n’y a aucun impact global sur votre client. Ces autorisations sont utilisées de manière explicite pour l’installation de la solution. Vous devez accepter ces autorisations pour poursuivre l’installation.
 
