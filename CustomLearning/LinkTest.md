@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Vue d’ensemble des parcours d’apprentissage de Microsoft 365
 ms.date: 7/6/2020
 description: Découvrez comment les parcours d’apprentissage de Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation. Les parcours d’apprentissage incluent un composant WebPart SharePoint Online personnalisé et un site de formation modernes de communications SharePoint Online qui est facilement configuré pour votre locataire Microsoft 365.
-ms.openlocfilehash: f44f183abde3341cb8e176a15120d0f5b2390e56
-ms.sourcegitcommit: e44f60be18f4bc8faf58788ae4f131f0b066619d
+ms.openlocfilehash: 16197850e6ee14e4de77fb19fb96acbbcd530004
+ms.sourcegitcommit: c47986107ce45d89ba7f093c85f664f03033eb99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798760"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46845546"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Parcours d’apprentissage de Microsoft 365 
 Les parcours d’apprentissage de Microsoft 365 constituent une solution d’apprentissage personnalisable et à la demande conçue pour améliorer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation.    
@@ -48,6 +48,7 @@ Les parcours d’apprentissage Microsoft 365 sont des projets open source pris 
 ## <a name="link-test"></a>Test de liaison
 Il s’agit d’un [test de lien interne](custom_setupoptions.md). Il s’agit d’un [test de liaison externe](https://adoption.microsoft.com/).
 Il s’agit d’un [test de lien de redirection](https://aka.ms/CustomLearningHelp).
+Il s’agit d’un nouveau lien [aller](http://stackoverflow.com)à { : target = "_blank" rel = "noopener"}.
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
-Vous pouvez utiliser le site Microsoft 365 sur les parcours d’apprentissage pour fournir des liens vers les forums de la communauté d’utilisateurs nouveaux ou existants. Songez à démarrer un groupe d’utilisateurs interne, si vous n’en avez pas encore, pour permettre aux utilisateurs de partager leurs résultats et d’apprendre les uns des autres.  Si vous n’avez pas le temps d’entretenir un groupe d’utilisateurs interne, vous et vos employés pouvez rejoindre la [Communauté champion Microsoft Office 365](https://aka.ms/O365Champions) pour la formation mensuelle, l’adhésion à la communauté en ligne et l’accès en avant-première aux outils et ressources pour Office 365.
+Vous pouvez utiliser le site Microsoft 365 sur les parcours d’apprentissage pour fournir des liens vers les forums de la communauté d’utilisateurs nouveaux ou existants. Songez à démarrer un groupe d’utilisateurs interne, si vous n’en avez pas encore, pour permettre aux utilisateurs de partager leurs résultats et d’apprendre les uns des autres.  Si vous n’avez pas le temps d’entretenir un groupe d’utilisateurs interne, vous et vos employés pouvez rejoindre la [Communauté champion Microsoft Office 365](https://aka.ms/O365Champions) pour la formation mensuelle, l’adhésion à la communauté en ligne et l’accès en avant-première aux outils et ressources pour Office 365.  
