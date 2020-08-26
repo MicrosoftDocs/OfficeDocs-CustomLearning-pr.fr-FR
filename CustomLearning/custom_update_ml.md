@@ -5,12 +5,12 @@ title: Mettre à jour les voies de formation pour la prise en charge multilingue
 ms.date: 05/20/2019
 description: Mettre à jour les voies de formation pour la prise en charge multilingue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: Auto
+ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
+ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031700"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "46874975"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Mettre à jour les voies de formation pour la prise en charge multilingue
 Si vous disposez d’un site de voies d’apprentissage existant, vous pouvez le mettre à jour pour la prise en charge multilingue. Pour mettre à jour les voies de formation vers la version multilingue 4,0, téléchargez le package de composants WebPart, customlearning. sppkg, dans le catalogue d’applications clientes SharePoint. Lorsque vous mettez à jour les voies de formation :  
@@ -48,7 +48,7 @@ Lors de la définition des paramètres de langue pour les voies de formation, vo
 Dans cette étape, vous téléchargez le composant WebPart voies d’apprentissage 4,0 dans le catalogue d’applications SharePoint, puis accédez à la page d’administration des voies d’apprentissage pour démarrer le processus de mise à jour.
 
 ### <a name="upload-the-web-part-package"></a>Télécharger le package de composants WebPart
-1.  Accédez à l’emplacement de partage multilingue dans teams et téléchargez **customlearning. sppkg** sur un lecteur local de votre PC. 
+1.  Accédez au [référentiel d’apprentissage personnalisé GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), sélectionnez **customlearning. sppkg** , puis téléchargez-le sur un lecteur local de votre PC. 
 2.  Si vous n’êtes pas déjà connecté, connectez-vous à votre client auprès d’un administrateur client ou d’un compte d’administrateur de collection de sites. 
 3.  Cliquez sur **admin**  >  **afficher toutes les**  >  **SharePoint**  >  **fonctionnalités**SharePoint. 
 4.  Sous **applications**, cliquez sur **ouvrir**. 
