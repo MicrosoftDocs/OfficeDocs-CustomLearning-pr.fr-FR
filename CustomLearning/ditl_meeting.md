@@ -1,11 +1,17 @@
 ---
-titre : ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Jour de la vie avec Office 365 réunion au bureau
+description: Étapes rapides pour être prêt pour la journée en main avec Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056093"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233636"
 ---
 # <a name="meeting-at-the-office"></a>Réunion chez Office
 
@@ -63,4 +69,4 @@ L'ajout direct d'éléments d'action dans un plan pour votre projet vous évite 
 ![Tâche du Planificateur](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>Terminer une réunion
-Lorsque tout l'ordre du jour a été abordé, mettez fin à la réunion, quelle que soit l'heure. Attribuer et envoyer les éléments d’action à tous les participants. Si vous collaborez dans Microsoft Teams, vous pouvez facilement partager les éléments d’action dans le canal approprié. Les éléments d'action peuvent également être saisis et attribués dans le Planificateur pendant la réunion, offrant ainsi un moyen rapide de suivre leur réalisation, également [accessible dans Microsoft Teams](https://support.office.com/fr-FR/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+Lorsque tout l'ordre du jour a été abordé, mettez fin à la réunion, quelle que soit l'heure. Attribuer et envoyer les éléments d’action à tous les participants. Si vous collaborez dans Microsoft Teams, vous pouvez facilement partager les éléments d’action dans le canal approprié. Les éléments d'action peuvent également être saisis et attribués dans le Planificateur pendant la réunion, offrant ainsi un moyen rapide de suivre leur réalisation, également [accessible dans Microsoft Teams](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 

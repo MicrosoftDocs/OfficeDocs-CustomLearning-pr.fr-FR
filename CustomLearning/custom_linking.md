@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Liaison aux ressources des chemins d’apprentissage Microsoft 365
 ms.date: 02/15/2019
 description: Comment établir un lien vers les éléments des chemins d’apprentissage Microsoft 365
-ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327275"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234316"
 ---
-# <a name="link-to-learning-pathways-content"></a>Lien vers le contenu des voies d’apprentissage
+# <a name="link-to-learning-pathways-content"></a>Lien vers du contenu des parcours d’apprentissage
 
 Avec les voies de formation, il existe deux façons de créer un lien vers du contenu :
 
@@ -26,7 +27,7 @@ Si vous avez créé de nouvelles pages et des expériences d’apprentissage ave
 2. Cliquez sur **modifier les détails** dans l’une des vignettes de page d’accueil. Dans cet exemple, nous modifions les vignettes de **playlists recommandées** .
 3. Sous **lien**, cliquez sur **modifier**.
 
-![CG-linktopage. png](media/cg-linktopage.png)
+![cg-linktopage.png](media/cg-linktopage.png)
 
 4. Cliquez sur **site**, puis sur **pages du site**, cliquez sur la page vers laquelle vous souhaitez créer le lien, puis cliquez sur **ouvrir**. Dans cet exemple, nous créons un lien vers la page **Create-Your-Own-experience. aspx** abordée dans la section précédente.
 5. Fermez le volet des propriétés du héros, cliquez sur **publier**, puis testez le lien. 
@@ -38,12 +39,12 @@ Les voies pédagogiques vous permettent d’accéder à une instance du composan
 2. Cliquez sur **Microsoft teams**, puis sur **Introduction à Microsoft teams**.
 3. Cliquez sur l’icône **copier** .
 
-![CG-linktowebpart. png](media/cg-linktowebpart.png)
+![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
 4. Cliquez sur Accueil dans le menu site des chemins d’apprentissage Microsoft 365.
 5. Collez l’URL copiée dans la barre d’adresses du navigateur, puis appuyez sur entrée. 
 
 Comme le montre l’illustration suivante, le lien mène à la page CustomLearningViewer. aspx et affiche le contenu en fonction des paramètres du lien copié. 
 
-![CG-linktowebpartviewer. png](media/cg-linktowebpartviewer.png)
+![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

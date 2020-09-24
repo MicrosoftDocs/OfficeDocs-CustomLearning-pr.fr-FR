@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Ajouter des ressources à une playlist
 ms.date: 02/17/2019
 description: Ajouter des ressources nouvelles et existantes à une playlist de voies d’apprentissage
-ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247639"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234686"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Ajouter des ressources à une playlist personnalisée
 
@@ -35,14 +36,14 @@ Il existe deux options pour ajouter une nouvelle ressource à une playlist.
 2. Pour ajouter une nouvelle ressource à une sélection, cliquez sur **nouvelle ressource**. 
 3. Entrez un titre. Dans cet exemple, entrez « ajouter des biens à une liste de lecture », puis cliquez sur **créer une page d’actif**.
 
-![CG-addassetcreatenewpage. png](media/cg-addassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. Cliquez sur **ouvrir la page**.
 5. Cliquez sur l’icône **modifier** , puis cliquez sur **modifier le composant WebPart** dans la zone de titre.
 6. Sous **disposition**, cliquez sur **standard**. 
 7. Ajoutez une nouvelle section à une colonne, puis ajoutez un exemple de texte à la page de sorte qu’il ressemble à l’exemple suivant. 
 
-![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Cliquez sur **Publier**.
 8. Revenez à la page **administration de formation personnalisée** . 
@@ -55,11 +56,11 @@ Avec l’option **Entrez l’URL** , vous fournissez un titre pour l’élément
 2. Pour ajouter une nouvelle ressource à une sélection, cliquez sur **nouvelle ressource**. 
 3. Entrez un titre. Dans cet exemple, entrez « introduction de la playlist personnalisée », puis cliquez sur **entrer l’URL**. 
 
-![CG-newplaylistasseturl. png](media/cg-newplaylistasseturl.png)
+![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. Entrez l’URL de la page SharePoint que vous avez créée dans une section précédente [créer des pages SharePoint pour les playlists personnalisées](custom_createnewpage.md) , puis renseignez les champs restants, comme indiqué dans l’illustration suivante.
+4. Entrez l’URL de la page SharePoint que vous avez créée dans une section précédente [créer des pages SharePoint pour les playlists personnalisées ](custom_createnewpage.md) , puis renseignez les champs restants, comme indiqué dans l’illustration suivante.
 
-![CG-newplaylistassetdetails. png](media/cg-newplaylistassetdetails.png)
+![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
 5. Cliquez sur **enregistrer l’élément**. 
 
@@ -69,12 +70,12 @@ Les biens existants consistent en des éléments de voies d’apprentissage four
 
 - Dans la zone de **recherche** , entrez une expression de recherche, puis sélectionnez un élément dans les résultats de la recherche. Dans cet exemple, entrez « qu’est-ce qu’Excel ? » pour ajouter une rubrique d’introduction Excel à la sélection.
 
-![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Modifier, déplacer et supprimer des ressources
 Vous pouvez modifier les ressources personnalisées que vous créez, mais pas les biens de Microsoft. Toutefois, vous pouvez supprimer toutes les ressources d’une sélection et modifier les ressources de commande. 
 
-![CG-playlistassetedit. png](media/cg-playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Modifier un élément
 - Cliquez sur le bouton modifier pour un élément, modifiez-le, puis cliquez sur enregistrer l’actif. 
@@ -93,4 +94,4 @@ Vous pouvez modifier les ressources personnalisées que vous créez, mais pas le
 3. Actualisez la page, puis cliquez sur **premiers jours** sous **prise en main**.
 4. Cliquez sur **Starter Kit des chemins d’apprentissage** pour afficher votre première sélection en action. 
 
-![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)
+![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

@@ -4,17 +4,18 @@ ms.author: pkrebs
 title: Mises à jour de contenu de novembre 2019
 ms.date: 10/20/2019
 description: Mise à jour du contenu des chemins d’apprentissage Microsoft 365
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142190"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234706"
 ---
 # <a name="november-2019-content-updates"></a>Mises à jour de contenu de novembre 2019
 Bienvenue dans la mise à jour du contenu des chemins d’apprentissage Microsoft 365. À partir de la mise à jour du 2019 novembre, nous fournirons un inventaire mis à jour du catalogue des voies d’apprentissage chaque trimestre. Pour la mise à jour de novembre 2019, les nouvelles sous-catégories de contenu et les playlists suivantes ont été ajoutées au catalogue des voies d’apprentissage. Pour plus d’informations sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir [Manage content updates](custom_contentupdatesmanage.md).    
 
-## <a name="teams"></a>Équipes
+## <a name="teams"></a>Teams
 Plusieurs nouvelles playlists ont été ajoutées à la sous-catégorie Teams.
 - Utiliser des publications et des messages (3 biens)
 - Charger et Rechercher des fichiers (2 ressources)

@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Traduire les sélections personnalisées des voies d’apprentissage
+title: Traduire les sélections personnalisées des parcours d’apprentissage
 ms.date: 07/06/2020
-description: Traduire les sélections personnalisées des voies d’apprentissage
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Traduire les sélections personnalisées des parcours d’apprentissage
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048132"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233916"
 ---
-# <a name="translate-learning-pathways-custom-playlists"></a>Traduire les sélections personnalisées des voies d’apprentissage
+# <a name="translate-learning-pathways-custom-playlists"></a>Traduire les sélections personnalisées des parcours d’apprentissage
 Les voies de formation vous permettent d’utiliser des listes de lecture personnalisées en fonction de la configuration des voies de formation.  
 
 - Si vous avez configuré un nouveau site de voies d’apprentissage multilingues, vous pouvez copier ou créer une nouvelle liste de lecture et la convertir en langues prises en charge par le site.

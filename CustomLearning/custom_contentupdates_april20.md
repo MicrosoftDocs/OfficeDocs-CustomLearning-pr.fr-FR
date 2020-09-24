@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234636"
+ms.locfileid: "48234806"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour de contenu des chemins d’apprentissage Microsoft 365
 Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 avril.

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Vue d’ensemble des parcours d’apprentissage de Microsoft 365
 ms.date: 7/6/2020
 description: Découvrez comment les parcours d’apprentissage de Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation. Les parcours d’apprentissage incluent un composant WebPart SharePoint Online personnalisé et un site de formation modernes de communications SharePoint Online qui est facilement configuré pour votre locataire Microsoft 365.
-ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199344"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233486"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Parcours d’apprentissage de Microsoft 365 
 Les parcours d’apprentissage de Microsoft 365 constituent une solution d’apprentissage personnalisable et à la demande conçue pour améliorer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation.    

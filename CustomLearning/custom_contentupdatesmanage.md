@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Gérer les mises à jour de contenu des chemins d’apprentissage
 ms.date: 10/20/2019
 description: Gérer les mises à jour de contenu des chemins d’apprentissage
-ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956511"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234546"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>Gérer les mises à jour de contenu des chemins d’apprentissage
 Le catalogue des chemins d’apprentissage Microsoft 365 est mis à jour trimestriellement. Le contenu du catalogue, qui est un ensemble de métadonnées JSON pointant vers les composants de formation hébergés sur support.office.com, est stocké dans un cache global au sein du client d’une organisation. Le cache global est automatiquement mis à jour lorsqu’un administrateur de la collection de sites d’apprentissage ou le propriétaire ouvre la page d’administration des chemins d’apprentissage. De plus, le cache global des voies d’apprentissage est mis à jour toutes les 24 heures. Les mises à jour de contenu du catalogue apparaissent automatiquement pour les chemins de formation des utilisateurs lorsque le cache global est mis à jour. Un administrateur de voies d’apprentissage peut masquer des sous-catégories ou des sélections s’ils ne veulent pas que de nouveaux contenus soient disponibles pour les utilisateurs.

@@ -3,20 +3,21 @@ author: pkrebs
 ms.author: pkrebs
 title: Vue d’ensemble
 ms.date: 07/06/2020
-description: Prise en charge multilingue des voies de formation
+description: Assistance multilingue pour les parcours d’apprentissage
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038964"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234156"
 ---
-# <a name="multilingual-support-for-learning-pathways"></a>Prise en charge multilingue des voies de formation
+# <a name="multilingual-support-for-learning-pathways"></a>Assistance multilingue pour les parcours d’apprentissage
 
 Si votre organisation couvre un remplissage diversifié, vous pouvez faire en sorte que les chemins d’apprentissage Microsoft 365 soient disponibles dans plusieurs langues. Les voies de formation prennent actuellement en charge neuf langues. L’anglais est la langue par défaut. Les langues prises en charge sont les suivantes :   
 
-- English    
+- Anglais    
 - Chinois (simplifié)
 - Français
 - Allemand
@@ -24,7 +25,7 @@ Si votre organisation couvre un remplissage diversifié, vous pouvez faire en so
 - Japonais (Japon)
 - Portugais (Brésil)
 - Russe (russe)
-- Spanish
+- Espagnol
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>Se familiariser avec les fonctionnalités multilingues de SharePoint Online
 La prise en charge multilingue des voies de formation est activée par les fonctionnalités multilingues SharePoint Online pour les sites de communication.

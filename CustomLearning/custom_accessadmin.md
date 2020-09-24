@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Administration des voies d’apprentissage
 ms.date: 02/15/2019
 description: Procédure d’accès à la page d’administration de formation personnalisée à partir du composant WebPart ou du menu
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886933"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233326"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>Accéder à la page d’administration des voies d’apprentissage
 
@@ -24,11 +25,11 @@ L’ouverture de la page d’administration à partir du composant WebPart est l
 1. Sur la page d' **Accueil** des chemins d’apprentissage Microsoft 365, cliquez sur la vignette de **formation Office 365** .
 2. Cliquez sur l’icône **administration** dans le composant WebPart, comme illustré dans l’exemple suivant.  
 
-![CG-adminaccbtn. png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Accès à partir de l’élément de menu Accueil
 Au lieu d’accéder à une page avec un composant WebPart, les administrateurs peuvent accéder à la page Administration à partir de l’élément de menu **Accueil** SharePoint. 
 
 - À partir de la page d’accueil des chemins d’apprentissage Microsoft 365, cliquez sur le menu **Accueil** , puis sur **administration de Microsoft Learning**.
 
-![CG-adminaccmenu. png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

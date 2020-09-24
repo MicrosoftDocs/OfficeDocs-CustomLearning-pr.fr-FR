@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Mettre en service une nouvelle solution de voies d’apprentissage
 ms.date: 02/10/2019
 description: Approvisionner le site des chemins d’apprentissage Microsoft 365 avec le service Microsoft 365 Look Book
-ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
-ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
+ms.service: sharepoint online
+ms.openlocfilehash: ff480e0ae2d5a530ed697df470cd499021ced01a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45196782"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234066"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Mettre en service une nouvelle solution de voies d’apprentissage 
 Les organisations qui n’ont pas de voies d’apprentissage configurées dans leur client peuvent utiliser le service de carnet d’adresses SharePoint pour ajouter la solution des chemins d’apprentissage multilingues. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications. 
@@ -43,13 +44,13 @@ Avant de mettre en service les voies de formation, vérifiez que la langue séle
 
 Le service de carnet d’adresses nécessite ces autorisations pour créer le catalogue d’applications client, installer l’application dans le catalogue d’applications client et approvisionner le modèle de site. Il n’y a aucun impact global sur votre client. Ces autorisations sont utilisées de manière explicite pour l’installation de la solution. Vous devez accepter ces autorisations pour poursuivre l’installation.
 
-4. Renseignez les champs de la page informations de mise en service en fonction de votre installation. Au minimum, entrez l’adresse de messagerie à laquelle vous souhaitez obtenir des notifications sur le processus de mise en service et l’URL de destination de votre site à mettre en service.  
+4. Renseignez les champs de la page informations de configuration en fonction de votre installation. Au minimum, entrez l’adresse de messagerie à laquelle vous voulez recevoir des notifications sur le processus de mise en service et l’URL de destination de votre site.  
 > [!NOTE]
-> Faites en sorte que l’URL de destination de votre site soit conviviale pour vos employés, par exemple « /sites/MyTraining » ou « /teams/LearnMicrosoft365 ».
+> Faites en sorte que l’URL de destination de votre site soit conviviale pour vos employés, par exemple, « /sites/MonApprentissage » ou « /équipes/DécouvrirMicrosoft365 ».
 
 ![inst_options.png](media/inst_options.png)
 
-6. Cliquez sur **mettre en service** lorsque vous êtes prêt à installer les voies de formation dans votre environnement de client.  Le processus de mise en service peut prendre jusqu’à 15 minutes. Vous serez averti par courrier électronique lorsque le site sera prêt. 
+6. Cliquez sur **mettre en service** lorsque vous êtes prêt à installer les voies de formation dans votre environnement de client.  Le processus de mise en service peut prendre jusqu’à 15 minutes. Vous recevez une notification par courrier électronique lorsque le site est prêt. 
 
 > [!IMPORTANT]
 > L’administrateur client qui met en service le site des voies d’apprentissage doit accéder au site, puis ouvrir **CustomLearningAdmin. aspx** pour initialiser les propriétés d’administration des voies d’apprentissage. Pour l’instant, l’administrateur client doit également affecter des propriétaires au site. 
@@ -58,7 +59,7 @@ Le service de carnet d’adresses nécessite ces autorisations pour créer le ca
 
 Lorsque la mise en service est terminée, l’administrateur client qui a configuré le site reçoit un courrier électronique à partir du service de carnet d’adresses. Le courrier électronique contient un lien vers le site. À ce stade, l’administrateur client doit accéder au site en utilisant le lien fourni dans le message électronique et configurer le site pour la première utilisation :
 
-- Accédez à `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. L’ouverture de **CustomLearningAdmin. aspx** Initialise l’élément de liste **CustomConfig** qui configure les voies de formation pour la première utilisation. Vous devriez voir une page semblable à celle-ci :
+- Accédez à `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. L’ouverture de **CustomLearningAdmin.aspx** initialise l'élément de liste **CustomConfig** qui configure le parcours d’apprentissage pour la première utilisation. Vous devriez voir une page semblable à celle-ci :
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

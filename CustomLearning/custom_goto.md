@@ -4,21 +4,22 @@ ms.author: pkrebs
 title: Accédez au site des chemins d’apprentissage Microsoft 365.
 ms.date: 02/18/2019
 description: Accédez au site des chemins d’apprentissage Microsoft 365.
-ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956621"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234376"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>Accédez au site des chemins d’apprentissage Microsoft 365.
 
 Le site de voies d’apprentissage Microsoft 365 pour Office 365 est hébergé dans votre client Office 365, vous devrez donc vous connecter à Office 365 pour accéder au site. Si vous ne vous êtes pas déjà connecté à Office 365, connectez-vous maintenant. 
 
-## <a name="sign-in"></a>Se connecter  
+## <a name="sign-in"></a>Connexion  
 
-1.  Ouvrez votre navigateur Web et accédez à office.com ou à l’emplacement de connexion de votre organisation. 
-2.  Connectez-vous avec votre nom d’utilisateur et votre mot de passe.
+1.  Ouvrez votre navigateur web et accédez à office.com ou à l’emplacement de connexion de votre organisation. 
+2.  Connectez-vous à l’aide de vos nom d’utilisateur et mot de passe.
 3.  Accédez à l’emplacement du site à l’aide de l’URL fournie par votre administrateur client ou sélectionnez SharePoint à partir de la page d’accueil Office 365, puis sélectionnez le site des chemins d’apprentissage Microsoft 365. 
 5. Cliquez sur la vignette de **formation microsoft 365** pour afficher la suite complète de la playlist de formation disponible avec les voies d’apprentissage de Microsoft 365. 
 

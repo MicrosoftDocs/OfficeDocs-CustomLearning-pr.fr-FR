@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Mises à jour des fonctionnalités de voies d’apprentissage
 ms.date: 10/20/2019
 description: Mises à jour des fonctionnalités de voies d’apprentissage
-ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199334"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234426"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Mises à jour des fonctionnalités de juillet 2020 version 4,0 
 
@@ -17,7 +18,7 @@ Les nouvelles fonctionnalités suivantes ont été ajoutées à la version 4,0 d
 
 ## <a name="multilingual-support-for-learning-pathways"></a>Assistance multilingue pour les parcours d’apprentissage 
 La prise en charge multilingue des voies de formation est désormais disponible en neuf langues.  
-- English     
+- Anglais     
 - Chinois (simplifié) 
 - Français 
 - Allemand 
@@ -25,11 +26,11 @@ La prise en charge multilingue des voies de formation est désormais disponible 
 - Japonais (Japon) 
 - Portugais (Brésil) 
 - Russe (russe) 
-- Spanish 
+- Espagnol 
 
 Pour plus d’informations, reportez-vous à la rubrique [apprentissage des chemins d’apprentissage multilingues](custom_overview.md). 
 
-## <a name="sort-subcategories-and-playlists"></a>Trier des sous-catégories et des sélections
+## <a name="sort-subcategories-and-playlists"></a>Trier les sous-catégories et sélections
 
 Vous pouvez désormais trier des sous-catégories et des sélections dans les voies d’apprentissage. Par exemple, si vous ajoutez une sélection personnalisée à une sous-catégorie, vous pouvez trier les sélections de manière à ce que la playlist personnalisée apparaisse en premier dans l’ordre de tri. 
 
@@ -38,7 +39,7 @@ Pour plus d’informations, reportez-vous à la rubrique [Tri des sous-catégori
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Sélecteur d’image pour les sous-catégories de voies d’apprentissage personnalisées 
 Les voies de formation fournissent désormais un sélecteur d’image facile à utiliser pour les listes de lecture et sous-catégories personnalisées.  Dans les versions antérieures, vous pouviez modifier l’image d’une sélection, mais pas une sous-catégorie.  
 
-Pour plus d’informations, voir :
+Si vous souhaitez en savoir plus, voir : 
 - [Créez une playlist personnalisée](custom_createnewplaylist.md). 
 - [Créer une sous-catégorie](custom_createnewcat.md)
 

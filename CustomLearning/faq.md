@@ -4,14 +4,15 @@ ms.author: karuanag
 title: Forum aux questions pour les voies d’apprentissage Microsoft 365
 ms.date: 02/10/2019
 description: Forum aux questions informations sur les voies d’apprentissage Microsoft 365
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141367"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233536"
 ---
-# <a name="frequently-asked-questions"></a>Forum Aux Questions
+# <a name="frequently-asked-questions"></a>Foire aux questions
 
 ### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>J’ai récemment vu un billet de blog qui a été renommé formation personnalisée pour Office 365 sur les voies d’apprentissage de Microsoft 365. Y a-t-il d’autres modifications ajoutées à la solution dans le cadre de l’opération de changement de nom ? Dois-je mettre à jour la solution dans mon organisation ?
 
@@ -53,7 +54,7 @@ Les chemins d’apprentissage Microsoft 365 sont actuellement disponibles unique
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Combien de temps faut-il pour installer le site dans notre environnement client ?
 
-En fonction de nos tests de l’installation, elle doit prendre moins de 15 minutes. Cela n’inclut pas le temps nécessaire pour personnaliser le site en fonction de vos besoins.
+En fonction de nos tests de l’installation, elle doit prendre moins de 15 minutes. Ceci n’inclut pas le temps nécessaire pour personnaliser le site en fonction de vos besoins.
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Est-ce que les chemins d’apprentissage Microsoft 365 une solution open source et quelles en sont les implications ?
 

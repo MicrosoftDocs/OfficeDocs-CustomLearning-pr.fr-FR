@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Créer de nouvelles sélections
 ms.date: 02/18/2019
 description: Procédure de création de nouvelles sélections
-ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886817"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234526"
 ---
 # <a name="create-a-custom-playlist"></a>Créer une playlist personnalisée
 
@@ -21,11 +22,11 @@ Les voies d’apprentissage de Microsoft 365 vous permettent de créer des liste
 2. Sélectionnez la sous-catégorie **administrer**« Icon ». Dans cet exemple, sélectionnez **First Days**.  
 3. Cliquez sur l’icône +.  
 
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
+![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
 4.  Renseignez les champs de la liste de lecture comme indiqué dans l’exemple suivant. Vous pouvez laisser l’icône par défaut pour cet exemple. 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
+![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
 5.  Lorsque vous avez fini, sélectionnez **enregistrer les détails**. 
 
@@ -33,10 +34,10 @@ Les voies d’apprentissage de Microsoft 365 vous permettent de créer des liste
 
 - Dans la page Administration de l' **apprentissage personnalisée** , cliquez sur la sélection, puis sur **modifier le détail**.  
 
-![CG-editplaylist. png](media/cg-editplaylist.png)
+![cg-editplaylist.png](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Supprimer une playlist
 
 - Dans la page Administration de formation personnalisée, cliquez sur l’icône de **suppression** de la playlist.  
 
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)
+![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Masquage et affichage des playlists
 ms.date: 10/27/2019
 description: Masquage et affichage des playlists
-ms.openlocfilehash: f5afc66220a936d2346c3a81b33545a46f7672f5
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886653"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234326"
 ---
-# <a name="hide-and-show-playlists"></a>Masquage et affichage des playlists
+# <a name="hide-and-show-playlists"></a>Masquer et afficher les playlists
 
 Pour personnaliser les voies d’apprentissage pour votre environnement, vous pouvez masquer les playlists fournies par Microsoft. 
 
@@ -24,12 +25,12 @@ Pour personnaliser les voies d’apprentissage pour votre environnement, vous po
 2. Dans le composant WebPart voies d’apprentissage, sélectionnez l’icône **administrer** . 
 3. Dans le volet de gauche de la page d' **administration** , sélectionnez une sous-catégorie, puis sélectionnez l’œil d’une sélection pour la masquer. Pour cet exemple, cliquez sur la sous-catégorie **Microsoft teams** , puis masquez la sélection * * * * démarrer les conversations, les appels et les réunions * *.  
 
-![CG-hideplaylist. png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Vérifier que la playlist est masquée
 - Pour vérifier que la sélection est masquée, sélectionnez l’onglet navigateur avec la page **prise en main de Office 365** chargée, puis actualisez la page. Sélectionnez Microsoft Teams. Vous devez maintenant voir la sous-catégorie **Démarrer les conversations, les appels et les réunions** est masquée. 
 
-![CG-hideplaylistrefresh. png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Afficher une playlist
 

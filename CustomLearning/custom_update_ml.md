@@ -5,12 +5,13 @@ title: Mettre à jour les voies de formation pour la prise en charge multilingue
 ms.date: 05/20/2019
 description: Mettre à jour les voies de formation pour la prise en charge multilingue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
-ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.service: sharepoint online
+ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "46874975"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233826"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Mettre à jour les voies de formation pour la prise en charge multilingue
 Si vous disposez d’un site de voies d’apprentissage existant, vous pouvez le mettre à jour pour la prise en charge multilingue. Pour mettre à jour les voies de formation vers la version multilingue 4,0, téléchargez le package de composants WebPart, customlearning. sppkg, dans le catalogue d’applications clientes SharePoint. Lorsque vous mettez à jour les voies de formation :  
@@ -49,7 +50,7 @@ Dans cette étape, vous téléchargez le composant WebPart voies d’apprentissa
 
 ### <a name="upload-the-web-part-package"></a>Télécharger le package de composants WebPart
 1.  Accédez au [référentiel d’apprentissage personnalisé GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), sélectionnez **customlearning. sppkg** , puis téléchargez-le sur un lecteur local de votre PC. 
-2.  Si vous n’êtes pas déjà connecté, connectez-vous à votre client auprès d’un administrateur client ou d’un compte d’administrateur de collection de sites. 
+2.  Si vous n’êtes pas encore connecté, connectez-vous à votre client avec un administrateur de client ou un compte d’administrateur de collection de sites. 
 3.  Cliquez sur **admin**  >  **afficher toutes les**  >  **SharePoint**  >  **fonctionnalités**SharePoint. 
 4.  Sous **applications**, cliquez sur **ouvrir**. 
 5.  Cliquez sur **catalogue**  >  **d’applications distribuer les applications pour SharePoint**. 

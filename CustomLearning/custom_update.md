@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Mettre à jour les parcours d’apprentissage de Microsoft 365
 ms.date: 07/06/2020
 description: Mettre à jour les parcours d’apprentissage de Microsoft 365
-ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
-ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
+ms.service: sharepoint online
+ms.openlocfilehash: 3f1874849832224726e452912c9228411ecd0820
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895582"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233846"
 ---
 # <a name="update-learning-pathways"></a>Mettre à jour les parcours d’apprentissage
 Si vous disposez d’un site de voies d’apprentissage existant, vous pouvez le mettre à jour pour la prise en charge multilingue. Pour mettre à jour les voies de formation vers la version multilingue 4,0, téléchargez le package de composants WebPart, customlearning. sppkg, dans le catalogue d’applications clientes SharePoint. Lorsque vous mettez à jour les voies de formation :  
@@ -48,7 +49,7 @@ Dans cette étape, vous téléchargez le composant WebPart voies d’apprentissa
 
 ### <a name="upload-the-web-part-package"></a>Télécharger le package de composants WebPart
 1.  Accédez au [référentiel d’apprentissage personnalisé GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), sélectionnez **customlearning. sppkg** , puis téléchargez-le sur un lecteur local de votre PC.
-2.  Si vous n’êtes pas déjà connecté, connectez-vous à votre client auprès d’un administrateur client ou d’un compte d’administrateur de collection de sites. 
+2.  Si vous n’êtes pas encore connecté, connectez-vous à votre client avec un administrateur de client ou un compte d’administrateur de collection de sites. 
 3.  Cliquez sur **admin**  >  **afficher toutes les**  >  **SharePoint**  >  **fonctionnalités**SharePoint. 
 4.  Sous **applications**, cliquez sur **ouvrir**. 
 5.  Cliquez sur **catalogue**  >  **d’applications distribuer les applications pour SharePoint**. 

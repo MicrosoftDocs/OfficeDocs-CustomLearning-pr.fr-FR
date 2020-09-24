@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Créer une sous-catégorie
 ms.date: 02/17/2019
 description: Créer une sous-catégorie avec des voies de formation
-ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 5469845594cdc3da2b8905475caa560d47624bac
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327255"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234516"
 ---
 # <a name="create-a-subcategory"></a>Créer une sous-catégorie 
 Dans certains cas, vous souhaiterez créer une sous-catégorie. Par exemple, si la première sous-catégorie jours ne fonctionne pas pour votre organisation, vous pouvez créer une sous-catégorie et y ajouter des sélections pour répondre aux besoins de votre organisation. 
@@ -19,7 +20,7 @@ Dans certains cas, vous souhaiterez créer une sous-catégorie. Par exemple, si 
 3. Faites défiler la page vers le bas, 
 3. Cliquez sur l’icône **Ajouter une nouvelle sous-catégorie +** .  
 
-![CG-newsubcategory. png](media/cg-newsubcategory.png)
+![cg-newsubcategory.png](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Les sous-catégories fournies par Microsoft peuvent être masquées, mais pas modifiées ou supprimées. 

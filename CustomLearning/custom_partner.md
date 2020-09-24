@@ -1,15 +1,16 @@
 ---
 author: mikeholl
 ms.author: mikeholl
-title: Forum aux questions sur les partenaires
+title: Foire aux Questions partenaires
 ms.date: 3/9/2019
 description: Quelles sont les différences entre les chemins d’apprentissage de Microsoft 365 et les offres de partenaires de sociétés qui fournissent des services de formation d’entreprise ?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247799"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234146"
 ---
 # <a name="partner-frequently-asked-questions"></a>Forum aux questions sur les partenaires
 
@@ -23,7 +24,7 @@ Le modèle de site d’apprentissage personnalisé et la solution de contenu son
 S’il n’est pas possible de compléter directement le flux « en dehors de la boîte » du service de mise en service SharePoint Online, il existe plusieurs modèles d’intégration que les partenaires peuvent utiliser pour créer des services à valeur ajoutée alignés.
 
 1. **Services de déploiement et de personnalisation pour le compte de clients** : les partenaires peuvent effectuer l’installation de la solution, la personnalisation et la personnalisation du contenu pour leurs clients. Les partenaires peuvent également fournir des listes de sélection personnalisées qui font référence à un contenu de formation à valeur ajoutée qu’ils créent. 
-2. **Personnalisation, repersonnalisation, reconditionnement et services de déploiement pour le compte de clients** : les partenaires peuvent personnaliser les modèles de site et les listes de sélection de contenu selon les besoins des clients, et les reconditionner et les déployer dans les environnements client par basé sur les modèles SharePoint et l’infrastructure pratique Open source. 
+2. **Personnalisation, repersonnalisation, reconditionnement et services de déploiement pour le compte de clients** : les partenaires peuvent personnaliser les modèles de site et les listes de sélection de contenu par client, et les reconditionner et les déployer dans les environnements clients en s’appuyant sur les modèles SharePoint Open source et sur l’infrastructure pratique. 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>Comment cette solution affecte-t-elle mon adoption des pratiques de gestion des modifications ? 
 Les services de formation constituent un élément de l’espace pratique de gestion des modifications et de l’adoption plus large. La solution des chemins d’apprentissage Microsoft 365 a pour objectif de permettre aux partenaires et aux clients d’accéder et de personnaliser le contenu de formation fourni par Microsoft. Les voies d’apprentissage de Microsoft 365 n’incluent pas de conception de cours personnalisée, de conception avec instructeur, de joueur ludification, d’analyse de comportement utilisateur, de fonctionnalités de communication et d’engagement et de support en direct. Microsoft s’appuie sur l’adoption et les partenaires de gestion des modifications pour répondre aux besoins de ces services pour les clients. 

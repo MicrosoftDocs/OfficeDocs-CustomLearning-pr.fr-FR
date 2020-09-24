@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Explorer le site et le contenu par défaut
 ms.date: 02/10/2019
 description: Explorer le site des voies d’apprentissage et le contenu par défaut
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956541"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234446"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Explorer le site des voies d’apprentissage
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956541"
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Ouvrez votre navigateur Web et accédez à office.com ou à l’emplacement de connexion de votre organisation. 
-2.  Connectez-vous avec votre nom d’utilisateur et votre mot de passe.
+1.  Ouvrez votre navigateur web et accédez à office.com ou à l’emplacement de connexion de votre organisation. 
+2.  Connectez-vous à l’aide de vos nom d’utilisateur et mot de passe.
 3.  Accédez à l’emplacement du site à l’aide de l’URL fournie par votre administrateur client ou sélectionnez SharePoint à partir de la page d’accueil Office 365, puis sélectionnez le site. 
 
-![CG-exploresite. png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Découvrez les voies d’apprentissage Microsoft 365
 

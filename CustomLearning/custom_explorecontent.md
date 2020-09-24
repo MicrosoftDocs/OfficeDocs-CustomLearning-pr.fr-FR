@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Explorer le site et le contenu par défaut
 ms.date: 02/10/2019
 description: Explorer le site des voies d’apprentissage et le contenu par défaut
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.service: sharepoint online
+ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726771"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234486"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Explorer le site des voies d’apprentissage
 
@@ -17,11 +18,11 @@ ms.locfileid: "37726771"
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Ouvrez votre navigateur Web et accédez à office.com ou à l’emplacement de connexion de votre organisation. 
-2.  Connectez-vous avec votre nom d’utilisateur et votre mot de passe.
+1.  Ouvrez votre navigateur web et accédez à office.com ou à l’emplacement de connexion de votre organisation. 
+2.  Connectez-vous à l’aide de vos nom d’utilisateur et mot de passe.
 3.  Accédez à l’emplacement du site à l’aide de l’URL fournie par votre administrateur client ou sélectionnez SharePoint à partir de la page d’accueil Office 365, puis sélectionnez le site. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>Explorer le site des voies d’apprentissage
 
@@ -35,7 +36,7 @@ Le site des voies d’apprentissage fournit un contenu par défaut pour vous aid
 2.  Cliquez sur le bouton **Modifier**.
 3.  Placez le curseur de la souris sur une image d’option d’aide, puis cliquez sur **modifier le composant WebPart**.
 
-![CG-edithelp. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 Pour obtenir des instructions sur la personnalisation des pages de site, voir [personnaliser le site](custom_edithelp.md).
 
@@ -45,7 +46,7 @@ La page de formation Microsoft 365 héberge le composant WebPart voies d’appre
 1. Faites défiler la page vers le bas pour afficher toutes les catégories et sous-catégories.
 2. Les pneus ont un bit. Cliquez sur quelques sous-catégories, puis cliquez sur quelques sélections pour avoir une idée de l’organisation du contenu des voies d’apprentissage. 
 
-![CG-gotoall. png](media/cg-gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
 Pour obtenir des instructions sur la personnalisation du composant WebPart voies d’apprentissage, voir [personnaliser l’expérience d’apprentissage](custom_overview.md).
 

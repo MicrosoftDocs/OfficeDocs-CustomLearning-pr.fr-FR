@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Où est le composant WebPart formation Microsoft 365
 ms.date: 02/15/2019
 description: Découvrez où le composant WebPart voies d’apprentissage apparaît dans le site des voies d’apprentissage.
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956555"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233746"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Où se trouve le composant WebPart des chemins d’apprentissage Microsoft 365 ? 
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Où se trouve le composant WebPart des parcours d’apprentissage de Microsoft 365 ? 
 
 Lorsque les voies d’apprentissage sont configurées dans votre organisation, le site des voies d’apprentissage et le composant WebPart sont ajoutés au client SharePoint de votre organisation. Dans le cadre de la mise en service, le composant WebPart formation Microsoft 365 est ajouté aux pages suivantes du site des chemins d’apprentissage Microsoft 365 :
 
@@ -31,11 +32,11 @@ Voici un exemple de la page **prise en main de Microsoft teams** avec le composa
 
 - À partir de la page d’accueil des chemins d’apprentissage, sélectionnez **prise en main de Microsoft teams**.
 
-![CG-whereiswp-Teams. png](media/cg-whereiswp-teams.png)
+![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
 - Pour revenir à la page d’accueil du site, cliquez sur le menu **Accueil** du menu site des chemins d’apprentissage.
 
-![CG-homebtnmenu. png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
 ## <a name="view-the-six-simple-steps-playlist"></a>Afficher la liste des six étapes simples
 
@@ -43,7 +44,7 @@ Le composant WebPart de la page **Start-with-six-simple-Steps. aspx** est config
 
 - À partir de la page d’accueil des chemins d’apprentissage, cliquez sur **Démarrer avec six étapes simples**. 
 
-![CG-whereiswp-six. png](media/cg-whereiswp-six.png)
+![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
 ## <a name="view-all-microsoft-365-training"></a>Afficher toutes les formations Microsoft 365
 
@@ -51,7 +52,7 @@ Le composant WebPart de la page **formation Microsoft 365** est configuré pour 
 
 - Sur la page d’accueil des chemins d’apprentissage, cliquez sur **formation Microsoft 365**. La page s’affiche avec le composant WebPart configuré pour afficher toutes les catégories et sous-catégories disponibles à partir du catalogue de formation personnalisé.
 
-![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
 - Pour revenir à la page d’accueil du site, cliquez sur le menu **Accueil** du menu site des chemins d’apprentissage.
 
@@ -61,7 +62,7 @@ Le composant WebPart de la page **Centre de réussite** de l’administrateur es
 
 - À partir de la page d’accueil des chemins d’apprentissage, cliquez sur **prise en main du centre de réussite des administrateurs**. . 
 
-![CG-adminsuccesscenterwebpart. png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
 - Pour revenir à la page d’accueil du site, cliquez sur le menu **Accueil** du menu site des chemins d’apprentissage.
 

@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Trier des sous-catégories et des sélections
+title: Trier les sous-catégories et sélections
 ms.date: 07/20/2020
 description: Trier des sous-catégories et des sélections dans les voies de formation
-ms.openlocfilehash: 2716d4f4c609283da51805fa7d0353d95d99bd06
-ms.sourcegitcommit: 4668bd9303b77e69aa7807edc3df833e218eb98d
+ms.service: sharepoint online
+ms.openlocfilehash: 3d3246fd7adaffb0e3f64defc83cad0d1cc04f8d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187506"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233886"
 ---
-# <a name="sort-subcategories-and-playlists"></a>Trier des sous-catégories et des sélections
+# <a name="sort-subcategories-and-playlists"></a>Trier les sous-catégories et sélections
 
 Vous pouvez désormais trier des sous-catégories et des sélections dans les voies d’apprentissage. Par exemple, si vous ajoutez une sélection personnalisée à une sous-catégorie, il est souvent préférable que la playlist personnalisée apparaisse en premier dans l’ordre de la playlist. L’ordre de tri pour le composant WebPart s’applique uniquement à l’instance du composant WebPart sur la page. Pour vous familiariser avec la fonctionnalité de tri, nous vous recommandons de l’essayer sur une page de test. 
 

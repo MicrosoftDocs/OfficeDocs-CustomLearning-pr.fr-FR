@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Planifier le contenu de la voie d’apprentissage
 ms.date: 10/20/2019
 description: Mise à jour du contenu des chemins d’apprentissage Microsoft 365
-ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: e3df63d098046311ffb5aa4220cbcaf3a9394572
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956661"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234106"
 ---
 # <a name="plan-your-learning-pathways-content"></a>Planifier le contenu de la voie d’apprentissage
 Avant de plonger dans le déploiement des voies d’apprentissage de Microsoft 365, il est recommandé de prendre le temps d’examiner le contenu, les outils et les fonctionnalités de formation dont vous disposez. Notre objectif est de permettre aux utilisateurs de votre organisation de se mettre à la vitesse et de gagner en efficacité le plus rapidement et efficacement possible. Lorsqu’il s’agit de planifier les voies d’apprentissage, nous vous recommandons de procéder en trois étapes :
@@ -24,7 +25,7 @@ Avant de créer un plan de contenu pour les chemins d’apprentissage Microsoft 
 ### <a name="review-the-learning-pathways-sharepoint-site"></a>Passer en revue le site SharePoint des chemins d’apprentissage
 La solution de parcours d’apprentissage Microsoft 365 fournit un site de communication SharePoint avec un composant WebPart connecté à un catalogue en ligne. Le site SharePoint est entièrement personnalisable, y compris le nom du site, le logo, les pages, les éléments de menu, les thèmes et les vignettes. Prenez le temps de cliquer sur les mosaïques et les éléments de menu pour découvrir les fonctionnalités disponibles avec le site des voies d’apprentissage.
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>Passer en revue le contenu du catalogue en ligne avec le composant WebPart
 Le composant WebPart, par défaut, est ajouté à une série de pages dans le site de communication SharePoint. L’ensemble complet de contenu est fourni sur la page de formation Microsoft 365. La page de formation Microsoft 365 héberge le composant WebPart voies d’apprentissage configuré pour afficher toutes les formations disponibles pour les voies de formation. 
@@ -34,7 +35,7 @@ Le composant WebPart, par défaut, est ajouté à une série de pages dans le si
 1. Faites défiler la page vers le bas pour afficher toutes les catégories et sous-catégories.
 2. Les pneus ont un bit. Cliquez sur quelques sous-catégories, puis cliquez sur quelques sélections pour avoir une idée de l’organisation du contenu des voies d’apprentissage. 
 
-![CG-adminsuccesscenterplan_01. png](media/cg-adminsuccesscenterplan_01.png)
+![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
 
 ### <a name="view-the-administration-page"></a>Afficher la page d’administration
 La page administration fournit une liste du contenu disponible. C’est ici que vous pouvez masquer le contenu, créer de nouvelles playlists et ajouter, modifier et supprimer des listes de sélection. Cliquez dans les différentes catégories et sélections pour voir l’haleine complet du contenu disponible. 
@@ -43,7 +44,7 @@ La page administration fournit une liste du contenu disponible. C’est ici que 
 1. Sur le site des voies d’apprentissage, pointez sur la flèche déroulante menu Accueil, puis cliquez sur administration des chemins d’apprentissage.  
 2. Ensuite, cliquez à travers les différentes catégories, sous-catégories et sélections pour avoir une idée de l’haleine de contenu disponible. 
 
-![CG-adminsuccesscenterplan_02. png](media/cg-adminsuccesscenterplan_02.png)
+![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
 
 ### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>Découvrez les fonctionnalités des chemins d’apprentissage Microsoft 365
 Avec les voies d’apprentissage de Microsoft 365, vous pouvez disposer de contenu fourni par Microsoft mixte avec du contenu que vous créez pour cibler des stratégies et des procédures spécifiques propres à votre organisation. Nous vous recommandons de tester le contenu fourni par Microsoft le plus possible. Microsoft met régulièrement à jour les biens individuels et met à jour l’inventaire complet du contenu sur une base trimestrielle. En règle générale, une organisation crée un contenu unique de 10-20%, puis laisse les 80% restants à Microsoft pour rester à jour. Les listes suivantes décrivent le mode d’organisation du contenu des chemins d’apprentissage, ainsi que des instructions pour le contenu qui peut être modifié ou créé. Des conseils pour la personnalisation du contenu sont fournis dans la section Personnalisation des voies d’apprentissage du centre de réussite des administrateurs.

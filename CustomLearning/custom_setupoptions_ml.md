@@ -5,12 +5,13 @@ title: Options de configuration pour les voies de formation multilingues
 ms.date: 07/6/2020
 description: Options de configuration pour les voies de formation multilingues
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 2e2e7a765a7d24ef83a04f0ca3ef6d049cc658e3
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 2fb18de310d87bf4f41724a874f587a628e4f68b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037216"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233956"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Options de configuration pour les voies de formation multilingues
 Avec la publication de fonctionnalités multilingues pour les sites de communications SharePoint Online, les voies de formation prennent désormais en charge plusieurs langues. Vous pouvez configurer les voies de formation de différentes manières afin de répondre aux besoins de votre organisation. Pour vous aider à choisir le meilleur chemin pour votre organisation, nous avons décrit les options de configuration. 
