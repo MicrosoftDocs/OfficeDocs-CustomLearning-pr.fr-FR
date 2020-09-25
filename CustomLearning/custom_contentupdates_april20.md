@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Mises à jour de contenu de chemins d’apprentissage
+title: Mises à jour de contenu de chemins d’apprentissage avril
 ms.date: 3/30/2020
 description: Chemins d’apprentissage des mises à jour de contenu d’avril 2020
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234806"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261676"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour de contenu des chemins d’apprentissage Microsoft 365
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Mises à jour de contenu d’apprentissage Microsoft 365 pour avril
 Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 avril.
 
 ## <a name="april-2020-content-updates"></a>Mises à jour de contenu d’avril 2020
@@ -29,7 +29,7 @@ Les playlists suivantes ont été ajoutées ou mises à jour.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Travailler à distance (2 nouvelles playlists/11 nouvelles ressources)
 Une nouvelle sous-catégorie travail à distance a été ajoutée aux voies d’apprentissage qui intègrent les sélections et les biens suivants : 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![les voies d’apprentissage fonctionnent à distance](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Travailler à distance (5 nouvelles ressources)
 - Travailler à distance avec Office 365

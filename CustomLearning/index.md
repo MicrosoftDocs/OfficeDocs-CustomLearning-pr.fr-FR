@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Vue d’ensemble des parcours d’apprentissage de Microsoft 365
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Découvrez comment les parcours d’apprentissage de Microsoft 365 peuvent accélérer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation. Les parcours d’apprentissage incluent un composant WebPart SharePoint Online personnalisé et un site de formation modernes de communications SharePoint Online qui est facilement configuré pour votre locataire Microsoft 365.
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233486"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261656"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Parcours d’apprentissage de Microsoft 365 
 Les parcours d’apprentissage de Microsoft 365 constituent une solution d’apprentissage personnalisable et à la demande conçue pour améliorer l’utilisation et l’adoption des services Microsoft 365 au sein de votre organisation.    
 
 > [!IMPORTANT]
-> En réponse aux commentaires des clients, les voies de formation offrent désormais une prise en charge multilingue pour neuf langues. Pour obtenir des informations et des instructions sur l’activation de la prise en charge multilingue pour les voies de formation, consultez les rubriques suivantes : 
->- [Vue d’ensemble de la prise en charge multilingue pour les voies de formation](custom_overview_ml.md) 
->- [Options de configuration des parcours d’apprentissage](custom_setupoptions.md)  
+> Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. Depuis le 9/24/2020, nous avons mis à jour le contenu des chemins d’apprentissage pour notre mise à jour de contenu de septembre. Pour en savoir plus sur la mise à jour de contenu 2020 de septembre, consultez la rubrique [mises à jour de contenu](custom_contentupdates.md). Pour plus d’informations sur l’application des mises à jour de contenu et la gestion de leur contenu, voir [Manage content updates](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formation personnalisée à la demande de Microsoft
 
@@ -34,7 +32,7 @@ Parcours d’apprentissage de Microsoft 365 proposent :
 ## <a name="sharepoint-look-book-service"></a>Service de carnet d’adresses SharePoint
 Les voies de formation peuvent être configurées à partir du service de carnet d’adresses SharePoint. Une fois les parcours d’apprentissage de Microsoft 365 mises en service, les organisations reçoivent un site de communication SharePoint Online conçu pour être un portail de formation prêts à l’emploi, avec un composant WebPart parcours d’apprentissage connecté à un catalogue en ligne de contenu de formation. 
 
-![cg-provision.png](media/cg-provision.png)
+![Page de mise en service du carnet d’adresses SharePoint](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4 étapes simples
 Nous allons commencer à créer une expérience de parcours d’apprentissage pour votre environnement.

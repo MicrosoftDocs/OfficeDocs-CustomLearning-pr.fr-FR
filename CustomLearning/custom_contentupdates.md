@@ -3,17 +3,144 @@ author: pkrebs
 ms.author: pkrebs
 title: Mises à jour de contenu de chemins d’apprentissage
 ms.date: 3/30/2020
-description: Chemins d’apprentissage des mises à jour de contenu d’avril 2020
+description: Mises à jour de contenu de chemins d’apprentissage
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234636"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261689"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour de contenu des chemins d’apprentissage Microsoft 365
-Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 avril.
+Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 septembre.
+
+## <a name="september-2020-content-updates"></a>Mises à jour de contenu de septembre 2020
+Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. Pour plus d’informations sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir [Manage content updates](custom_contentupdatesmanage.md). 
+
+### <a name="security"></a>Sécurité
+Une nouvelle sous-catégorie de sécurité a été ajoutée avec des sélections et des biens pour aider les utilisateurs à travailler de manière plus sécurisée au bureau et à la maison. 
+
+![sélection de la sécurité des voies d’apprentissage](media/cg-security-playlist.png)
+
+#### <a name="five-simple-steps-playlist"></a>Liste de sélection « cinq étapes simples »
+- Se protéger contre le hameçonnage
+- Éviter les escroqueries de support technique
+- Travailler de manière plus sécurisée
+- Maintenir votre PC à jour
+- Restez protégé avec la sécurité Windows
+
+#### <a name="security-at-home-playlist"></a>Liste de sélection « sécurité à la maison »
+- Conseils pour garantir la sécurité de vos données
+- Sécuriser votre ordinateur à la maison
+- Protégez votre famille en ligne avec la sécurité Windows – est-ce ici par accident ?
+
+#### <a name="security-at-work-playlist"></a>Liste de sélection « sécurité au travail »
+- Maintenir votre ordinateur en sécurité au travail
+- Qu’est-ce que l’authentification multifacteur ?
+- Pare-feu et protection réseau dans la sécurité Windows
+- Empêcher les modifications apportées aux paramètres de sécurité avec protection contre la falsification
+
+### <a name="get-started-with-teams-playlist"></a>Playlist « prise en main de teams »
+Une nouvelle playlist « prise en main de teams » a été ajoutée à la sous-catégorie « Get Started/First Days » pour aider les utilisateurs à se familiariser avec Teams. La playlist comprend les éléments suivants :
+- Bienvenue dans Microsoft Teams  
+- Faire fonctionner votre équipe
+- Utiliser des canaux  
+- Charger et partager des fichiers 
+- Démarrer et épingler des conversations  
+- Participer à une réunion teams 
+- Gérer les réunions 
+ 
+### <a name="microsoft-365-basics"></a>Notions de base de Microsoft 365
+Dans la catégorie produits, la sous-catégorie « Office 365 notions de base » a été mise à jour vers la catégorie « Microsoft 365 notions de base ». Les ressources obsolètes dans la catégorie « Office 365 notions de base » sont toujours disponibles si elles ont été ajoutées à une playlist personnalisée.
+
+#### <a name="get-started-playlist"></a>Playlist de « prise en main »
+- Qu’est-ce que Microsoft 365 ?
+- Connexion
+- Office.com
+
+#### <a name="create-and-save-playlist"></a>Liste de sélection « créer et enregistrer »
+- Utilisation des applications de bureau
+- Utilisation des applications Office.com
+- Enregistrer des fichiers dans le Cloud
+- Synchroniser des fichiers à la demande avec OneDrive
+
+#### <a name="share-and-collaborate-playlist"></a>Playlist de partage et de collaboration
+- Partager des fichiers dans Microsoft 365
+- Co-auteur
+- Utiliser @mentions
+- Suivi
+
+#### <a name="work-with-microsoft-teams-playlist"></a>Liste de sélection « utiliser Microsoft teams »
+- Bienvenue dans Microsoft Teams
+- Vue d’ensemble des équipes et des canaux
+- Création et mise en forme d’un billet
+- Démarrer et épingler des conversations
+- Passer des appels
+- Participer à une réunion teams
+- Conseils pour de meilleurs réunions
+
+#### <a name="get-the-most-out-of-windows-playlist"></a>Liste de sélection « tirer le meilleur parti de Windows »
+- Rechercher vos documents, vos applications et bien plus avec la recherche
+- Microsoft Edge
+- Recherche Microsoft dans Bing
+
+#### <a name="work-from-anywhere-playlist"></a>Playlist « travailler depuis n’importe où »
+- Application mobile OneDrive
+- Application mobile Outlook
+
+#### <a name="cool-microsoft-365-features-playlist"></a>Liste de sélection « fonctionnalités intéressantes de Microsoft 365 »
+- Concepteur PowerPoint
+- Idées dans Excel
+- Éditeur dans Word
+- Rendez votre contenu accessible
+
+### <a name="create-a-chart-playlist-in-access"></a>Liste « créer un graphique » dans Access
+Une liste « créer une sélection de graphique » a été ajoutée à la sous-catégorie « Products\Access ».  
+- Créer un histogramme
+- Création d’un graphique à barres
+- Créer un graphique en courbes
+- Créer un graphique en secteurs
+- Créer un graphique combiné
+
+### <a name="teams-updates"></a>Mises à jour de teams
+La sous-catégorie « Product\Microsoft teams » a été mise à jour avec les ressources suivantes. 
+
+#### <a name="manage-meetings-playlist"></a>Liste de sélection « gérer les réunions »
+- Participer à une réunion teams
+#### <a name="work-with-posts-and-messages-playlist"></a>Playlist « utiliser des publications et des messages »
+- Création et mise en forme d’un billet
+
+### <a name="planner"></a>Planificateur 
+Les biens suivants ont été ajoutés à la playlist « use Planner » dans « Products\Planner ».
+#### <a name="use-planner-playlist"></a>Utiliser la playlist de l’agent de planification
+- À faire vs Planner
+- Consultez les tâches de votre planificateur dans to do
+- Utilisation de l’application tâches dans teams
+
+### <a name="word"></a>Word
+Le bien suivant a été mis à jour dans la playlist « partager et co-créer avec Word ».
+
+#### <a name="share-and-co-author-with-word-playlist"></a>Liste de sélection « partager et co-créer avec Word »
+- « Collaborer sur des documents Word avec la co-création en temps réel » a été mis à jour. 
+
+### <a name="office-for-the-web"></a>Office pour le web
+Le bien suivant a été mis à jour dans la playlist « Office pour le Web : Word pour le Web ».
+
+#### <a name="office-for-the-web-word-for-the-web-playlist"></a>Liste de sélection « Office pour le Web : Word pour le Web »
+- Transcrire vos enregistrements
+
+### <a name="powerpoint-new-updated"></a>PowerPoint (nouveau, mis à jour)
+Les éléments suivants ont été mis à jour ou ajoutés aux playlists Products\PowerPoint. 
+
+#### <a name="text--tables-with-powerpoint-playlist"></a>« Tableaux de & de texte avec PowerPoint »
+- Modifier l’entrée manuscrite en formes, texte ou maths dans PowerPoint (nouveau)
+
+#### <a name="present-slideshows-playlist"></a>Présentation des diaporamas
+- Enregistrer une présentation (mise à jour)
+
+### <a name="office-quick-start-guides-updated"></a>Guides de démarrage rapide Office (mis à jour)
+Les guides de démarrage rapide Office pour tous les produits Office ont été mis à jour. 
 
 ## <a name="april-2020-content-updates"></a>Mises à jour de contenu d’avril 2020
  En réponse aux événements en cours, la mise à jour du contenu d’avril 2020 fournit des listes de sélections d’apprentissage et des ressources conçues pour permettre le travail à distance dans votre organisation. Nous avons ajouté un nouvel ensemble de tâches de sélection à distance, mis à jour de manière significative le contenu Microsoft Teams, en particulier pour les réunions Teams, ajouté un nouvel ensemble d’Office pour les playlists Web et ajouté de nouvelles ressources Microsoft Forms. Dans le cadre de la mise à jour, nous avons également fourni une liste de ressources de travail distantes pour les administrateurs.  
@@ -29,7 +156,7 @@ Les playlists suivantes ont été ajoutées ou mises à jour.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Travailler à distance (2 nouvelles playlists/11 nouvelles ressources)
 Une nouvelle sous-catégorie travail à distance a été ajoutée aux voies d’apprentissage qui intègrent les sélections et les biens suivants : 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![sélection de la voie d’apprentissage à distance](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Travailler à distance (5 nouvelles ressources)
 - Travailler à distance avec Office 365
