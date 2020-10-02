@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: Mises à jour de contenu de chemins d’apprentissage
 ms.date: 3/30/2020
 description: Mises à jour de contenu de chemins d’apprentissage
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261689"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336402"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour de contenu des chemins d’apprentissage Microsoft 365
 Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 septembre.
 
 ## <a name="september-2020-content-updates"></a>Mises à jour de contenu de septembre 2020
 Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. Pour plus d’informations sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir [Manage content updates](custom_contentupdatesmanage.md). 
+
+> [!IMPORTANT]
+> La mise à jour de contenu de septembre a été publiée en anglais. Les mises à jour de contenu pour le chinois (simplifié), français, allemand, italien, japonais, portugais (Brésil), russe et espagnol sont bientôt disponibles.  
 
 ### <a name="security"></a>Sécurité
 Une nouvelle sous-catégorie de sécurité a été ajoutée avec des sélections et des biens pour aider les utilisateurs à travailler de manière plus sécurisée au bureau et à la maison. 
@@ -56,7 +59,7 @@ Dans la catégorie produits, la sous-catégorie « Office 365 notions de base 
 
 #### <a name="get-started-playlist"></a>Playlist de « prise en main »
 - Qu’est-ce que Microsoft 365 ?
-- Connexion
+- Se connecter
 - Office.com
 
 #### <a name="create-and-save-playlist"></a>Liste de sélection « créer et enregistrer »
@@ -263,7 +266,7 @@ Pour plus d’informations sur la personnalisation des voies d’apprentissage, 
 ## <a name="november-2019-content-updates"></a>Mises à jour de contenu de novembre 2019
 Bienvenue dans la mise à jour du contenu des chemins d’apprentissage Microsoft 365. À partir de la mise à jour du 2019 novembre, nous fournirons un inventaire mis à jour du catalogue des voies d’apprentissage chaque trimestre. Pour la mise à jour de novembre 2019, les nouvelles sous-catégories de contenu et les playlists suivantes ont été ajoutées au catalogue des voies d’apprentissage. Pour plus d’informations sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir [Manage content updates](custom_contentupdatesmanage.md).    
 
-### <a name="teams"></a>Teams
+### <a name="teams"></a>Équipes
 Plusieurs nouvelles playlists ont été ajoutées à la sous-catégorie Teams.
 - Utiliser des publications et des messages (3 biens)
 - Charger et Rechercher des fichiers (2 ressources)
