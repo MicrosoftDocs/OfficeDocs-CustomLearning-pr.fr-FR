@@ -14,6 +14,7 @@
 ## [Traduire les sélections personnalisées des parcours d’apprentissage](custom_translate_pl_ml.md)
 ## [Traduire le nom, la navigation et les pieds de page du site](custom_sitenamenav_ml.md)
 # [Centre de réussite des administrateurs](custom_successcenter.md)
+## [Utiliser Advisor for Teams avec les parcours d’apprentissage pour faciliter le déploiement de Microsoft Teams](custom_teamsadvisor.md)
 ## Planifier du contenu d’apprentissage 
 ### [Planifier le contenu de votre formation](custom_plancontent.md)
 ### [Ressources pour la prise en charge de votre personnel distant](custom_plancontent_remoteresources.md)
