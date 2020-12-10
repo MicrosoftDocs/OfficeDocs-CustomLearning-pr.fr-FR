@@ -5,12 +5,12 @@ title: Mises à jour de contenu de chemins d’apprentissage
 ms.date: 3/30/2020
 description: Mises à jour de contenu de chemins d’apprentissage
 ms.service: o365-solutions
-ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
-ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
+ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48361094"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614632"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour de contenu des chemins d’apprentissage Microsoft 365
 Les voies de formation visent à adhérer à un cycle de mise à jour de contenu trimestriel. La liste suivante répertorie les mises à jour de contenu pour le 2020 septembre.
@@ -36,7 +36,7 @@ Une nouvelle sous-catégorie de sécurité a été ajoutée avec des sélections
 #### <a name="security-at-home-playlist"></a>Liste de sélection « sécurité à la maison »
 - Conseils pour garantir la sécurité de vos données
 - Sécuriser votre ordinateur à la maison
-- Protégez votre famille en ligne avec la sécurité Windows – est-ce ici par accident ?
+- Protégez votre famille en ligne grâce à la sécurité Windows   
 
 #### <a name="security-at-work-playlist"></a>Liste de sélection « sécurité au travail »
 - Maintenir votre ordinateur en sécurité au travail
@@ -146,7 +146,7 @@ Les éléments suivants ont été mis à jour ou ajoutés aux playlists Products
 Les guides de démarrage rapide Office pour tous les produits Office ont été mis à jour. 
 
 ## <a name="april-2020-content-updates"></a>Mises à jour de contenu d’avril 2020
- En réponse aux événements en cours, la mise à jour du contenu d’avril 2020 fournit des listes de sélections d’apprentissage et des ressources conçues pour permettre le travail à distance dans votre organisation. Nous avons ajouté un nouvel ensemble de tâches de sélection à distance, mis à jour de manière significative le contenu Microsoft Teams, en particulier pour les réunions Teams, ajouté un nouvel ensemble d’Office pour les playlists Web et ajouté de nouvelles ressources Microsoft Forms. Dans le cadre de la mise à jour, nous avons également fourni une liste de ressources de travail distantes pour les administrateurs.  
+ En réponse aux événements en cours, la mise à jour du contenu d’avril 2020 fournit des listes de sélections d’apprentissage et des ressources conçues pour permettre le travail à distance dans votre organisation. Nous avons ajouté une nouvelle série de sélections distantes et mis à jour le contenu Microsoft Teams, en particulier pour les réunions Teams. Nous avons également ajouté un nouvel ensemble d’Office pour les playlists Web et ajouté de nouvelles ressources Microsoft Forms. Nous avons également fourni une liste de ressources de travail distantes pour les administrateurs.  
  
  Pour plus d’informations sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir [Manage content updates](custom_contentupdatesmanage.md). La liste suivante répertorie les mises à jour de contenu des chemins d’accès Microsoft 365 d’avril 2020. 
 
@@ -161,7 +161,7 @@ Une nouvelle sous-catégorie travail à distance a été ajoutée aux voies d’
 
 ![sélection de la voie d’apprentissage à distance](media/cg-contentupdate-apr2020-01.png)
 
-##### <a name="work-remotely-5-new-assets"></a>Travailler à distance (5 nouvelles ressources)
+##### <a name="work-remotely-five-new-assets"></a>Travailler à distance (cinq nouvelles ressources)
 - Travailler à distance avec Office 365
 - Prise en main d’Office.com
 - Communiquer ou répondre
@@ -175,20 +175,20 @@ Une nouvelle sous-catégorie travail à distance a été ajoutée aux voies d’
 - Satisfaction
 - Mobile
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 nouvelles ressources/6 ressources mises à jour)
+### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (neuf nouvelles ressources/six ressources mises à jour)
 De nombreuses mises à jour ont été apportées au contenu de teams. 
-#### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Collaborer dans teams and Channels (1 ressource nouveau/1 mis à jour)
+#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Collaborer dans teams et les canaux (un nouvel élément/un élément mis à jour)
 - Créer et utiliser des canaux privés (nouveauté)
 - Afficher ou masquer des canaux (mis à jour)
-#### <a name="start-chats-and-calls-2-new1-updated"></a>Démarrer des conversations et des appels (2 nouveaux/1 mis à jour)
+#### <a name="start-chats-and-calls-two-newone-updated"></a>Démarrer des conversations et des appels (deux nouveaux/mis à jour)
 - Démarrer et épingler des conversations (nouveauté)
 - Masquer les conversations, supprimer les messages (nouveau)
 - Passer des appels (mis à jour)
-#### <a name="explore-apps-and-tools-1-new"></a>Explorer les applications et les outils (1 nouveau)
+#### <a name="explore-apps-and-tools-one-new"></a>Explorer les applications et les outils (un nouveau)
 - Utiliser des applications (nouveau)
 #### <a name="work-with-posts-and-messages"></a>Utiliser des publications et des messages
 - Publier un message sur plusieurs canaux (nouveau)
-#### <a name="manage-meetings-3-new4-updated-assets"></a>Gérer les réunions (3 nouveaux/4 ressources mises à jour)
+#### <a name="manage-meetings-three-newfour-updated-assets"></a>Gérer les réunions (trois nouveaux/quatre ressources mises à jour)
 - Participer à une réunion Teams (nouveau)
 - Créer des réunions instantanées avec la Conférence maintenant (mise à jour)
 - Réunion dans un canal (nouveau)
@@ -196,12 +196,12 @@ De nombreuses mises à jour ont été apportées au contenu de teams.
 - Afficher votre écran pendant une réunion (mise à jour)
 - Afficher les diapositives PowerPoint (mise à jour)
 - Naviguer au cours d’une réunion Teams (mise à jour)
-#### <a name="work-with-post-and-messages-1-new"></a>Utiliser la publication et les messages (1 nouveau)
+#### <a name="work-with-post-and-messages-one-new"></a>Utiliser la publication et les messages (un nouveau)
 - Publier un message sur plusieurs canaux (nouveau)
 
 ### <a name="office-for-the-web"></a>Office pour le web
 Office pour le Web fournit un ensemble de sélections pour les scénarios dans lesquels les utilisateurs souhaitent créer, partager et collaborer avec Office sur le Web. Cet ensemble de contenu est également utile pour les organisations qui effectuent le basculement de Google G suite vers Microsoft 365.
-#### <a name="get-started-5-new-assets"></a>Prise en main (5 nouvelles ressources)
+#### <a name="get-started-five-new-assets"></a>Prise en main (cinq nouvelles ressources)
 - Prise en main
 - Trouver avec la recherche
 - Créer des documents
@@ -244,7 +244,7 @@ Office pour le Web fournit un ensemble de sélections pour les scénarios dans l
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
 Par demande, il existe également des nouvelles ressources de formulaires. 
-#### <a name="forms-4-new-assets"></a>Formulaires (4 nouvelles ressources) 
+#### <a name="forms-four-new-assets"></a>Formulaires (quatre nouvelles ressources) 
 - Créer un formulaire 
 - Partager un formulaire 
 - Afficher les résultats d’un formulaire 
@@ -268,26 +268,25 @@ Bienvenue dans la mise à jour du contenu des chemins d’apprentissage Microsof
 
 ### <a name="teams"></a>Teams
 Plusieurs nouvelles playlists ont été ajoutées à la sous-catégorie Teams.
-- Utiliser des publications et des messages (3 biens)
-- Charger et Rechercher des fichiers (2 ressources)
-- Configurer et participer à des événements en direct (4 ressources)
-- Gérer votre flux d’activités (2 ressources)
-- Teams en déplacement (2 biens)
+- Utiliser des publications et des messages (quatre ressources)
+- Charger et Rechercher des fichiers (deux ressources)
+- Configurer et participer à des événements en direct (quatre biens)
+- Gérer votre flux d’activités (deux ressources)
+- Teams en déplacement (deux ressources)
 
 ### <a name="microsoft-365-success-center"></a>Centre de réussite Microsoft 365
 Nous avons ajouté une sous-catégorie de centre de réussite des chemins d’apprentissage Microsoft 365 à l’expérience des voies d’apprentissage. Le centre de réussite fournit les playlists suivantes.
-- Nouveautés, nouveautés (3 ressources)
-- Planifier le contenu de formation (2 biens)
-- Personnaliser les voies de formation (8 biens ?)
-- Adoption des voies de formation sur le lecteur (1 élément)
-- Mesurer l’impact des voies de formation (1 ressource)
+- Nouveautés, nouveautés (trois ressources)
+- Planifier le contenu de formation (deux ressources)
+- Personnaliser les voies de formation (huit biens ?)
+- Adoption des voies d’apprentissage (une ressource)
+- Mesurer l’impact des voies de formation (une ressource)
 
 ### <a name="outlook"></a>Outlook
 Les playlists suivantes ont été ajoutées à la sous-catégorie Outlook. 
-- Outlook Mobile : gérer votre boîte de réception (4 ressources)
-- Outlook Mobile : gérer votre temps (8 ressources)
-- Outlook Mobile : personnes et connexions (5 ressources)
-- Outlook Mobile : recherche et partage (4 ressources)
+- Outlook Mobile : gérer votre boîte de réception (huit ressources)
+- Outlook Mobile : personnes et connexions (cinq ressources)
+- Outlook Mobile : Rechercher et partager (quatre ressources)
 
 ### <a name="onedrive"></a>OneDrive
 Les ressources vidéo suivantes ont été ajoutées pour OneDrive. 
@@ -296,36 +295,33 @@ Les ressources vidéo suivantes ont été ajoutées pour OneDrive.
 
 ### <a name="planner"></a>Planificateur
 Les playlists et les biens suivants ont été ajoutés au catalogue.  
-- Démarrage rapide du planificateur (6 biens)
-- Utiliser le planificateur (8 ressources)
+- Démarrage rapide du planificateur (six biens)
+- Utiliser le planificateur (huit ressources)
 
 ### <a name="accessibility"></a>Accessibilité
 La sous-catégorie d’accessibilité du contenu a été ajoutée avec les playlists suivantes. 
-- Ressources et présentation de l’accessibilité Microsoft 365 (3 biens)
-- Créer des messages électroniques plus accessibles dans Outlook (3 ressources)
-- Créer des documents Word plus accessibles (8 ressources)
-- Créer des classeurs Excel plus accessibles (3 ressources)
-- Créer des diapositives plus accessibles dans PowerPoint (5 ressources)
-
-### <a name="onedrive"></a>OneDrive
-Remarque : les modifications doivent être ajoutées ici.....
+- Ressources et présentation de l’accessibilité Microsoft 365 (trois ressources)
+- Créer des messages électroniques plus accessibles dans Outlook (trois ressources)
+- Créer des documents Word plus accessibles (huit ressources)
+- Créer des classeurs Excel plus accessibles (trois ressources)
+- Créer des diapositives plus accessibles dans PowerPoint (cinq ressources)
 
 ### <a name="sway"></a>Sway
 La sous-catégorie Sway de contenu a été ajoutée avec les playlists suivantes. 
-- Lancement rapide Sway (4 ressources)
-- Partager et accéder à Sway (5 ressources)
+- Lancement rapide Sway (quatre ressources)
+- Partager et accéder à Sway (cinq ressources)
 - Ajouter du contenu à Sway (11 ressources)
-- Personnaliser Sway (5 ressources)
+- Personnaliser Sway (cinq ressources)
 
-### <a name="access"></a>Access
-- Démarrage rapide d’Access (4 ressources)
-- Introduction à Access (3 biens)
-- Créer une base de données Access (2 ressources)
-- Ajouter des tables (2 ressources)
-- Utiliser des relations (5 ressources)
-- Ajouter et modifier des données (2 ressources)
-- Gérer les données à l’aide de requêtes (5 ressources)
-- Créer des formulaires (1 élément)
-- Créer des rapports (2 ressources)
-- Protéger les bases de données (1 élément)
+### <a name="access"></a>Accès
+- Démarrage rapide d’Access (quatre ressources)
+- Présentation de l’accès (trois ressources)
+- Créer une base de données Access (deux ressources)
+- Ajouter des tables (deux ressources)
+- Utiliser des relations (cinq ressources)
+- Ajouter et modifier des données (deux ressources)
+- Gérer les données à l’aide de requêtes (cinq ressources)
+- Créer des formulaires (un élément)
+- Créer des rapports (deux ressources)
+- Protéger les bases de données (une ressource)
 
