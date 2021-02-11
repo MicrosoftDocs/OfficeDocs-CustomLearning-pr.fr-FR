@@ -45,7 +45,16 @@
       "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-CustomLearning",
       "feedback_product_url": "https://microsoftteams.uservoice.com/forums/913429-learning-solutions",
-      "bilingual_type": "hover over"
+      "bilingual_type": "hover over",
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ]
     },
     "fileMetadata": {},
     "template": [],
