@@ -1,21 +1,21 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Vue d’ensemble
+title: Vue d'ensemble
 ms.date: 07/06/2020
 description: Assistance multilingue pour les parcours d’apprentissage
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint online
-ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: e4069549cc5218ecc991a797f8a177e40c777e8e
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234156"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573396"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Assistance multilingue pour les parcours d’apprentissage
 
-Si votre organisation couvre un remplissage diversifié, vous pouvez faire en sorte que les chemins d’apprentissage Microsoft 365 soient disponibles dans plusieurs langues. Les voies de formation prennent actuellement en charge neuf langues. L’anglais est la langue par défaut. Les langues prises en charge sont les suivantes :   
+Si votre organisation englobe une population variée, vous pouvez rendre les parcours d’apprentissage Microsoft 365 disponibles dans plusieurs langues. Le parcours d’apprentissage prend actuellement en charge dix langues. L’anglais est la langue par défaut. Les langues pris en charge sont les suivantes :   
 
 - Anglais    
 - Chinois (simplifié)
@@ -26,23 +26,24 @@ Si votre organisation couvre un remplissage diversifié, vous pouvez faire en so
 - Portugais (Brésil)
 - Russe (russe)
 - Espagnol
+- Néerlandais
 
-## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>Se familiariser avec les fonctionnalités multilingues de SharePoint Online
-La prise en charge multilingue des voies de formation est activée par les fonctionnalités multilingues SharePoint Online pour les sites de communication.
-Avec la prise en charge multilingue de SharePoint Online, vous pouvez fournir des pages traduites, des billets d’actualité et des éléments d’interface utilisateur dans la langue préférée de l’utilisateur. Avant de commencer à travailler avec les voies de formation, prenez le temps de découvrir le fonctionnement de la prise en charge multilingue pour les sites de communication SharePoint Online. 
-- Pour en savoir plus sur les fonctionnalités multilingues de SharePoint Online, consultez la rubrique [créer des sites de communication multilingues, des pages et des actualités](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
+## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>Familiarisez-vous avec les fonctionnalités multilingues de SharePoint Online
+La prise en charge multilingue des parcours d’apprentissage est activée par les fonctionnalités multilingues de SharePoint Online pour les sites de communication.
+Avec la prise en charge multilingue de SharePoint Online, vous pouvez fournir des pages traduites, des publications d’actualités et des éléments d’interface utilisateur dans la langue préférée de l’utilisateur. Avant de commencer à travailler avec les parcours d’apprentissage, prenez le temps de découvrir le fonctionnement de la prise en charge multilingue pour les sites de communication SharePoint Online. 
+- Pour en savoir plus sur les fonctionnalités multilingues de SharePoint Online, voir [Créer des sites de communication multilingues, des pages et des actualités.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c) 
 
 ### <a name="what-you-should-know-before-getting-started"></a>Ce que vous devez savoir avant de commencer 
-Avant de commencer à activer la prise en charge multilingue pour les voies de formation, voici quelques informations clés que vous devez connaître. 
+Avant de commencer à activer la prise en charge multilingue des parcours d’apprentissage, voici quelques informations clés que vous devez connaître. 
 
 - Les fonctionnalités de traduction de page sont disponibles uniquement sur les sites de communication SharePoint Online.
-- Le composant WebPart voies d’apprentissage est affiché dans la langue du profil utilisateur de la personne qui visualise le site.   
-- Si vous mettez en service un nouveau site de voies d’apprentissage à partir du service de mise en service SharePoint, le site est créé avec l’anglais comme langue par défaut. La langue par défaut ne peut pas être modifiée. Pour plus d’informations, consultez la rubrique [options d’installation pour la prise en charge multilingue](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml).
-- Les versions précédentes des chemins d’apprentissage, si elles sont installées dans votre client, ont été configurées avec l’anglais comme langue par défaut. La langue par défaut ne peut pas être modifiée. Pour plus d’informations, consultez la rubrique [options d’installation pour la prise en charge multilingue](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml).
-- Si vous mettez en service un nouveau site de voies de formation, le site est mis en service en 9 langues. Vous pouvez désactiver les langues que vous ne voulez pas prendre en charge. Pour plus d’informations, consultez la rubrique mise en [service d’un nouveau site multilingue de chemins d’apprentissage](https://docs.microsoft.com/office365/customlearning/custom_provision_ml).  
-- Si vous mettez à jour les voies de formation à partir d’une version antérieure vers la version multilingue 4,0, les pages de votre site ne sont pas automatiquement traduites. Chaque page créée dans votre langue par défaut peut avoir une page correspondante dans un langage cible choisi que vous, ou une personne que vous affectez, se traduit manuellement. Une fois qu’une page est traduite et publiée, elle est automatiquement affichée aux utilisateurs dans la langue spécifiée dans leur profil. Pour plus d’informations, voir [mettre à jour les chemins d’apprentissage pour la prise en charge multilingue](https://docs.microsoft.com/office365/customlearning/custom_update_ml). 
-- La langue affichée dans le composant WebPart voies d’apprentissage dépend des paramètres régionaux et de langue de l’utilisateur. Pour plus d’informations sur la configuration d’un profil utilisateur pour la langue et la région, consultez la rubrique [créer des sites, des pages et des actualités de communication multilingue](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
-- La navigation de site, le titre et les pieds de page doivent être traduits par une personne disposant d’un profil utilisateur dans la langue à traduire. Pour plus d’informations sur la traduction de la navigation de site, le titre et le pied de page, voir [créer des sites, des pages et des actualités de communication multilingue](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
+- Le volet Web Du parcours d’apprentissage s’affiche dans la langue du profil utilisateur de la personne qui affiche le site.   
+- Si vous provisionniez un nouveau site de parcours d’apprentissage à partir du service d’approvisionnement SharePoint, le site est créé avec l’anglais comme langue par défaut. La langue par défaut ne peut pas être modifiée. Pour plus d’informations, voir [options de configuration pour la prise en charge multilingue.](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)
+- Les versions précédentes du parcours d’apprentissage, si installées dans votre client, étaient en anglais comme langue par défaut. La langue par défaut ne peut pas être modifiée. Pour plus d’informations, voir [options de configuration pour la prise en charge multilingue.](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)
+- Si vous provisionniez un nouveau site de parcours d’apprentissage, le site est en 9 langues. Vous pouvez désactiver les langues que vous ne souhaitez pas prendre en charge. Pour plus d’informations, voir [Mise en service d’un nouveau site multilingue de parcours d’apprentissage.](https://docs.microsoft.com/office365/customlearning/custom_provision_ml)  
+- Si vous mettez à jour les parcours d’apprentissage d’une version antérieure vers la version multilingue 4.0, les pages de votre site ne sont pas traduites automatiquement. Chaque page créée dans votre langue par défaut peut avoir une page correspondante dans la langue cible choisie que vous ou une personne que vous affectez traduit manuellement. Une fois qu’une page est traduite et publiée, elle s’affiche automatiquement pour les utilisateurs dans la langue spécifiée dans leur profil. Pour plus d’informations, voir Mettre à jour [les parcours d’apprentissage pour la prise en charge multilingue.](https://docs.microsoft.com/office365/customlearning/custom_update_ml) 
+- La langue affichée dans le volet Web du parcours d’apprentissage dépend des paramètres de langue et de région personnels de l’utilisateur. Pour plus d’informations sur la configuration d’un profil utilisateur pour la langue et la région, voir Créer des [sites de communication multilingues, des pages et des actualités.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c) 
+- La navigation, le titre et les pieds de page du site doivent être traduits par une personne ayant un profil utilisateur dans la langue à traduire. Pour plus d’informations sur la traduction de la navigation, du titre et du pied de page du site, voir Créer des [sites de communication multilingues, des pages et des actualités.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
 
 ## <a name="next-steps"></a>Étapes suivantes
-- Pour commencer à utiliser les voies d’apprentissage prise en charge multilingue, voir [options de configuration pour les chemins d’apprentissage prise en charge multilingue](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml).
+- Pour commencer avec la prise en charge multilingue des parcours d’apprentissage, voir les options de configuration pour la prise en charge multilingue des [parcours d’apprentissage.](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)
