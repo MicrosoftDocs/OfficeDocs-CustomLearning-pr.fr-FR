@@ -5,12 +5,12 @@ title: Mises à jour de contenu des parcours d’apprentissage
 ms.date: 3/30/2020
 description: Mises à jour de contenu des parcours d’apprentissage
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573416"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163081"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour du contenu du parcours d’apprentissage Microsoft 365
 Les parcours d’apprentissage s’efforcent d’adhérer à un cycle de mise à jour de contenu trimestrielle. Pour en savoir plus sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md) 
@@ -53,9 +53,9 @@ Pour aider les organisations à effectuer la transition vers un espace de travai
 - Utiliser des événements en direct pour atteindre un large public
 - Commencer à utiliser Microsoft Teams pour les événements en direct
 - Planifier et planifier un événement en direct dans Teams
-- Organiser un travail en direct
+- Organiser un live even
 
-### <a name="microsoft-teams"></a>Microsoft Teams
+### <a name="microsoft-teams"></a>Microsoft Teams
 Microsoft Teams a été mis à jour avec le contenu suivant.
 
 #### <a name="manage-meetings-playlist"></a>Gérer la playlist des réunions
@@ -115,7 +115,7 @@ La playlist Créer un formulaire et afficher les résultats a été mise à jour
 - Ajouter des sections à votre enquête ou questionnaire
 
 ### <a name="excel"></a>Excel
-Excel dans les parcours d’apprentissage a été mis à jour avec le contenu suivant.
+Excel dans le parcours d’apprentissage a été mis à jour avec le contenu suivant.
 
 #### <a name="intro-to-excel"></a>Introduction à Excel
 La playlist Introduction à Excel présente les nouvelles ressources suivantes.
@@ -124,7 +124,7 @@ La playlist Introduction à Excel présente les nouvelles ressources suivantes.
 #### <a name="linked-data-types"></a>Types de données liées
 Une nouvelle playlist de types de données liées a été ajoutée au parcours d’apprentissage avec les ressources suivantes. 
 - Convertir du texte en type de données Organisation
-- Utiliser le sélecteur de données pour spécifier les types de données d’organisation
+- Utiliser le sélecteur de données pour spécifier les types de données Organisation
 - Afficher et insérer des données à partir d’un type de données Organisation
 
 #### <a name="formulas-and-functions"></a>Formules et fonctions
@@ -166,13 +166,13 @@ Une nouvelle sous-catégorie de sécurité a été ajoutée avec des playlists e
 - Empêcher les modifications apportées aux paramètres de sécurité avec la protection contre la falsification
 
 ### <a name="get-started-with-teams-playlist"></a>Playlist « Mise en place de Teams »
-Une nouvelle playlist « Mise en route avec Teams » a été ajoutée à la sous-catégorie « Mise en route/Premiers jours » pour aider les utilisateurs à se mettre en route avec Teams. La playlist inclut :
+Une nouvelle playlist « Mise en route avec Teams » a été ajoutée à la sous-catégorie « Commencer/Premiers jours » pour aider les utilisateurs à se mettre en route avec Teams. La playlist inclut :
 - Bienvenue dans Microsoft Teams  
 - Rendre votre équipe opérationnel
 - Travailler dans des canaux  
 - Télécharger et partager des fichiers 
 - Démarrer et épingler des conversations  
-- Rejoindre une réunion Teams 
+- Participer à une réunion Teams 
 - Gérer les réunions 
  
 ### <a name="microsoft-365-basics"></a>Microsoft 365 Basics
@@ -201,7 +201,7 @@ Dans la catégorie Produits, la sous-catégorie « Office 365 Basics » a été 
 - Créer et mettre en forme un billet
 - Démarrer et épingler des conversations
 - Effectuer des appels
-- Rejoindre une réunion Teams
+- Participer à une réunion Teams
 - Conseils pour de meilleures réunions
 
 #### <a name="get-the-most-out-of-windows-playlist"></a>Playlist « En savoir plus sur Windows »
@@ -213,7 +213,7 @@ Dans la catégorie Produits, la sous-catégorie « Office 365 Basics » a été 
 - Application mobile OneDrive
 - Application mobile Outlook
 
-#### <a name="cool-microsoft-365-features-playlist"></a>Playlist « Fonctionnalités intéressantes de Microsoft 365 »
+#### <a name="cool-microsoft-365-features-playlist"></a>Playlist « Fonctionnalités Intéressantes de Microsoft 365 »
 - Concepteur PowerPoint
 - Idées dans Excel
 - Éditeur dans Word
@@ -231,7 +231,7 @@ Une sélection « Créer une playlist de graphique » a été ajoutée à la sou
 La sous-catégorie « Product\Microsoft Teams » a été mise à jour avec les ressources suivantes. 
 
 #### <a name="manage-meetings-playlist"></a>Playlist « Gérer les réunions »
-- Rejoindre une réunion Teams
+- Participer à une réunion Teams
 #### <a name="work-with-posts-and-messages-playlist"></a>Playlist « Travailler avec des billets et des messages »
 - Créer et mettre en forme un billet
 
@@ -329,7 +329,7 @@ Office pour le web fournit un ensemble de playlists pour les scénarios dans leq
 - Retour au travail
 - Fichiers recommandés
 #### <a name="outlook-for-the-web"></a>Outlook pour le web
-- Faire connaître Outlook pour le Web
+- Se faire connaître d’Outlook pour le Web
 - Créer une réponse à un e-mail
 - Organiser votre boîte de réception
 - Créer une signature et une réponse automatique
@@ -373,12 +373,12 @@ Sur demande, il existe également de nouvelles ressources Forms.
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>Ressources pour la prise en charge de votre personnel distant
 Vous pouvez utiliser les parcours d’apprentissage pour créer une page d’accueil dans votre site de parcours d’apprentissage pour la prise en charge des travailleurs à distance. Vous pouvez également ajouter le volet Web Du parcours d’apprentissage à une page de support existante sur votre site de parcours d’apprentissage et filtrer le site Web Pour afficher les playlists Travail à distance. Voici une liste des principales ressources de Microsoft pour la prise en charge du travail à distance dans votre organisation. 
-- [Comment déployer Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Réunions et conférences dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Prise en charge des travailleurs à distance à l’aide de Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [Forum aux questions : soutenir vos employés en télétravail](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [Comment déployer Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Réunions et conférences dans Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Prise en charge des travailleurs à distance à l’aide de Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Forum aux questions : soutenir vos employés en télétravail](/microsoftteams/faq-support-remote-workforce)
 - [Les 9 principales méthodes d’activation du travail à distance par l’équipe de l’équipe microsoft pour ses employés](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Formation Microsoft Teams](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Formation Microsoft Teams](/microsoftteams/training-microsoft-teams-landing-page)
 - [Éducation : Centre d’enseignement Microsoft](https://education.microsoft.com) 
 - [Éducation : mise en place de l’apprentissage à distance](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -445,4 +445,3 @@ La sous-catégorie Sway du contenu a été ajoutée avec les playlists suivantes
 - Créer des formulaires (un actif)
 - Créer des rapports (deux ressources)
 - Protéger les bases de données (un bien)
-

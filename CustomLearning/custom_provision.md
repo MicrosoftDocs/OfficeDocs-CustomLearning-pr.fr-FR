@@ -1,48 +1,48 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Mettre en service une nouvelle solution de voies d’apprentissage
+title: Mise en service d’une nouvelle solution de parcours d’apprentissage
 ms.date: 02/10/2019
-description: Approvisionner le site des chemins d’apprentissage Microsoft 365 avec le service Microsoft 365 Look Book
+description: Mise en service du site de parcours d’apprentissage Microsoft 365 avec le service de carnet d’accès Microsoft 365
 ms.service: sharepoint online
-ms.openlocfilehash: ff480e0ae2d5a530ed697df470cd499021ced01a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234066"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162911"
 ---
-# <a name="provision-a-new-learning-pathways-solution"></a>Mettre en service une nouvelle solution de voies d’apprentissage 
-Les organisations qui n’ont pas de voies d’apprentissage configurées dans leur client peuvent utiliser le service de carnet d’adresses SharePoint pour ajouter la solution des chemins d’apprentissage multilingues. Avec cette option, le modèle SharePoint chemins d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modifications. 
+# <a name="provision-a-new-learning-pathways-solution"></a>Mise en service d’une nouvelle solution de parcours d’apprentissage 
+Les organisations qui n’ont pas de parcours d’apprentissage mise en service dans leur client peuvent utiliser le service de carnet d’informations SharePoint pour ajouter la solution de parcours d’apprentissage multilingue. Avec cette option, le modèle SharePoint du parcours d’apprentissage est traduit en neuf langues et peut être utilisé avec un minimum de modification. 
 
 > [!IMPORTANT]
-> Si vous avez déjà configuré des voies de formation dans votre client, il est recommandé de [mettre à jour](custom_update.md) les voies de formation. Si vous installez une nouvelle instance de voies de formation, vous devrez transférer manuellement toutes les personnalisations du site existant vers le nouveau site. 
+> Si vous avez déjà mis en service des parcours d’apprentissage dans votre client, il est recommandé de mettre à jour les parcours [](custom_update.md) d’apprentissage. Si vous installez une nouvelle instance de parcours d’apprentissage, vous devrez transférer manuellement toutes les personnalisations du site existant vers le nouveau site. 
 
-## <a name="prerequisites-for-multilingual-support"></a>Conditions requises pour la prise en charge multilingue
+## <a name="prerequisites-for-multilingual-support"></a>Conditions préalables à la prise en charge multilingue
  
-Pour configurer correctement les voies d’apprentissage de Microsoft 365 avec le service de livres de recherche, la personne qui effectue la mise en service doit répondre aux conditions préalables suivantes :   
+Pour configurer correctement le parcours d’apprentissage Microsoft 365 avec le service de carnet de recherche, la personne qui a mis en service doit respecter les conditions préalables suivantes :   
  
-- Les voies d’apprentissage de mise en service de la personne doivent être un administrateur client du client où les voies d’apprentissage seront mises en service.  
-- Un catalogue d’applications client doit être disponible dans l’option apps du centre d’administration SharePoint. Si votre organisation ne dispose pas d’un catalogue d’applications client SharePoint, reportez-vous à la [documentation SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) pour en créer une. Vous devez attendre au moins deux heures après avoir créé le catalogue d’applications avant de procéder à la mise en service des voies d’apprentissage.  
-- La mise en service des chemins d’apprentissage doit être un propriétaire de collection de sites du catalogue d’applications client. Si la personne chargée de la mise en service des chemins d’apprentissage n’est pas un propriétaire de collection de sites du catalogue d’applications, [suivez ces instructions](addappadmin.md) et continuez. 
+- Le parcours d’apprentissage de mise en service des personnes doit être un administrateur client du client dans lequel le parcours d’apprentissage sera provisioné.  
+- Un catalogue d’applications client doit être disponible dans l’option Applications du Centre d’administration SharePoint. Si votre organisation n’a pas de catalogue d’applications client SharePoint, reportez-vous à la [documentation SharePoint Online](/sharepoint/use-app-catalog) pour en créer un. Vous devez patienter au moins deux heures après la création du catalogue d’applications avant de mettre en service le parcours d’apprentissage.  
+- Le parcours d’apprentissage de mise en service des personnes doit être propriétaire de la collection de sites du catalogue d’applications client. Si le parcours d’apprentissage de mise en service de la personne n’est pas propriétaire de collection de sites du catalogue d’applications, complétent ces [instructions](addappadmin.md) et poursuivez. 
 
-## <a name="ensure-the-tenant-admin-account-doesnt-have-a-language-selected"></a>Vérifier que la langue du compte d’administrateur client n’est pas sélectionnée
-Avant de mettre en service les voies de formation, vérifiez que la langue sélectionnée pour le compte administrateur du client n’est pas sélectionnée. Voici comment vérifier si une langue n’a pas été sélectionnée pour le compte administrateur. 
-1.  Avec votre profil d’administrateur Edge, accédez à office.com.
-2.  Entrez les informations d’identification de l’utilisateur (le cas échéant).
-3.  Dans Microsoft 365, cliquez sur **toutes les applications** > Delve. 
-4.  Cliquez **sur**  >  **mettre à jour le profil**.
-5.  Faites défiler la page vers le bas et cliquez sur **Comment modifier les paramètres régionaux et linguistiques**.
-6.  Cliquez **ici**, puis cliquez sur les ellipses **...**.
-7.  Dans **mes langues d’affichage**, **aucune langue n’est sélectionnée**. Si une langue est sélectionnée, désélectionnez-la.
+## <a name="ensure-the-tenant-admin-account-doesnt-have-a-language-selected"></a>S’assurer que le compte d’administrateur client n’a pas de langue sélectionnée
+Avant de fournir le parcours d’apprentissage, assurez-vous que le compte d’administrateur du client n’a pas de langue sélectionnée. Voici comment vérifier si une langue n’est pas sélectionnée pour le compte Administrateur. 
+1.  Avec votre profil d’administrateur Edge, office.com.
+2.  Entrez les informations d’identification de l’utilisateur (si nécessaire).
+3.  Dans Microsoft 365, cliquez sur **Toutes les applications >** Delve. 
+4.  Cliquez **sur Moi mettre** à jour le  >  **profil**.
+5.  Faites défiler la page vers le bas et cliquez sur **Comment puis-je modifier la langue et les paramètres régionaux**.
+6.  Cliquez **ici,** puis cliquez sur les ellipses... . 
+7.  Sous **Mes langues d’affichage,** aucune langue n’est **sélectionnée.** Si une langue est sélectionnée, désélectionne-la.
 
-### <a name="to-provision-learning-pathways"></a>Pour mettre en service des chemins d’apprentissage
+### <a name="to-provision-learning-pathways"></a>Pour mettre en service le parcours d’apprentissage
 
-1. Accédez à la [page des solutions de formation Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
-2. Cliquez sur **Ajouter à votre client**. Si vous n’êtes pas connecté à votre client, le service de mise en service vous demandera vos informations d’identification d’administrateur client. 
-3. Dans la boîte de dialogue autorisations demandées, sélectionnez **consentement au nom de votre organisation** , puis sélectionnez **accepter**.
+1. Go to the [Microsoft 365 learning pathways solution page](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
+2. Cliquez **sur Ajouter à votre client.** Si vous n’êtes pas connexion à votre client, le service d’approvisionnement vous demandera vos informations d’identification d’administrateur client. 
+3. Dans la boîte de dialogue Autorisations demandées, sélectionnez **Consentement** au nom de votre organisation, puis **sélectionnez Accepter.**
 
-Le service de carnet d’adresses nécessite ces autorisations pour créer le catalogue d’applications client, installer l’application dans le catalogue d’applications client et approvisionner le modèle de site. Il n’y a aucun impact global sur votre client. Ces autorisations sont utilisées de manière explicite pour l’installation de la solution. Vous devez accepter ces autorisations pour poursuivre l’installation.
+Le service de carnet d’applications requiert ces autorisations pour créer le catalogue d’applications client, installer l’application dans le catalogue d’applications client et mettre en service le modèle de site. Il n’y a pas d’impact global sur votre client. Ces autorisations sont explicitement utilisées dans le but de l’installation de la solution. Vous devez accepter ces autorisations pour poursuivre l’installation.
 
 4. Renseignez les champs de la page informations de configuration en fonction de votre installation. Au minimum, entrez l’adresse de messagerie à laquelle vous voulez recevoir des notifications sur le processus de mise en service et l’URL de destination de votre site.  
 > [!NOTE]
@@ -50,65 +50,65 @@ Le service de carnet d’adresses nécessite ces autorisations pour créer le ca
 
 ![inst_options.png](media/inst_options.png)
 
-6. Cliquez sur **mettre en service** lorsque vous êtes prêt à installer les voies de formation dans votre environnement de client.  Le processus de mise en service peut prendre jusqu’à 15 minutes. Vous recevez une notification par courrier électronique lorsque le site est prêt. 
+6. Cliquez sur **Provision** lorsque vous êtes prêt à installer les parcours d’apprentissage dans votre environnement client.  Le processus de mise en service peut prendre jusqu’à 15 minutes. Vous recevez une notification par courrier électronique lorsque le site est prêt. 
 
 > [!IMPORTANT]
-> L’administrateur client qui met en service le site des voies d’apprentissage doit accéder au site, puis ouvrir **CustomLearningAdmin. aspx** pour initialiser les propriétés d’administration des voies d’apprentissage. Pour l’instant, l’administrateur client doit également affecter des propriétaires au site. 
+> L’administrateur client qui propose le site du parcours d’apprentissage doit se rendre sur le site, puis ouvrir **CustomLearningAdmin.aspx** pour initialiser les propriétés d’administration du parcours d’apprentissage. Pour le moment, l’administrateur client doit également affecter des propriétaires au site. 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Valider la réussite de la mise en service et initialiser la liste CustomConfig
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Valider la réussite de l’approvisionnement et initialiser la liste CustomConfig
 
-Lorsque la mise en service est terminée, l’administrateur client qui a configuré le site reçoit un courrier électronique à partir du service de carnet d’adresses. Le courrier électronique contient un lien vers le site. À ce stade, l’administrateur client doit accéder au site en utilisant le lien fourni dans le message électronique et configurer le site pour la première utilisation :
+Une fois la mise en service terminée, l’administrateur client qui a provisioné le site reçoit un courrier électronique du service de carnet d’adresses. Le message électronique contient un lien vers le site. À ce stade, l’administrateur client doit se rendre sur le site à l’aide du lien fourni dans le courrier électronique et configurer le site pour la première utilisation :
 
-- Accédez à `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. L’ouverture de **CustomLearningAdmin.aspx** initialise l'élément de liste **CustomConfig** qui configure le parcours d’apprentissage pour la première utilisation. Vous devriez voir une page semblable à celle-ci :
+- Accédez à `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. L’ouverture de **CustomLearningAdmin.aspx** initialise l'élément de liste **CustomConfig** qui configure le parcours d’apprentissage pour la première utilisation. Vous devriez voir une page qui ressemble à ceci :
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Ajouter des propriétaires au site
-En tant qu’administrateur client, il est peu probable que vous soyez la personne qui personnalise le site ; vous devrez donc affecter quelques propriétaires au site. Les propriétaires disposent de privilèges d’administrateur sur le site afin qu’ils puissent modifier les pages du site et repersonnaliser le site. Ils ont également la possibilité de masquer et d’afficher du contenu et de créer une playlist et des sous-catégories personnalisées.  
+En tant qu’administrateur client, il est peu probable que vous soyez la personne qui personnalisant le site, vous devrez donc affecter quelques propriétaires au site. Les propriétaires ont des privilèges d’administration sur le site pour pouvoir modifier les pages du site et renommer le site. Ils ont également la possibilité de masquer et d’afficher du contenu et de créer des playlists et sous-catégories personnalisées.  
 
-1. Dans le menu **paramètres** SharePoint, cliquez sur **autorisations de site**.
-2. Cliquez sur **paramètres d’autorisation avancés**.
-3. Cliquez sur **propriétaires de voies d’apprentissage Microsoft 365**.
-4. Cliquez sur **nouveau**  >  **Ajouter des utilisateurs à ce groupe**, puis ajoutez les personnes que vous souhaitez être propriétaires. 
-5. Ajoutez un lien pour [Explorer le site](custom_exploresite.md) dans le message de partage, puis cliquez sur **partager**.
+1. Dans le menu **Paramètres** SharePoint, cliquez sur **Autorisations de site.**
+2. Cliquez **sur Paramètres d’autorisation avancés.**
+3. Cliquez **sur Propriétaires du parcours d’apprentissage Microsoft 365.**
+4. Cliquez **sur**  >  **Ajouter des utilisateurs à ce groupe,** puis ajoutez les personnes que vous souhaitez être propriétaires. 
+5. Ajoutez un lien [vers Explorer le site](custom_exploresite.md) dans le message de partage, puis cliquez sur **Partager.**
 
 ## <a name="add-translators-to-the-site"></a>Ajouter des traducteurs au site
-Si vous utilisez des traducteurs pour le site, vous pouvez leur attribuer des autorisations. Les traducteurs nécessitent des autorisations de membre ou une version ultérieure. 
+Si vous utilisez des traducteurs pour le site, vous pouvez leur attribuer des autorisations. Les traducteurs requièrent des autorisations de membre ou des autorisations supérieures. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Choisir les options d’utilisation de plusieurs langues sur le site
-Le service de carnet d’adresses SharePoint crée le site des voies d’apprentissage dans neuf langues. Les recommandations suivantes s’appliquent :
-- Désactiver les langues que vous ne voulez pas prendre en charge
-- Si vous ne prenez pas en charge un site multilingue, désactivez la fonctionnalité multilingue. Consultez la section « désactiver la prise en charge multilingue » plus loin dans cette rubrique.
+Le service de carnet d’informations SharePoint crée le site Parcours d’apprentissage dans neuf langues. Les recommandations suivantes s’appliquent :
+- Désactiver les langues que vous ne souhaitez pas prendre en charge
+- Si vous ne prisez pas en charge un site multilingue, désactiver la fonctionnalité multilingue. Consultez la section « Désactiver la prise en charge multilingue » plus loin dans cette rubrique.
 
-### <a name="remove-languages-you-dont-want-to-support"></a>Supprimer les langues que vous ne voulez pas prendre en charge
-Pour les organisations qui choisissent de prendre en charge une seule langue, en plus de la langue anglaise par défaut, nous vous recommandons de supprimer les langues qui ne sont pas prises en charge. 
-1. Sur le site des voies d’apprentissage, sélectionnez les **paramètres** dans la partie supérieure droite de la page, puis sélectionnez **informations sur le site**.
-2. En bas du volet informations sur le site, sélectionnez **Afficher tous les paramètres du site**.
-3. Sous **administration du site**, sélectionnez **paramètres de langue**.
-4. Sous **activer la traduction des pages et des informations en plusieurs langues**, faites glisser le bouton bascule **sur activé**. Il doit être activé par défaut.
-5. Sous ajouter ou supprimer des langues de site, cliquez sur **supprimer** pour supprimer les langues dont vous n’avez pas besoin pour le site. Voici un exemple de la page Paramètres de langue pour afficher l’italien pris en charge pour le site, en plus de la langue par défaut en anglais.
+### <a name="remove-languages-you-dont-want-to-support"></a>Supprimer les langues que vous ne souhaitez pas prendre en charge
+Pour les organisations qui choisissent de prendre en charge une seule langue, en plus de la langue anglaise par défaut, nous vous recommandons de supprimer les langues qui ne sont pas pris en charge. 
+1. Dans le site Parcours d’apprentissage, sélectionnez **Paramètres** dans le haut à droite de la page, puis sélectionnez **Informations sur le site.**
+2. En bas du volet d’informations du site, sélectionnez **Afficher tous les paramètres du site.**
+3. Sous **Administration du site,** sélectionnez **Paramètres de langue.**
+4. Under **Enable pages and news to be translated into multiple languages**, slide the toggle to **On**. Il doit être sur par défaut.
+5. Sous Ajouter ou supprimer des langues de site, cliquez sur **Supprimer** pour supprimer les langues dont vous n’avez pas besoin pour le site. L’exemple suivant montre un exemple de la page Paramètres de langue pour afficher l’italien pris en charge pour le site, en plus de la langue anglaise par défaut.
 
 ![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
-> Lors de la suppression des langues, vous ne pouvez pas supprimer la langue par défaut de l’anglais. 
+> Lorsque vous supprimez des langues, vous ne pouvez pas supprimer l’anglais par défaut. 
 
 ### <a name="assign-translators"></a>Affecter des traducteurs
-Si vous envisagez de traduire des pages, affectez éventuellement un ou plusieurs traducteurs pour chaque langue (à l’exception de la langue par défaut du site). 
-- Dans la colonne **traducteur** , commencez à taper le nom d’une personne comme traducteur, puis sélectionnez le nom dans la liste. 
+Si vous souhaitez traduire des pages, vous pouvez éventuellement affecter un ou plusieurs traducteurs pour chaque langue (à l’exception de la langue par défaut du site). 
+- Dans la **colonne Traducteur,** commencez à taper le nom d’une personne que vous souhaitez être traducteur, puis sélectionnez le nom dans la liste. 
 
 > [!NOTE]
-> Tous les utilisateurs de l’annuaire Active Directory de votre organisation peuvent être affectés en tant que traducteur. Les personnes affectées en tant que traducteurs ne reçoivent pas automatiquement les autorisations appropriées. Quand un utilisateur sans autorisation de modification sur un site tente d’accéder au site, il est dirigé vers une page Web où il peut demander l’accès.
+> N’importe qui dans Active Directory de votre organisation peut être affecté en tant que traducteur. Les personnes affectées en tant que traducteurs ne se voit pas automatiquement attribuer les autorisations appropriées. Lorsqu’une personne sans autorisation de modification sur un site tente d’accéder au site, elle est dirigé vers une page web où elle peut demander l’accès.
 
 ## <a name="turn-off-multilingual-support"></a>Désactiver la prise en charge multilingue
-Si vous ne souhaitez pas un site multilingue, par exemple, si vous souhaitez un site en anglais uniquement, il est recommandé de désactiver la fonctionnalité multilingue. 
+Si vous ne souhaitez pas de site multilingue, par exemple, vous souhaitez un site en anglais uniquement, il est recommandé de désactiver la fonctionnalité multilingue. 
 
-1. Sur le site des voies d’apprentissage, sélectionnez les **paramètres** dans la partie supérieure droite de la page, puis sélectionnez **informations sur le site**.
-2. En bas du volet informations sur le site, sélectionnez **Afficher tous les paramètres du site**.
-3. Sous **administration du site**, sélectionnez **paramètres de langue**.
-4. Sous **activer la traduction des pages et des informations en plusieurs langues**, faites glisser le bouton bascule **sur activé**. Il doit être activé par défaut.
-- Sous **activer la traduction des pages et des news**, sélectionnez **désactivé**. 
+1. Dans le site Parcours d’apprentissage, sélectionnez **Paramètres** dans le haut à droite de la page, puis sélectionnez **Informations sur le site.**
+2. En bas du volet d’informations du site, sélectionnez **Afficher tous les paramètres du site.**
+3. Sous **Administration du site,** sélectionnez **Paramètres de langue.**
+4. Under **Enable pages and news to be translated into multiple languages**, slide the toggle to **On**. Il doit être sur par défaut.
+- Sous **Activer les pages et les actualités à traduire,** sélectionnez **Off**. 
 
 ### <a name="add-languages"></a>Ajouter des langues
-Les voies d’apprentissage prennent en charge 9 langues, mais il est recommandé d’ajouter uniquement les langues que vous devez prendre en charge pour le site des voies d’apprentissage. Vous pouvez ajouter langues à tout moment. 
-- Sous **Ajouter ou supprimer des langues de site**, commencez à taper un nom de langue dans **Sélectionner ou tapez une langue**, ou choisissez une langue dans la liste déroulante. Vous pouvez répéter cette étape pour ajouter plusieurs langues. Vous pouvez ajouter ou supprimer des langues de votre site à tout moment en revenant à cette page.
+Le parcours d’apprentissage prend en charge 9 langues, mais il est recommandé d’ajouter uniquement les langues dont vous avez besoin pour le site de parcours d’apprentissage. Vous pouvez ajouter des langauges à tout moment. 
+- Sous **Ajouter ou supprimer des langues de site,** commencez à taper un nom de langue dans Sélectionner ou **taper** une langue, ou choisissez une langue dans ladown. Vous pouvez répéter cette étape pour ajouter plusieurs langues. Vous pouvez ajouter ou supprimer des langues de votre site à tout moment en revenir à cette page.
