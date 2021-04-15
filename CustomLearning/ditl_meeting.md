@@ -1,17 +1,19 @@
 ---
-title: Jour de la vie avec Office 365 réunion au bureau
-description: Étapes rapides pour être prêt pour la journée en main avec Office 365
+title: Jour dans la vie avec Office 365 - Réunion au bureau
+description: Quelques conseils pour vous aider à être prêt pour votre journée de travail dans Office 365
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 426e675aa73d91ed82c09a7fca4dcc0053f4c821
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233636"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749372"
 ---
 # <a name="meeting-at-the-office"></a>Réunion chez Office
 

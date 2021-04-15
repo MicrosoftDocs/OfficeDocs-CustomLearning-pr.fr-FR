@@ -1,23 +1,25 @@
 ---
-title: Jour de la vie avec Office 365-collaboration avec des collègues
-description: Étapes rapides pour être prêt pour la journée en main avec Office 365
+title: Jour de la vie avec Office 365 - Collaborer avec des collègues
+description: Préparez-vous pour la journée à venir avec Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 029901ea81be9b649ee9e928591b929f8e1f462e
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: alexb
+audience: itpro
+ms.service: sharepoint-online
+ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233716"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749362"
 ---
 # <a name="collaborating-with-colleagues"></a>Collaborer avec des collègues
 
 ![Commutation visuelle](media/ditl_collab.png)
 
-Il est 14h00 et le temps de collaborer avec vos collègues. Office 365 offre les opportunités les plus performantes en matière de collaboration, ce qui permet aux équipes de collaborer de plusieurs manières. 
+Il est 14h00 et le temps de collaborer avec vos collègues. Office 365 offre des opportunités de collaboration de premier niveau, permettant aux équipes de collaborer de plusieurs manières. 
 
 ## <a name="tools"></a>Outils
 - Microsoft Teams
@@ -28,12 +30,12 @@ Il est 14h00 et le temps de collaborer avec vos collègues. Office 365 offre le
 ## <a name="checklist-for-collaborating-with-colleagues"></a>Liste de contrôle pour collaborer avec des collègues
 - Créer ou rejoindre une équipe Microsoft pour collaborer
 - Créer et partager des fichiers à partir de OneDrive 
-- Co-créer dans Office 365 
+- Cocréer dans Office 365 
 - Utiliser le pièces jointes dans le cloud :
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>Créer ou rejoindre une équipe Microsoft pour la collaboration
 
-Microsoft Teams et les canaux sont des emplacements où les utilisateurs peuvent collaborer en partageant des fichiers, en suivi des éléments d’action d’équipe et bien plus encore. Chaque Microsoft Teams a une intégration à un site SharePoint, un bloc-notes OneNote et d’autres ressources. Ce service Office 365 est idéal pour les personnes qui travaillent fréquemment ensemble sur des projets partagés ou des résultats. 
+Microsoft Teams et les canaux sont des emplacements où les utilisateurs peuvent collaborer en partageant des fichiers, en suivi des éléments d’action d’équipe et bien plus encore. Chaque Microsoft Teams est intégré à un site SharePoint, à un bloc-notes OneNote et à d’autres ressources. Ce service Office 365 est idéal pour les personnes qui travaillent fréquemment ensemble sur des projets partagés ou des résultats. 
 
 ## <a name="share-files-from-your-onedrive"></a>Partager des fichiers à partir de votre OneDrive
 Les fichiers enregistrés sur OneDrive Entreprise peuvent être partagés avec tout le monde à partir du navigateur ou des applications de bureau Office 365 telles que Word ou Excel. Il est possible de partager avec des personnes à l’aide de leur nom, alias ou adresse de messagerie d’entreprise. 
