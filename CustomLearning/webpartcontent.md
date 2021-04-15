@@ -1,24 +1,41 @@
-# <a name="webpart-default-content"></a><span data-ttu-id="9c515-101">Contenu par défaut du composant WebPart</span><span class="sxs-lookup"><span data-stu-id="9c515-101">Webpart Default Content</span></span>
+---
+author: karuanag
+ms.author: pkrebs
+title: Contenu webpart par défaut
+ms.date: 08/21/2018
+manager: alexb
+ms.service: o365-solutions
+audience: itpro
+description: Fonctionnement du modèle de sélection
+ms.topic: article
+ms.openlocfilehash: 42962414b3fba8df857ae1ae68985ea7970ee991
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749452"
+---
+# <a name="webpart-default-content"></a><span data-ttu-id="779c6-103">Contenu webpart par défaut</span><span class="sxs-lookup"><span data-stu-id="779c6-103">Webpart default content</span></span>
 
-## <a name="the-playlist-model"></a><span data-ttu-id="9c515-102">Modèle de la playlist</span><span class="sxs-lookup"><span data-stu-id="9c515-102">The Playlist Model</span></span>
+## <a name="the-playlist-model"></a><span data-ttu-id="779c6-104">Le modèle de playlist</span><span class="sxs-lookup"><span data-stu-id="779c6-104">The Playlist Model</span></span>
 
-<span data-ttu-id="9c515-103">Notre composant WebPart utilise un modèle de playlist familier pour organiser le contenu.</span><span class="sxs-lookup"><span data-stu-id="9c515-103">Our webpart uses a familiar playlist model to organize the content.</span></span>  <span data-ttu-id="9c515-104">Ce modèle est simple pour les utilisateurs finals à comprendre et à personnaliser si vous le souhaitez.</span><span class="sxs-lookup"><span data-stu-id="9c515-104">This model is simple for your end users to understand and for you to customize should you choose to.</span></span>  <span data-ttu-id="9c515-105">La personnalisation n'est pas obligatoire.</span><span class="sxs-lookup"><span data-stu-id="9c515-105">Customization is not required.</span></span>  <span data-ttu-id="9c515-106">Notre expérience out-of-Box vous fournit un contenu de formation efficace basé sur notre recherche approfondie.</span><span class="sxs-lookup"><span data-stu-id="9c515-106">Our out of the box experience provides you with effective training content based on our extensive research.</span></span>
+<span data-ttu-id="779c6-105">Notre webpart utilise un modèle de playlist familier pour organiser le contenu.</span><span class="sxs-lookup"><span data-stu-id="779c6-105">Our webpart uses a familiar playlist model to organize the content.</span></span>  <span data-ttu-id="779c6-106">Ce modèle est facile à comprendre pour vos utilisateurs finaux et à personnaliser si vous le souhaitez.</span><span class="sxs-lookup"><span data-stu-id="779c6-106">This model is simple for your end users to understand and for you to customize should you choose to.</span></span>  <span data-ttu-id="779c6-107">La personnalisation n’est pas requise.</span><span class="sxs-lookup"><span data-stu-id="779c6-107">Customization is not required.</span></span>  <span data-ttu-id="779c6-108">Notre expérience out-of-the-box vous fournit un contenu de formation efficace basé sur nos recherches approfondies.</span><span class="sxs-lookup"><span data-stu-id="779c6-108">Our out of the box experience provides you with effective training content based on our extensive research.</span></span>
 
-<span data-ttu-id="9c515-107">Ces playlists sont conçues pour aider les organisations à personnaliser l'expérience d'apprentissage pour les utilisateurs et à les présenter avec des playlists faciles à utiliser pour les animer et les comportements plus productifs.</span><span class="sxs-lookup"><span data-stu-id="9c515-107">These playlists are designed to help organizations tailor the learning experience for users and present them with easy-to-consume playlists to teach them new, and more productive behaviors.</span></span> <span data-ttu-id="9c515-108">Le contenu de serve de Support.Office.com et les biens sont courts et doux, avec Peppy, attirant des vidéos.</span><span class="sxs-lookup"><span data-stu-id="9c515-108">The serve content from Support.Office.com, and the assets are short and sweet, with peppy, engaging videos.</span></span> 
+<span data-ttu-id="779c6-109">Ces playlists sont conçues pour aider les organisations à personnaliser l’expérience d’apprentissage pour les utilisateurs et à leur présenter des playlists faciles à utiliser pour leur apprendre de nouveaux comportements et des comportements plus productifs.</span><span class="sxs-lookup"><span data-stu-id="779c6-109">These playlists are designed to help organizations tailor the learning experience for users and present them with easy-to-consume playlists to teach them new, and more productive behaviors.</span></span> <span data-ttu-id="779c6-110">Le contenu de la Support.Office.com et les ressources sont courtes et agréables, avec des vidéos attrayantes et attrayantes.</span><span class="sxs-lookup"><span data-stu-id="779c6-110">The serve content from Support.Office.com, and the assets are short and sweet, with peppy, engaging videos.</span></span> 
 
-<span data-ttu-id="9c515-109">Chaque vignette représente une sélection individuelle ou une catégorie de contenu.</span><span class="sxs-lookup"><span data-stu-id="9c515-109">Each tile represents either an individual featured playlist or a content category.</span></span> <span data-ttu-id="9c515-110">Le fait de cliquer sur une sélection ou une vignette de catégorie permet de naviguer rapidement dans la zone sélectionnée.</span><span class="sxs-lookup"><span data-stu-id="9c515-110">Clicking on any playlist or category tile quickly navigates the user into the selected area.</span></span> <span data-ttu-id="9c515-111">Le graphique ci-dessous présente les deux listes en vedette sous «liste de sélection de prise en main» et les catégories d'applications Office 365 telles que Excel, Microsoft teams et autres.</span><span class="sxs-lookup"><span data-stu-id="9c515-111">The graphic below shows both featured lists under "Get Started Playlist" and Office 365 App categories like Excel, Microsoft Teams and others.</span></span> 
+<span data-ttu-id="779c6-111">Chaque vignette représente soit une playlist individuelle, soit une catégorie de contenu.</span><span class="sxs-lookup"><span data-stu-id="779c6-111">Each tile represents either an individual featured playlist or a content category.</span></span> <span data-ttu-id="779c6-112">Un clic sur une playlist ou une vignette de catégorie permet à l’utilisateur d’accéder rapidement à la zone sélectionnée.</span><span class="sxs-lookup"><span data-stu-id="779c6-112">Clicking on any playlist or category tile quickly navigates the user into the selected area.</span></span> <span data-ttu-id="779c6-113">Le graphique ci-dessous présente les deux listes sous « Playlist de mise en place » et les catégories d’applications Office 365 telles qu’Excel, Microsoft Teams et autres.</span><span class="sxs-lookup"><span data-stu-id="779c6-113">The graphic below shows both featured lists under "Get Started Playlist" and Office 365 App categories like Excel, Microsoft Teams and others.</span></span> 
 
-![Vue par défaut du composant WebPart](media/clo365addwebpart.png)
+![Affichage webpart par défaut](media/clo365addwebpart.png)
 
-<span data-ttu-id="9c515-113">Si vous cliquez sur la catégorie Excel, l'instance se déplace vers une collection de playlists.</span><span class="sxs-lookup"><span data-stu-id="9c515-113">Clicking the Excel category for instance navigates them to a collection of playlists.</span></span>  <span data-ttu-id="9c515-114">Ils peuvent suivre le contenu dans l'ordre ou sélectionner les centres d'intérêt en fonction de leurs besoins de formation.</span><span class="sxs-lookup"><span data-stu-id="9c515-114">They can watch content in order or select what interests them based on their learning needs.</span></span> 
+<span data-ttu-id="779c6-115">Un clic sur la catégorie Excel par exemple les permet d’accéder à une collection de playlists.</span><span class="sxs-lookup"><span data-stu-id="779c6-115">Clicking the Excel category for instance navigates them to a collection of playlists.</span></span>  <span data-ttu-id="779c6-116">Ils peuvent regarder du contenu dans l’ordre ou sélectionner ce qui les intéresse en fonction de leurs besoins d’apprentissage.</span><span class="sxs-lookup"><span data-stu-id="779c6-116">They can watch content in order or select what interests them based on their learning needs.</span></span> 
 
-![Liste de WebPart](media/clo365exceltraining.png)
+![Webpart Playlist](media/clo365exceltraining.png)
 
-<span data-ttu-id="9c515-116">Vue de playlist sélectionnée</span><span class="sxs-lookup"><span data-stu-id="9c515-116">Selected playlist view</span></span>
+<span data-ttu-id="779c6-118">Affichage de la playlist sélectionnée</span><span class="sxs-lookup"><span data-stu-id="779c6-118">Selected playlist view</span></span>
 
-![Playlist Excel](media/clo365excelplaylist.png)
+![Excel Playlist](media/clo365excelplaylist.png)
 
-## <a name="next-steps"></a><span data-ttu-id="9c515-118">Étapes suivantes</span><span class="sxs-lookup"><span data-stu-id="9c515-118">Next Steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="779c6-120">Étapes suivantes</span><span class="sxs-lookup"><span data-stu-id="779c6-120">Next Steps</span></span>
 
-- <span data-ttu-id="9c515-119">Parcourir et se familiariser avec le contenu existant</span><span class="sxs-lookup"><span data-stu-id="9c515-119">Browse and familiarize yourself with the existing content</span></span>
-- <span data-ttu-id="9c515-120">Procéder à la [personnalisation](customplaylists.md) des sélections</span><span class="sxs-lookup"><span data-stu-id="9c515-120">Proceed to [customize playlists](customplaylists.md)</span></span>
+- <span data-ttu-id="779c6-121">Parcourir et vous familiariser avec le contenu existant</span><span class="sxs-lookup"><span data-stu-id="779c6-121">Browse and familiarize yourself with the existing content</span></span>
+- <span data-ttu-id="779c6-122">Masquer et afficher les playlists [personnalisées](custom_hideshowplaylists.md)</span><span class="sxs-lookup"><span data-stu-id="779c6-122">Hide and show Playlists [customize playlists](custom_hideshowplaylists.md)</span></span>
