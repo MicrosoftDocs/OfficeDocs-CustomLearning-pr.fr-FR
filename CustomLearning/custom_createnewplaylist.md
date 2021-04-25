@@ -1,43 +1,43 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Créer de nouvelles sélections
+title: Créer des playlists
 ms.date: 02/18/2019
-description: Procédure de création de nouvelles sélections
-ms.service: sharepoint online
-ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Comment créer des playlists
+ms.service: sharepoint-online
+ms.openlocfilehash: aa526826414f3dd5b3c4b8d9daca7de1d62a1864
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234526"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999140"
 ---
 # <a name="create-a-custom-playlist"></a>Créer une playlist personnalisée
 
-Les voies d’apprentissage de Microsoft 365 vous permettent de créer des listes de lecture personnalisées, adaptées aux besoins uniques de votre organisation. Par exemple, créez une liste de sélection pour intégrer de nouvelles personnes à Microsoft Teams. Ou créez des listes de lecture pour les administrateurs exécutifs avec des informations adaptées à leur rôle unique. Ou créez un premier jour pour la liste de lecture Microsoft 365 qui comporte trois étapes simples au lieu de six. Vous pouvez ajouter une playlist personnalisée à n’importe quelle sous-catégorie. Par exemple, **premiers jours**, une sous-catégorie de **produits** comme **Excel**, ou même une sous-catégorie que vous créez. Dans cette section, nous allons expliquer comment créer une sélection, puis ajouter des ressources à une playlist dans la section suivante, ajouter des [ressources à une playlist personnalisée](custom_addassets.md).
+Avec le parcours d'apprentissage de Microsoft 365, vous pouvez créer des playlists personnalisées à partir de zéro, adaptées aux besoins uniques de votre organisation. Par exemple, créez une playlist pour intégrer de nouveaux employés à Microsoft Teams. Vous pouvez également créer des playlists pour les administrateurs exécutifs avec des informations adaptées à leur rôle unique. Vous pouvez également créer une playlist First Day pour Microsoft 365 qui propose trois étapes simples au lieu de six. Vous pouvez ajouter une playlist personnalisée à n'importe quelle sous-catégorie. Par exemple, **First Days**, une sous-catégorie **Product** comme **Excel,** ou même une sous-catégorie que vous créez. Dans cette section, nous allons apprendre à créer une playlist, puis à ajouter des ressources à une playlist dans la section suivante, Ajouter des ressources à une playlist [personnalisée.](custom_addassets.md)
 
 ## <a name="create-a-playlist"></a>Créer une playlist 
 
-1. À partir de la page d' **Accueil** des chemins d’apprentissage Microsoft 365, cliquez sur **formation Office 365**, puis sélectionnez l’icône **administrer** dans le composant WebPart. 
-2. Sélectionnez la sous-catégorie **administrer**« Icon ». Dans cet exemple, sélectionnez **First Days**.  
-3. Cliquez sur l’icône +.  
+1. Dans la **page** d'accueil du parcours d'apprentissage Microsoft 365,  cliquez sur **Formation Office 365,** puis sélectionnez l'icône Administrer dans le volet Web. 
+2. Sélectionnez **la sous-catégorie** d'icône Administrer . Dans cet exemple, sélectionnez **First Days**.  
+3. Cliquez sur l'icône +.  
 
 ![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
-4.  Renseignez les champs de la liste de lecture comme indiqué dans l’exemple suivant. Vous pouvez laisser l’icône par défaut pour cet exemple. 
+4.  Remplissez les champs de la playlist comme illustré dans l'exemple suivant. Vous pouvez laisser l'icône par défaut pour cet exemple. 
 
 ![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
-5.  Lorsque vous avez fini, sélectionnez **enregistrer les détails**. 
+5.  Lorsque vous avez terminé, sélectionnez **Enregistrer les détails.** 
 
 ## <a name="edit-a-playlist"></a>Modifier une playlist
 
-- Dans la page Administration de l' **apprentissage personnalisée** , cliquez sur la sélection, puis sur **modifier le détail**.  
+- Dans la page **Administration de l'apprentissage personnalisé,** cliquez sur la playlist, puis cliquez **sur Modifier les détails.**  
 
 ![cg-editplaylist.png](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Supprimer une playlist
 
-- Dans la page Administration de formation personnalisée, cliquez sur l’icône de **suppression** de la playlist.  
+- Dans la page Administration de l'apprentissage personnalisé, cliquez sur **l'icône Supprimer** de la playlist.  
 
 ![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

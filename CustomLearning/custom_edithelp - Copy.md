@@ -1,49 +1,49 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Personnaliser le site des voies d’apprentissage
+title: Personnaliser le site du parcours d'apprentissage
 ms.date: 02/15/2019
-description: En savoir plus sur les différentes personnalisations disponibles avec les voies d’apprentissage Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: En savoir plus sur la variété des personnalisations disponibles avec le parcours d'apprentissage de Microsoft 365
+ms.service: sharepoint-online
+ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234496"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000280"
 ---
 # <a name="customize-the-site"></a>Personnaliser la site
 
-Le site des chemins d’apprentissage Microsoft 365 est basé sur un modèle de communication SharePoint, c’est pourquoi il est facile de modifier le site afin de répondre aux besoins de votre organisation. Vous pouvez modifier le nom du site, le logo, les éléments de menu et le contenu des pages. 
+Le site du parcours d'apprentissage Microsoft 365 est basé sur un modèle de communication SharePoint. Il est donc facile de modifier le site pour répondre aux besoins de votre organisation. Vous pouvez modifier le nom du site, le logo, les éléments de menu et le contenu des pages. 
 
 > [!TIP]
-> Recueillez les commentaires de vos employés et mettez régulièrement à jour le site. Par exemple, vous pouvez mettre à jour le calendrier des événements de formation au fur et à mesure que de nouveaux événements deviennent disponibles. Lors du lancement de nouveaux services, vous pouvez afficher le contenu et créer des playlists de formation ciblées conçues pour le lancement des nouveaux services. 
+> Recueillez les commentaires de vos employés et mettez régulièrement à jour le site. Par exemple, vous pouvez mettre à jour le calendrier des événements de formation dès que de nouveaux événements sont disponibles. Lorsque vous lancez de nouveaux services, vous pouvez démaser du contenu et créer des playlists de formation ciblées conçues pour le lancement des nouveaux services. 
 
-## <a name="customize-the-site-and-web-pages"></a>Personnaliser le site et les pages Web
+## <a name="customize-the-site-and-web-pages"></a>Personnaliser le site et les pages web
 
-Le site des voies d’apprentissage est entièrement personnalisable. Si vous n’êtes pas familiarisé avec la procédure de personnalisation de votre site SharePoint ou de vos pages Web, nous vous suggérons de consulter l’article [personnaliser votre site SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) sur support.Office.com. 
+Le site du parcours d'apprentissage est entièrement personnalisable. Si vous n'êtes pas familiarisé avec la personnalisation de votre site SharePoint ou de vos pages web, nous vous suggérons de consulter l'article Personnaliser votre [site SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) sur support.office.com. 
 
-### <a name="customize-ask-questions-and-get-help"></a>Personnaliser poser des questions et obtenir de l’aide
+### <a name="customize-ask-questions-and-get-help"></a>Personnaliser les questions posées et obtenir de l'aide
 
-En tant qu’administrateur du site des voies d’apprentissage, l’une des choses que vous devez faire est de modifier les liens de la page obtenir de l' **aide et du support** pour qu’ils pointent vers les ressources de votre organisation. 
+En tant qu'administrateur du site du parcours d'apprentissage, vous pouvez modifier les liens de la **page** Obtenir de l'aide et du support pour qu'ils pointent vers les ressources de votre organisation. 
 
-1.  Sur la page d’accueil des voies d’apprentissage, cliquez sur l’élément de menu **poser des questions et obtenir de l’aide** .
+1.  Dans la page d'accueil du parcours d'apprentissage, cliquez sur **Poser des questions et obtenez un** élément de menu d'aide.
 2.  Cliquez sur le bouton **Modifier**.
-3.  Placez le curseur de la souris sur une image d’option d’aide, puis cliquez sur **modifier le composant WebPart**.
+3.  Pointez sur une image d'option d'aide, puis cliquez **sur Modifier le volet Web.**
 
 ![cg-edithelp.png](media/cg-edithelp.png)
 
-4.  Dans la zone **lien** , entrez l’URL de la ressource interne. 
+4.  Dans la **zone Lien,** entrez l'URL de la ressource interne. 
 5.  Répétez les étapes 3 et 4 pour les deux autres images qui ne sont pas liées.
 
-### <a name="change-the-text-on-the-page"></a>Modifier le texte de la page
+### <a name="change-the-text-on-the-page"></a>Modifier le texte sur la page
 
-1. Placez le curseur de la souris sur la zone de texte, puis modifiez le texte de la page. 
-2. Cliquez sur le bouton **publier** lorsque vous avez fini
+1. Pointez sur la zone de texte, puis modifiez le texte de la page. 
+2. Cliquez sur **le bouton** Publier lorsque vous avez terminé
 
 ## <a name="other-customization-options"></a>Autres options de personnalisation
-Les autres pages que vous pouvez envisager de modifier sont les suivantes :
+Les autres pages que vous souhaitez peut-être modifier sont les suivantes :
 
-- Événements de formation Calendar. aspx
-- Composant WebPart héros sur Home. aspx
+- Événements de formation calendar.aspx
+- Le site Web Part Hero sur Home.aspx
 

@@ -1,50 +1,50 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Liaison aux ressources des chemins d’apprentissage Microsoft 365
+title: Lien vers les ressources du parcours d'apprentissage Microsoft 365
 ms.date: 02/15/2019
-description: Comment établir un lien vers les éléments des chemins d’apprentissage Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Comment établir un lien avec les ressources du parcours d'apprentissage Microsoft 365
+ms.service: sharepoint-online
+ms.openlocfilehash: ae17cb531ffb66378749e4d96e72a8bb1db03dc3
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234316"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999620"
 ---
 # <a name="link-to-learning-pathways-content"></a>Lien vers du contenu des parcours d’apprentissage
 
-Avec les voies de formation, il existe deux façons de créer un lien vers du contenu :
+Avec les parcours d'apprentissage, il existe deux façons de lier le contenu :
 
-- Lien vers la page qui héberge le composant WebPart filtré pour le contenu que vous souhaitez afficher 
-- Lien direct vers une instance du composant WebPart
+- Lien vers la page qui héberge le partie Web Qui est filtrée pour le contenu que vous voulez afficher 
+- Lien direct vers une instance du partie Web
 
 ## <a name="link-to-a-page"></a>Lien vers une page
 
-Si vous avez créé de nouvelles pages et des expériences d’apprentissage avec le composant WebPart des chemins d’apprentissage Microsoft 365, vous pouvez créer un lien vers la page avec le composant WebPart configuré pour afficher le contenu que vous souhaitez afficher. Dans la section précédente, nous avons abordé le mode d’affichage des sélections Excel sur une page. Vous pouvez maintenant modifier la page d’accueil pour créer un lien vers la page. 
+Si vous avez créé de nouvelles pages et des expériences d'apprentissage avec le volet Web du parcours d'apprentissage Microsoft 365, vous pouvez créer un lien vers la page avec le contenu configuré pour afficher le contenu que vous souhaitez afficher. Dans la section précédente, nous avons abordé l'affichage des playlists Excel sur une page. Vous pouvez désormais modifier la page d'accueil pour l'associer à la page. 
 
-1. À partir de la page d’accueil, cliquez sur **modifier**.
-2. Cliquez sur **modifier les détails** dans l’une des vignettes de page d’accueil. Dans cet exemple, nous modifions les vignettes de **playlists recommandées** .
-3. Sous **lien**, cliquez sur **modifier**.
+1. Dans la page d'accueil, cliquez sur **Modifier.**
+2. Cliquez **sur Modifier les détails** dans l'une des vignettes de la page d'accueil. Dans cet exemple, nous modifions les **vignettes des playlists recommandées.**
+3. Sous **Lien,** cliquez sur **Modifier.**
 
 ![cg-linktopage.png](media/cg-linktopage.png)
 
-4. Cliquez sur **site**, puis sur **pages du site**, cliquez sur la page vers laquelle vous souhaitez créer le lien, puis cliquez sur **ouvrir**. Dans cet exemple, nous créons un lien vers la page **Create-Your-Own-experience. aspx** abordée dans la section précédente.
-5. Fermez le volet des propriétés du héros, cliquez sur **publier**, puis testez le lien. 
+4. Cliquez **sur Site,** puis **sur Pages du** site, cliquez sur la page à l'endroit où vous souhaitez établir un lien, puis cliquez sur **Ouvrir.** Dans cet exemple, nous créons un lien vers la page **Create-your-own-experience.aspx** couverte dans la section précédente.
+5. Fermez le volet des propriétés Hero, cliquez **sur Publier,** puis testez le lien. 
 
-## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Lien vers le composant WebPart des chemins d’apprentissage Microsoft 365
-Les voies pédagogiques vous permettent d’accéder à une instance du composant WebPart, indépendamment de la page qui contient le composant WebPart, à l’administrateur ou à un utilisateur final. Vous pouvez partager le lien copié ou le lier à d’autres pages. Le lien copié, lorsque vous cliquez dessus, présente l’instance du composant WebPart des chemins d’apprentissage Microsoft 365 dans la page CustomLLearningViewer. aspx. Prenons un exemple. 
+## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Lien vers le volet Web du parcours d'apprentissage Microsoft 365
+Le parcours d'apprentissage vous permet, à vous, à l'administrateur ou à un utilisateur final, de créer un lien vers une instance du partie Web, indépendamment de la page qui contient le partie Web. Vous pouvez partager le lien copié ou le lier à partir d'autres pages. Le lien copié, lorsque vous cliquez dessus, affiche l'instance du volet Web du parcours d'apprentissage Microsoft 365 dans la page CustomLLearningViewer.aspx. Prenons un exemple. 
 
-1. À partir de la page d’accueil, cliquez sur **formation Microsoft365**.
-2. Cliquez sur **Microsoft teams**, puis sur **Introduction à Microsoft teams**.
-3. Cliquez sur l’icône **copier** .
+1. Dans la page d'accueil, cliquez **sur Formation Microsoft365.**
+2. Cliquez **sur Microsoft Teams,** puis sur Introduction **à Microsoft Teams.**
+3. Cliquez sur **l'icône** Copier.
 
 ![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
-4. Cliquez sur Accueil dans le menu site des chemins d’apprentissage Microsoft 365.
-5. Collez l’URL copiée dans la barre d’adresses du navigateur, puis appuyez sur entrée. 
+4. Cliquez sur Accueil dans le menu du site du parcours d'apprentissage Microsoft 365.
+5. Collez l'URL copiée dans la barre d'adresses du navigateur, puis appuyez sur Entrée. 
 
-Comme le montre l’illustration suivante, le lien mène à la page CustomLearningViewer. aspx et affiche le contenu en fonction des paramètres du lien copié. 
+Comme le montre l'illustration suivante, le lien se rend sur la page CustomLearningViewer.aspx et affiche le contenu en fonction des paramètres du lien copié. 
 
 ![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

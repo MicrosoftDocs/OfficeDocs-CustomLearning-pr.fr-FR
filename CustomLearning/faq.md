@@ -3,23 +3,20 @@ title: FAQ sur le parcours d’apprentissage Microsoft 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/10/2019
-ms.topic: article
-manager: alexb
-audience: itpro
-description: Informations fréquemment posées sur le parcours d’apprentissage de Microsoft 365.
+description: Informations fréquemment posées sur le parcours d’apprentissage de Microsoft 365
 ms.service: sharepoint-online
-ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: d91c2710315b393eb8be3645c4fa94b32d353aa7
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749402"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000080"
 ---
 # <a name="frequently-asked-questions"></a>Foire aux questions
 
 ### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>J’ai récemment vu un billet de blog que l’apprentissage personnalisé pour Office 365 est renommé en parcours d’apprentissage Microsoft 365. D’autres modifications sont-elles ajoutées à la solution dans le cadre de l’effort de changement de nom ? Dois-je mettre à jour la solution dans mon organisation ?
 
-La publication du parcours d’apprentissage Microsoft 365 est un effort de changement de nom dédié à la modification du nom de la solution afin de s’aligner sur la marque Microsoft 365. Si vous disposez de l’apprentissage personnalisé pour Office 365 en cours d’exécution dans votre organisation, il n’est pas nécessaire de mettre à jour la solution pour le moment.  
+La publication du parcours d’apprentissage de Microsoft 365 est un effort de changement de nom dédié à la modification du nom de la solution afin de s’aligner sur la marque Microsoft 365. Si vous disposez de l’apprentissage personnalisé pour Office 365 en cours d’exécution dans votre organisation, il n’est pas nécessaire de mettre à jour la solution pour le moment.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Quelles sont les conditions requises pour l’installation du parcours d’apprentissage Microsoft 365 dans mon environnement client ?
 
@@ -35,7 +32,7 @@ La publication du parcours d’apprentissage Microsoft 365 est un effort de chan
 
 ### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>Quelles sont les implications du parcours d'apprentissage de Microsoft 365 dans une version bêta ? 
 
-Le parcours d'apprentissage de Microsoft 365 est actuellement en version bêta. Prenez en compte les considérations suivantes lorsque vous évaluez, planifiez et implémentez le parcours d'apprentissage de Microsoft 365 :
+Le parcours d'apprentissage de Microsoft 365 est actuellement en version bêta. Prenons les mesures suivantes pour évaluer, planifier et implémenter le parcours d'apprentissage microsoft 365 :
 
 - Comme pour toute solution bêta, notre équipe de gestion des services se réserve le droit d'apporter des modifications au service et à ses composants. Comme vous résolvrez activement les bogues et les problèmes d'UX, vous devrez probablement mettre à jour le webpart.
 - Pour mettre à jour le site Web Part, vous devez le télécharger à partir de notre référentiel GitHub et le télécharger dans votre catalogue d'applications client. Consultez la section « Mise à jour de la solution » du fichier [Lisez-me](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) du parcours d'apprentissage Microsoft 365. 
@@ -59,9 +56,9 @@ Le parcours d'apprentissage de Microsoft 365 est actuellement disponible uniquem
 
 En fonction de nos tests de l'installation, cela devrait prendre moins de 15 minutes. Ceci n’inclut pas le temps nécessaire pour personnaliser le site en fonction de vos besoins.
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Le parcours d'apprentissage de Microsoft 365 est-il une solution open source et quelles en sont les implications ?
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Le parcours d'apprentissage de Microsoft 365 est-il une solution open source et quelles en sont les conséquences ?
 
-Le parcours d'apprentissage de Microsoft 365 est une solution de logiciel open source (OSS) qui, en tant que telle, offre un ensemble d'avantages et de considérations qui s'ad communent à OSS :
+Le parcours d'apprentissage de Microsoft 365 est une solution de logiciel open source (OSS) qui, en tant que telle, offre un ensemble d'avantages et de considérations qui s'ad communent au système d'exploitation :
 
 #### <a name="benefits"></a>Avantages 
 - **Le parcours d'apprentissage de Microsoft 365 est une solution gratuite :** Les clients peuvent installer la solution dans leur client, la personnaliser et la mettre à la disposition des utilisateurs finaux
@@ -77,7 +74,7 @@ Le parcours d'apprentissage de Microsoft 365 est une solution de logiciel open s
 Non. Le site est basé sur un modèle de site de communication, qui est toujours destiné à être une collection de sites racine.
 
 > [!NOTE]
-> Il est important de prendre en compte les autorisations dont vos utilisateurs finaux auront besoin pour accéder au site. La plupart des organisations ont défini des groupes de sécurité ou des groupes d'utilisateurs. Vous devez ajouter les groupes de sécurité appropriés à votre nouveau portail de formation une fois que vous êtes prêt à le lancer pour votre communauté d'employés.
+> Il est important de prendre en compte les autorisations dont vos utilisateurs finaux auront besoin pour accéder au site. La plupart des organisations ont défini des groupes d'utilisateurs ou de sécurité. Vous devez ajouter les groupes de sécurité appropriés à votre nouveau portail de formation une fois que vous êtes prêt à le lancer pour votre communauté d'employés.
 
 ### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>Je dois réinstaller le site . Que dois-je faire ?
 

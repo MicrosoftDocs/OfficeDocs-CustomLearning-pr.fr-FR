@@ -4,16 +4,14 @@ ms.author: pkrebs
 title: Installation manuelle du parcours d'apprentissage
 ms.date: 02/18/2019
 manager: bpardi
-description: Installation manuelle du parcours d'apprentissage
-audience: itpro
-ms.service: o365-administration
-ms.topic: article
-ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+description: Installation manuelle des parcours d'apprentissage
+ms.service: sharepoint-online
+ms.openlocfilehash: 7dd43e7ed66b7a8fdcd40d76d9d2bcb9403ad4bb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749312"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999210"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Installation et configuration manuelles de l'apprentissage personnalisé pour Office 365
 
@@ -33,7 +31,7 @@ Vous devez avoir configuré et configuré le catalogue d'applications à l'éche
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Télécharger le partie Web Dans le catalogue d'applications client
 
-Pour configurer l'apprentissage personnalisé pour Office 365, téléchargez le fichier customlearning.sppkg dans le catalogue d'applications à l'échelle du client et déployez-le. Voir Utiliser le catalogue d'applications pour rendre des applications métier personnalisées disponibles pour votre environnement [SharePoint Online](/sharepoint/use-app-catalog) pour obtenir des instructions détaillées sur l'ajout d'une application au catalogue d'applications.
+Pour configurer l'apprentissage personnalisé pour Office 365, téléchargez le fichier customlearning.sppkg dans le catalogue d'applications à l'échelle du client et déployez-le. Pour obtenir des instructions détaillées sur l'ajout d'une application au catalogue d'applications, voir Utiliser le catalogue d'applications pour rendre des applications d'entreprise personnalisées disponibles pour votre environnement [SharePoint Online.](/sharepoint/use-app-catalog)
 
 ## <a name="provisionidentify-modern-communication-site"></a>Mise en service/identification d'un site de communication moderne
 

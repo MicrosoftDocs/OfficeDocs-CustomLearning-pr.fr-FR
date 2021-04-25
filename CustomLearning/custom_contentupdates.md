@@ -1,30 +1,33 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Mises à jour de contenu des parcours d’apprentissage
+manager: bpardi
+title: Mises à jour de contenu des parcours d'apprentissage
 ms.date: 3/30/2020
-description: Mises à jour de contenu des parcours d’apprentissage
+audience: Admin
+ms.topic: article
+description: Mises à jour de contenu des parcours d'apprentissage
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163081"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000110"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour du contenu du parcours d’apprentissage Microsoft 365
-Les parcours d’apprentissage s’efforcent d’adhérer à un cycle de mise à jour de contenu trimestrielle. Pour en savoir plus sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md) 
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Mises à jour du contenu du parcours d'apprentissage Microsoft 365
+Les parcours d'apprentissage s'efforcent d'adhérer à un cycle de mise à jour de contenu trimestrielle. Pour en savoir plus sur l'application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md) 
 
 ## <a name="march-2021-content-updates"></a>Mises à jour de contenu de mars 2021
 La liste suivante répertorie les mises à jour de contenu de mars 2021. 
 
 ### <a name="hybrid-workplace"></a>Espace de travail hybride
-Pour aider les organisations à effectuer la transition vers un espace de travail hybride, où les employés travaillent à domicile et au bureau, nous avons fourni des playlists pour aider les utilisateurs à exécuter des réunions plus efficaces, à créer des environnements de réunion inclusifs, à collaborer de manière asychrone et à atteindre un large public avec des événements en direct. La sous-catégorie de l’espace de travail hybride inclut les playlists et les ressources suivantes.
+Pour aider les organisations à effectuer la transition vers un espace de travail hybride, où les employés travaillent à domicile et au bureau, nous avons fourni des playlists pour aider les utilisateurs à exécuter des réunions plus efficaces, à créer des environnements de réunion inclusifs, à collaborer de manière asychrone et à atteindre un large public avec des événements en direct. La sous-catégorie de l'espace de travail hybride inclut les playlists et les ressources suivantes.
 
 #### <a name="run-effective-meetings"></a>Exécuter des réunions efficaces
 - Exécuter des réunions efficaces
 - Réunions hybrides
-- Considérations sur l’espace de réunion hybride
+- Considérations sur l'espace de réunion hybride
 - Que faire avant, pendant et après les réunions hybrides
 - Planifier des réunions efficaces
 - Planifier et mener des réunions efficaces
@@ -55,7 +58,7 @@ Pour aider les organisations à effectuer la transition vers un espace de travai
 - Planifier et planifier un événement en direct dans Teams
 - Organiser un live even
 
-### <a name="microsoft-teams"></a>Microsoft Teams
+### <a name="microsoft-teams"></a>Microsoft Teams
 Microsoft Teams a été mis à jour avec le contenu suivant.
 
 #### <a name="manage-meetings-playlist"></a>Gérer la playlist des réunions
@@ -94,7 +97,7 @@ La playlist Créer une approbation a été ajoutée avec les ressources suivante
 Une nouvelle sous-catégorie de listes et une nouvelle playlist ont été ajoutées au parcours d’apprentissage.
 
 #### <a name="get-started-with-lists"></a>Mise en place des listes
-La playlist De mise en forme des listes présente les nouvelles ressources suivantes.
+La playlist De mise en place des listes présente les nouvelles ressources suivantes.
 - Créer une liste à partir de l’application Listes
 - Créer une liste dans un canal Teams
 - Ajouter ou modifier des éléments de liste
@@ -115,7 +118,7 @@ La playlist Créer un formulaire et afficher les résultats a été mise à jour
 - Ajouter des sections à votre enquête ou questionnaire
 
 ### <a name="excel"></a>Excel
-Excel dans le parcours d’apprentissage a été mis à jour avec le contenu suivant.
+Excel dans les parcours d’apprentissage a été mis à jour avec le contenu suivant.
 
 #### <a name="intro-to-excel"></a>Introduction à Excel
 La playlist Introduction à Excel présente les nouvelles ressources suivantes.
@@ -166,7 +169,7 @@ Une nouvelle sous-catégorie de sécurité a été ajoutée avec des playlists e
 - Empêcher les modifications apportées aux paramètres de sécurité avec la protection contre la falsification
 
 ### <a name="get-started-with-teams-playlist"></a>Playlist « Mise en place de Teams »
-Une nouvelle playlist « Mise en route avec Teams » a été ajoutée à la sous-catégorie « Commencer/Premiers jours » pour aider les utilisateurs à se mettre en route avec Teams. La playlist inclut :
+Une nouvelle playlist « Mise en route avec Teams » a été ajoutée à la sous-catégorie « Mise en route/Premiers jours » pour aider les utilisateurs à se mettre en route avec Teams. La playlist inclut :
 - Bienvenue dans Microsoft Teams  
 - Rendre votre équipe opérationnel
 - Travailler dans des canaux  
@@ -201,7 +204,7 @@ Dans la catégorie Produits, la sous-catégorie « Office 365 Basics » a été 
 - Créer et mettre en forme un billet
 - Démarrer et épingler des conversations
 - Effectuer des appels
-- Participer à une réunion Teams
+- Rejoindre une réunion Teams
 - Conseils pour de meilleures réunions
 
 #### <a name="get-the-most-out-of-windows-playlist"></a>Playlist « En savoir plus sur Windows »
@@ -213,14 +216,14 @@ Dans la catégorie Produits, la sous-catégorie « Office 365 Basics » a été 
 - Application mobile OneDrive
 - Application mobile Outlook
 
-#### <a name="cool-microsoft-365-features-playlist"></a>Playlist « Fonctionnalités Intéressantes de Microsoft 365 »
+#### <a name="cool-microsoft-365-features-playlist"></a>Playlist « Fonctionnalités intéressantes de Microsoft 365 »
 - Concepteur PowerPoint
 - Idées dans Excel
 - Éditeur dans Word
 - Rendre votre contenu accessible
 
 ### <a name="create-a-chart-playlist-in-access"></a>Playlist « Créer un graphique » dans Access
-Une sélection « Créer une playlist de graphique » a été ajoutée à la sous-catégorie « Produits\Access ».  
+Une sélection « Créer une playlist de graphique » a été ajoutée à la sous-catégorie « Produits\Accès ».  
 - Créer un graphique en colonnes
 - Créer un graphique à barres
 - Créer un graphique en lignes
@@ -231,7 +234,7 @@ Une sélection « Créer une playlist de graphique » a été ajoutée à la sou
 La sous-catégorie « Product\Microsoft Teams » a été mise à jour avec les ressources suivantes. 
 
 #### <a name="manage-meetings-playlist"></a>Playlist « Gérer les réunions »
-- Participer à une réunion Teams
+- Rejoindre une réunion Teams
 #### <a name="work-with-posts-and-messages-playlist"></a>Playlist « Travailler avec des billets et des messages »
 - Créer et mettre en forme un billet
 
@@ -258,21 +261,21 @@ L’actif suivant a été mis à jour dans la playlist « Office pour le web : W
 Les ressources suivantes ont été mises à jour ou ajoutées aux playlists Products\PowerPoint. 
 
 #### <a name="text--tables-with-powerpoint-playlist"></a>Playlist « Tableaux & texte avec PowerPoint »
-- Modifier l’entrée manuscrite en formes, texte ou mathématiques dans PowerPoint (nouveau)
+- Modifier l'entrée manuscrite en formes, texte ou mathématiques dans PowerPoint (nouveau)
 
 #### <a name="present-slideshows-playlist"></a>Présentation de la playlist des diaporamas
 - Enregistrer une présentation (mise à jour)
 
-### <a name="office-quick-start-guides-updated"></a>Guides de démarrage rapide d’Office (mis à jour)
-Les guides de démarrage rapide d’Office pour tous les produits Office ont été mis à jour. 
+### <a name="office-quick-start-guides-updated"></a>Guides de démarrage rapide d'Office (mis à jour)
+Les guides de démarrage rapide d'Office pour tous les produits Office ont été mis à jour. 
 
-## <a name="april-2020-content-updates"></a>Mises à jour de contenu d’avril 2020
- En réponse aux événements actuels, la mise à jour du contenu d’avril 2020 fournit des playlists d’apprentissage et des ressources conçues pour permettre le travail à distance dans votre organisation. Nous avons ajouté un nouvel ensemble de playlists De travail à distance et mis à jour le contenu Microsoft Teams, en particulier pour les réunions Teams. Nous avons également ajouté un nouvel ensemble de playlists Office pour le web et de nouveaux éléments Microsoft Forms. Nous avons également fourni une liste de ressources de travail à distance pour les administrateurs.  
+## <a name="april-2020-content-updates"></a>Mises à jour de contenu d'avril 2020
+ En réponse aux événements actuels, la mise à jour du contenu d'avril 2020 fournit des playlists d'apprentissage et des ressources conçues pour permettre le travail à distance dans votre organisation. Nous avons ajouté un nouvel ensemble de playlists De travail à distance et mis à jour le contenu Microsoft Teams, en particulier pour les réunions Teams. Nous avons également ajouté un nouvel ensemble de playlists Office pour le web et de nouveaux éléments Microsoft Forms. Nous avons également fourni une liste de ressources de travail à distance pour les administrateurs.  
  
- Pour en savoir plus sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md) La liste suivante répertorie les mises à jour de contenu du parcours d’apprentissage Microsoft 365 d’avril 2020. 
+ Pour en savoir plus sur l'application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md) La liste suivante répertorie les mises à jour de contenu du parcours d'apprentissage Microsoft 365 d'avril 2020. 
 
 ### <a name="office-365-was-rebranded-to-microsoft-365"></a>Office 365 a été renommé Microsoft 365
-Office 365 a été renommé Microsoft 365. Le changement de nom est reflété dans le contenu du parcours d’apprentissage De Microsoft 365. 
+Office 365 a été renommé Microsoft 365. Le changement de nom est reflété dans le contenu du parcours d'apprentissage De Microsoft 365. 
 
 ### <a name="new-or-updated-playlists"></a>Playlists nouvelles ou mises à jour
 Les playlists suivantes ont été ajoutées ou mises à jour.  
@@ -329,7 +332,7 @@ Office pour le web fournit un ensemble de playlists pour les scénarios dans leq
 - Retour au travail
 - Fichiers recommandés
 #### <a name="outlook-for-the-web"></a>Outlook pour le web
-- Se faire connaître d’Outlook pour le Web
+- Faire connaître Outlook pour le Web
 - Créer une réponse à un e-mail
 - Organiser votre boîte de réception
 - Créer une signature et une réponse automatique
@@ -354,13 +357,13 @@ Office pour le web fournit un ensemble de playlists pour les scénarios dans leq
 - Faire connaître PowerPoint pour le Web
 - Insérer des images, des formes, et bien plus encore
 - Animations et transitions
-- Créer une présentation avec d’autres personnes
+- Créer une présentation avec d'autres personnes
 - Lorsque vous êtes prêt à présenter
 - Conception de diapositives
 #### <a name="share-your-documents"></a>Partager vos documents
 - Partager vos documents
 - Créer un lien partageable
-- Sécuriser vos documents uniquement pour des personnes spécifiques
+- Sécurisation de vos documents uniquement pour des personnes spécifiques
 - Partager avec une personne extérieure à votre organisation 
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
@@ -368,37 +371,37 @@ Sur demande, il existe également de nouvelles ressources Forms.
 #### <a name="forms-four-new-assets"></a>Formulaires (quatre nouvelles ressources) 
 - Créer un formulaire 
 - Partager un formulaire 
-- Afficher les résultats d’un formulaire 
+- Afficher les résultats d'un formulaire 
 - Questions fréquemment posées sur Microsoft Forms 
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>Ressources pour la prise en charge de votre personnel distant
-Vous pouvez utiliser les parcours d’apprentissage pour créer une page d’accueil dans votre site de parcours d’apprentissage pour la prise en charge des travailleurs à distance. Vous pouvez également ajouter le volet Web Du parcours d’apprentissage à une page de support existante sur votre site de parcours d’apprentissage et filtrer le site Web Pour afficher les playlists Travail à distance. Voici une liste des principales ressources de Microsoft pour la prise en charge du travail à distance dans votre organisation. 
+Vous pouvez utiliser les parcours d'apprentissage pour créer une page d'accueil dans votre site de parcours d'apprentissage pour la prise en charge des travailleurs à distance. Vous pouvez également ajouter le volet Web Du parcours d'apprentissage à une page de support existante sur votre site de parcours d'apprentissage et filtrer le site Web Pour afficher les playlists Travail à distance. Voici une liste des principales ressources de Microsoft pour la prise en charge du travail à distance dans votre organisation. 
 - [Comment déployer Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
 - [Réunions et conférences dans Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Prise en charge des travailleurs à distance à l’aide de Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Prise en charge des travailleurs à distance à l'aide de Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
 - [Forum aux questions : soutenir vos employés en télétravail](/microsoftteams/faq-support-remote-workforce)
-- [Les 9 principales méthodes d’activation du travail à distance par l’équipe de l’équipe microsoft pour ses employés](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
+- [Les 9 principales méthodes d'activation du travail à distance par l'équipe de l'équipe microsoft pour ses employés](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
 - [Formation Microsoft Teams](/microsoftteams/training-microsoft-teams-landing-page)
-- [Éducation : Centre d’enseignement Microsoft](https://education.microsoft.com) 
-- [Éducation : mise en place de l’apprentissage à distance](https://education.microsoft.com/resource/4c0c02c0)
+- [Éducation : Centre d'enseignement Microsoft](https://education.microsoft.com) 
+- [Éducation : mise en place de l'apprentissage à distance](https://education.microsoft.com/resource/4c0c02c0)
 
-Pour plus d’informations sur la personnalisation des parcours d’apprentissage, voir [Personnaliser les parcours d’apprentissage.](custom_overview.md) 
+Pour plus d'informations sur la personnalisation des parcours d'apprentissage, voir [Personnaliser les parcours d'apprentissage.](custom_overview.md) 
 
 ## <a name="november-2019-content-updates"></a>Mises à jour de contenu de novembre 2019
-Bienvenue dans la mise à jour du contenu du parcours d’apprentissage Microsoft 365. À compter de notre mise à jour de novembre 2019, nous fournirons un inventaire mis à jour du catalogue de parcours d’apprentissage tous les trimestres. Pour la mise à jour de novembre 2019, les nouvelles sous-catégories et playlists de contenu suivantes ont été ajoutées au catalogue des parcours d’apprentissage. Pour en savoir plus sur l’application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md)    
+Bienvenue dans la mise à jour du contenu du parcours d'apprentissage Microsoft 365. À compter de notre mise à jour de novembre 2019, nous fournirons un inventaire mis à jour du catalogue de parcours d'apprentissage tous les trimestres. Pour la mise à jour de novembre 2019, les nouvelles sous-catégories et playlists de contenu suivantes ont été ajoutées au catalogue des parcours d'apprentissage. Pour en savoir plus sur l'application des mises à jour de contenu et la gestion des mises à jour de contenu, voir Gérer les mises [à jour de contenu.](custom_contentupdatesmanage.md)    
 
 ### <a name="teams"></a>Teams
 Plusieurs nouvelles playlists ont été ajoutées à la sous-catégorie Teams.
 - Travailler avec des billets et des messages (quatre ressources)
 - Télécharger et rechercher des fichiers (deux ressources)
 - Configurer et participer à des événements en direct (quatre ressources)
-- Gérer votre flux d’activités (deux ressources)
+- Gérer votre flux d'activités (deux ressources)
 - Teams en cours (deux ressources)
 
 ### <a name="microsoft-365-success-center"></a>Centre de réussite Microsoft 365
-Nous avons ajouté une sous-catégorie du Centre de réussite des parcours d’apprentissage Microsoft 365 à l’expérience du parcours d’apprentissage. Le Centre de réussite fournit les playlists suivantes.
-- Nouveautés, ce qui a changé (trois ressources)
-- Planifier votre contenu d’apprentissage (deux ressources)
+Nous avons ajouté une sous-catégorie du Centre de réussite des parcours d'apprentissage Microsoft 365 à l'expérience du parcours d'apprentissage. Le Centre de réussite fournit les playlists suivantes.
+- Nouveautés, nouveautés (trois ressources)
+- Planifier votre contenu d'apprentissage (deux ressources)
 - Personnaliser le parcours d’apprentissage (huit ressources ?)
 - Stimuler l’adoption des parcours d’apprentissage (un des éléments)
 - Mesurer l’impact des parcours d’apprentissage (un seul bien)
@@ -434,7 +437,7 @@ La sous-catégorie Sway du contenu a été ajoutée avec les playlists suivantes
 - Ajouter du contenu à Sway (11 ressources)
 - Personnaliser Sway (cinq ressources)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Démarrage rapide d’Access (quatre ressources)
 - Introduction à Access (trois ressources)
 - Créer une base de données Access (deux ressources)

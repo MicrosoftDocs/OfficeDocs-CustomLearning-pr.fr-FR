@@ -1,38 +1,38 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Masquage et affichage des playlists
+title: Masquer et afficher les playlists
 ms.date: 10/27/2019
-description: Masquage et affichage des playlists
-ms.service: sharepoint online
-ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Masquer et afficher les playlists
+ms.service: sharepoint-online
+ms.openlocfilehash: de82c64eae124af3d8216a256e47bccc9eb4d992
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234326"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999690"
 ---
 # <a name="hide-and-show-playlists"></a>Masquer et afficher les playlists
 
-Pour personnaliser les voies d’apprentissage pour votre environnement, vous pouvez masquer les playlists fournies par Microsoft. 
+Pour adapter les parcours d'apprentissage à votre environnement, vous pouvez masquer les playlists fournies par Microsoft. 
 
-- Vous pouvez masquer une liste de lecture comme commencer par six étapes simples et la remplacer par une sélection personnalisée que vous créez pour votre organisation.
-- Vous pouvez masquer une sélection pour un produit si la liste de sélection couvre les fonctionnalités non prises en charge dans votre organisation. Par exemple, si Microsoft teams n’est pas configuré pour des appels ou des réunions, vous pouvez masquer la sélection **Démarrer les conversations, les appels et les réunions** . 
+- Vous pouvez masquer une playlist telle que Démarrer avec six étapes simples et la remplacer par une playlist personnalisée que vous créez pour votre organisation.
+- Vous pouvez masquer une playlist pour un produit si la playlist couvre des fonctionnalités non pris en charge dans votre organisation. Par exemple, si Microsoft Teams n'est pas configuré pour les appels ou les réunions, vous pouvez masquer la playlist de **conversations,** d'appels et de réunions de démarrage. 
 
 ## <a name="hide-a-playlist"></a>Masquer une playlist
 
-1. Sur la page d' **Accueil** des chemins d’apprentissage, cliquez sur la vignette de **formation Office 365** .
-2. Dans le composant WebPart voies d’apprentissage, sélectionnez l’icône **administrer** . 
-3. Dans le volet de gauche de la page d' **administration** , sélectionnez une sous-catégorie, puis sélectionnez l’œil d’une sélection pour la masquer. Pour cet exemple, cliquez sur la sous-catégorie **Microsoft teams** , puis masquez la sélection * * * * démarrer les conversations, les appels et les réunions * *.  
+1. Dans la **page** d'accueil du parcours d'apprentissage, cliquez sur la vignette de formation Office **365.**
+2. Dans le volet Web Du parcours d'apprentissage, sélectionnez **l'icône Administrer.** 
+3. Dans le volet gauche de la page **Administration,** sélectionnez une sous-catégorie, puis sélectionnez le eyeball d'une playlist pour la masquer. Pour cet exemple, cliquez sur la sous-catégorie **Microsoft Teams,** puis masquez la playlist ****Démarrer des conversations, des appels et des réunions**.  
 
 ![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Vérifier que la playlist est masquée
-- Pour vérifier que la sélection est masquée, sélectionnez l’onglet navigateur avec la page **prise en main de Office 365** chargée, puis actualisez la page. Sélectionnez Microsoft Teams. Vous devez maintenant voir la sous-catégorie **Démarrer les conversations, les appels et les réunions** est masquée. 
+- Pour vérifier que la playlist est masquée, sélectionnez l'onglet du navigateur avec la page Démarrer avec **Office 365** chargée, puis actualisez la page. Sélectionnez Microsoft Teams. La sous-catégorie Démarrer les **conversations,** les appels et les réunions doit maintenant être masquée. 
 
 ![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
-## <a name="unhide-a-playlist"></a>Afficher une playlist
+## <a name="unhide-a-playlist"></a>Unhide a playlist
 
-- À partir de la page **CAdministration** , sélectionnez une sous-catégorie, sélectionnez une sélection, puis sélectionnez l’œil de la playlist masquée pour l’afficher. Pour cet exemple, affichez la playlist Microsoft teams ***Démarrer les conversations, les appels et les réunions** .   
+- Dans la page **CAdministration,** sélectionnez une sous-catégorie, sélectionnez une sélection, puis sélectionnez le eyeball de la playlist masquée pour la démasquer. Pour cet exemple, démaschez Microsoft Teams * Démarrer des *_conversations, des appels et des playlists de_* réunions.   
 

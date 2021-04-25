@@ -1,19 +1,8 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: Mises à jour des fonctionnalités du parcours d'apprentissage
-ms.date: 4/13/2021
-description: Mises à jour des fonctionnalités du parcours d'apprentissage
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755280"
----
+author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13/4/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online
+
 # <a name="learning-pathways-version-40-feature-updates"></a>Mises à jour des fonctionnalités du parcours d'apprentissage version 4.0
-Les fonctionnalités suivantes sont mises à jour pour le parcours d'apprentissage version 4.0.  
+Les mises à jour des fonctionnalités du parcours d'apprentissage version 4.0 sont les suivantes.  
 
 ## <a name="march-2021-feature-updates"></a>Mises à jour des fonctionnalités de mars 2021
 Les mises à jour des fonctionnalités de mars 2021 incluent la prise en charge multilingue du néerlandais et la disponibilité du code du site Web Part du parcours d'apprentissage en tant qu'open source. 
@@ -56,14 +45,14 @@ Pour plus d'informations, voir [Présentation multilingue du parcours d'apprenti
 
 ## <a name="sort-subcategories-and-playlists"></a>Trier les sous-catégories et sélections
 
-Vous pouvez maintenant trier les sous-catégories et les sélections dans le parcours d'apprentissage. Par exemple, si vous ajoutez une playlist personnalisée à une sous-catégorie, vous pouvez trier les playlists afin que la playlist personnalisée apparaisse en premier dans l'ordre de tri. 
+Vous pouvez maintenant trier les sous-catégories et les sélections dans le parcours d'apprentissage. Par exemple, si vous ajoutez une playlist personnalisée à une sous-catégorie, vous pouvez trier les playlists de sorte que la playlist personnalisée apparaisse en premier dans l'ordre de tri. 
 
-Pour plus d'informations, [voir Les sous-catégories de tri et les playlists.](custom_sortsubplay.md) 
+Pour plus d'informations, [voir Trier les sous-catégories et les playlists.](custom_sortsubplay.md) 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>S picker d'image pour les sous-catégories personnalisées des parcours d'apprentissage 
 Le parcours d'apprentissage fournit désormais un sériculeur d'image facile à utiliser pour les sélections et sous-catégories personnalisées.  Dans les versions précédentes, vous pouviez modifier l'image d'une playlist, mais pas une sous-catégorie.  
 
-Pour plus d'informations, voir :
+Pour plus d’informations, consultez :
 - [Créez une playlist personnalisée.](custom_createnewplaylist.md) 
 - [Créer une sous-catégorie](custom_createnewcat.md)
 
@@ -73,7 +62,7 @@ En grande partie sur la base des commentaires des clients, les nouvelles fonctio
 ### <a name="content-updates-and-editorial-calendar"></a>Mises à jour de contenu et calendrier éditorial
 L'une des promesses du parcours d'apprentissage est le contenu à jour. À cette fin, nous avons fourni notre première mise à jour trimestrielle de contenu de novembre 2019 avec une variété de nouvelles sous-catégories, playlists et ressources. Les mises à jour de contenu sont communiquées dans nos articles de mise à jour du contenu dans notre playlist Nouveautés/Nouveautés. Les mises à jour trimestrielles du contenu du parcours d'apprentissage sont également consultables ici : Pour obtenir de l'aide générale sur Office, consultez les mises à jour de contenu de novembre [2019.](custom_contentupdates.md)
 
-### <a name="learning-pathways-admin-success-center"></a>Parcours d'apprentissage Centre de réussite d'administration
+### <a name="learning-pathways-admin-success-center"></a>Parcours d'apprentissage Centre de réussite de l'administrateur
 Nous avons ajouté un Centre de réussite d'administration du parcours d'apprentissage Microsoft 365 pour aider les administrateurs et les propriétaires de collections de sites à tirer le meilleur partie du parcours d'apprentissage. Le Centre de réussite de l'administrateur fournit des liens vers des ressources de planification et d'adoption et fournit des conseils sur la planification, la personnalisation, la conduite de l'adoption et la mesure de l'impact des parcours d'apprentissage. Pour plus d'informations, [voir Centre de réussite de l'administrateur.](custom_successcenter.md)
 
 ## <a name="playlist-navigation"></a>Navigation de sélection
