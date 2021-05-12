@@ -1,17 +1,18 @@
 ---
 title: Meilleures pratiques du programme Champion - Aide du monde réel
-description: Stimuler l’adoption d’Office 365 avec nos meilleures pratiques du programme Champion
+description: Conseils réels pour votre programme Microsoft 365 Champions.
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
+manager: alexb
 ms.service: sharepoint-online
-ms.openlocfilehash: cb36c3685d0e561441970ca0bcf09ccedab3df39
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: c96d9d875ace3f8da147a44a8562556d8557bede
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999880"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334578"
 ---
 # <a name="real-world-guidance-for-your-champions-program"></a>Conseils réels pour votre programme Champions
 

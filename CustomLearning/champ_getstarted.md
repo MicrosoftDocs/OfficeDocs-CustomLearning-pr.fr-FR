@@ -1,19 +1,20 @@
 ---
-title: Meilleures pratiques du programme Champion
-description: Stimuler l’adoption d’Office 365 avec nos meilleures pratiques du programme Champion
+title: 'Meilleures pratiques du programme Champion : établir des champions pour l’adoption par les utilisateurs'
+description: Nos meilleures pratiques du programme Champion contribuent à stimuler l’adoption d’Office 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999930"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334588"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Établir des champions de l’adoption par les utilisateurs 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>Meilleures pratiques du programme Champion : établir des champions pour l’adoption par les utilisateurs
 
 La gestion des changements organisationnels est l’art de modifier le comportement d’un groupe ciblé de personnes. Il existe une grande partie de la recherche et de la science qui appuient cette pratique. Dans ces articles, nous allons vous aider à stimuler l’adoption de services clés qui entraîneront des résultats commerciaux dans votre entreprise.  Le fait de suivre nos meilleures pratiques raccourcit votre temps pour obtenir une valeur mesurable à partir d’Office 365.  
 
@@ -24,7 +25,7 @@ Un programme de champions est un élément essentiel de l’adoption. Ces influe
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>Qui sont les champions et qu’est-ce qui les fait tiquer ?
 
-Les champions ne sont pas seulement ravis de ce qu’ils font, mais ils sont également ravis de partager leurs connaissances et d’aider leurs collègues à découvrir des solutions plus efficaces. Les champions sont enthousiastes et souvent frustrés par les outils existants. Ils vous aideront à relever le défi du watercooler !  
+Les champions ne sont pas seulement ravis de ce qu’ils font, mais ils sont également ravis de partager leurs connaissances et d’aider leurs collègues à découvrir des solutions plus efficaces. Les champions sont enthousiastes et souvent frustrés par les outils existants. Ils vous aideront à relever le défi de l’eau.  
 
 Nous pensons qu’il est important de mettre en avant les champions de manière significative. Quelques suggestions sont les suivantes :
 
@@ -44,7 +45,7 @@ L’apprentissage par l’intermédiaire de collègues est l’une des méthodes
 
 Les champions vous aideront à réduire la contrainte sur les ressources de l’équipe de projet principale et à stimuler l’engagement au sein de la communauté. Elles sont également :
 
-1. Créez un niveau d’enthousiasme qui augmente l’adoption de méthodes de travail améliorées
+1. Créer un niveau d’enthousiasme qui augmente l’adoption de méthodes de travail améliorées
 1. Créer un cercle d’influence entre leurs équipes
 1. Apporter les nouvelles façons de travailler dans les équipes
 1. Identifier les défis de l’entreprise et les solutions possibles
