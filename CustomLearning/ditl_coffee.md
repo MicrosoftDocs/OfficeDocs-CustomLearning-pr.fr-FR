@@ -1,17 +1,18 @@
 ---
-title: Journée dans la vie avec Office 365 - Café du matin
-description: Étapes rapides pour être prêt pour la journée avec Office 365
+title: Day in the Life with Office 365 - Morning Coffee
+description: Étapes rapides pour être prêt pour la journée en cours avec Office 365
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: f0249a5f86e3ba99d1e53e7e9dc51d8cb5007c11
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 3ca4bda9117df25080c97d35ffb73ee4c13c86db
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000100"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575939"
 ---
 # <a name="during-morning-coffee"></a>Pendant le café du matin
 

@@ -1,6 +1,19 @@
 ---
-author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13/04/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online manager: bp reporting ms.topic: article
-
+author: pkrebs
+ms.author: pkrebs
+title: Mises à jour des fonctionnalités du parcours d’apprentissage
+ms.date: 4/13/2021
+description: Mises à jour des fonctionnalités du parcours d’apprentissage
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: ee166cd113acd969efcf0fdec6626a1d6b00ec29
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575959"
+---
 # <a name="learning-pathways-version-40-feature-updates"></a>Mises à jour des fonctionnalités du parcours d’apprentissage version 4.0
 Les fonctionnalités suivantes sont mises à jour pour le parcours d’apprentissage version 4.0.  
 
@@ -52,7 +65,7 @@ Pour plus d’informations, [voir Les sous-catégories de tri et les playlists.]
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>S picker d’image pour les sous-catégories personnalisées des parcours d’apprentissage 
 Le parcours d’apprentissage fournit désormais un sériculeur d’image facile à utiliser pour les sélections et sous-catégories personnalisées.  Dans les versions précédentes, vous pouviez modifier l’image d’une playlist, mais pas une sous-catégorie.  
 
-Pour plus d’informations, voir :
+Pour plus d'informations, voir :
 - [Créez une playlist personnalisée.](custom_createnewplaylist.md) 
 - [Créer une sous-catégorie](custom_createnewcat.md)
 
@@ -74,6 +87,6 @@ Dans certains cas, la vidéo d’une sélection s’affiche sous la zone d’aff
 ## <a name="copy-a-playlist"></a>Copier une playlist
 De nombreux clients ont exprimé la nécessité de modifier seulement quelques éléments simples dans une playlist fournie par Microsoft, sans avoir besoin de créer une playlist entièrement nouvelle. Par exemple, une demande courante du client consiste à supprimer une étape de la playlist Démarrer avec six étapes simples. Vous pouvez maintenant copier une playlist à partir d’une playlist existante, y compris une playlist du catalogue Microsoft, puis modifier cette playlist. Par exemple, vous pouvez maintenant copier six étapes simples, supprimer 3 étapes et transformer la playlist en 3 étapes simples. Pour plus d’informations, voir [Copier une playlist.](custom_copyplaylist.md)
 
-## <a name="multi-content-pack-support"></a>Prise en charge des packs de contenu multiples
+## <a name="multi-content-pack-support"></a>Prise en charge du pack de contenu multiple
 Conçu pour Microsoft 365 de parcours d’apprentissage pour les partenaires et les administrateurs ayant de l’expérience en matière d’administration de contenu web, la prise en charge de contenu multiple permet à un partenaire ou à un administrateur d’intégrer un ensemble de contenu personnalisé dans Microsoft 365 parcours d’apprentissage. Pour plus d’informations, voir [le Guide du partenaire.](custom_partnerguide.md)
 
