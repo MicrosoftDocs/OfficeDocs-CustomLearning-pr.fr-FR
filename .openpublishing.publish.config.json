@@ -17,13 +17,17 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": ["mor-oitac-eng@moravia.com"],
+  "notification_subscribers": [
+    "mor-oitac-eng@moravia.com"
+  ],
   "sync_notification_subscribers": [],
-  "branches_to_filter": ["live"],
+  "branches_to_filter": [
+    "live"
+  ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning",
   "git_repository_branch_open_to_public_contributors": "public",
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
+  "need_preview_pull_request": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
