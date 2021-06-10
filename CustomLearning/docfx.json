@@ -38,6 +38,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ocv-translation-feedback": true,
       "breadcrumb_path": "/Office365/CustomLearning/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": [
